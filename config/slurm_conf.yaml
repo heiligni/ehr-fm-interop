@@ -1,0 +1,4 @@
+ntasks: 8
+cpus_per_task: 1
+partition: "single"
+mem_per_cpu: "6000mb"

@@ -1,0 +1,51 @@
+
+meds_path: "mimic_meds_extended_2.2"
+output_path: "pretraining_lab"
+ws_name: "clmbr"
+vocab_path: "athena_vocab"
+metadata_path: "mapping-metadata/metadata.json"
+
+
+# Stages
+test: False
+clean: True
+subsample: True 
+split: True
+ontology: True
+prepare_pretrain: True
+pretrain: True
+preprocess: True
+label: [
+  "long_los:biased_admission_types:random_admission",
+  "long_los:random_admission",
+  "long_los",
+  "mortality:biased_admission_types:random_admission",
+  "mortality:random_admission",
+  "mortality",
+  "hyperlipidemia_eos",
+  "hyperlipidemia_ny",
+  "ckd_eos",
+  "ckd_ny",
+  "aki_eos",
+  "aki_ny",
+]
+featurize: True
+train_adapter: True
+eval: True
+
+filter_function: "admission_length"
+sample_size: 44_055
+test_frac: 0.15
+val_frac: 0.15
+slurm_config: "/home/ma/ma_ma/ma_nheilig/thesis/config/slurm_conf.yaml"
+demo_mode: False
+num_procs: 16
+
+transformer:
+  model: "CLMBR-T-lab"
+  n_layer: 12
+  hidden_size: 768
+  intermediate_size: 3072
+  n_head: 12
+  vocab_size: 8192
+  learning_rate: [1e-4, 1e-5, 1e-6, 1e-7, 1e-8]

@@ -1,0 +1,31 @@
+
+meds_path: "/home/niclas/Dokumente/thesis-daten/mimic_meds_extended_demo"
+output_path: "/home/niclas/Dokumente/thesis-daten/demo_results"
+vocab_path: "/home/niclas/Dokumente/thesis-daten/athena_vocab"
+metadata_path: "/home/niclas/Dokumente/thesis-daten/mapping-metadata/metadata.json"
+
+
+# Stages
+test: False
+clean: True
+subsample: True
+split: True
+prepare_pretrain: False
+pretrain: False
+ontology: True
+preprocess: True
+label: [
+  "long_los",
+]
+featurize: True
+train_adapter: True
+eval: True
+
+filter_function: "admission_length"
+sample_size: 99
+test_frac: 0.15
+val_frac: 0.15
+
+
+transformer:
+  model: "CLMBR-T-base"

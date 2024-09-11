@@ -1,0 +1,34 @@
+
+meds_path: "mimic_meds_2.2"
+output_path: "biased_cohort"
+ws_name: "clmbr"
+vocab_path: "athena_vocab"
+
+# Stages
+test: False
+clean: True
+subsample: True
+split: True
+ontology: True
+preprocess: True
+prepare_pretrain: False
+pretrain: False
+label: [
+  "long_los:biased_admission_types:random_admission",
+  "long_los:random_admission",
+  "mortality:biased_admission_types:random_admission",
+  "mortality:random_admission",
+]
+featurize: True
+train_adapter: True
+eval: True
+
+filter_function: "admission_type"
+test_frac: 0.15
+val_frac: 0.15
+slurm_config: "/home/ma/ma_ma/ma_nheilig/thesis/config/slurm_conf.yaml"
+demo_mode: False
+num_procs: 16
+
+transformer:
+  model: "CLMBR-T-base"

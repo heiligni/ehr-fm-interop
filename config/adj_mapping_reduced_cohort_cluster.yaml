@@ -1,0 +1,45 @@
+
+meds_path: "mimic_meds_2.2"
+output_path: "adjusted_mapping_reduced_cohort"
+ws_name: "clmbr"
+vocab_path: "athena_vocab"
+metadata_path: "mapping-metadata/metadata.json"
+
+
+# Stages
+test: False
+clean: True
+subsample: True
+split: True
+ontology: True
+prepare_pretrain: False
+pretrain: False
+preprocess: True
+label: [
+  "long_los:biased_admission_types:random_admission",
+  "long_los:random_admission",
+  "long_los",
+  "mortality:biased_admission_types:random_admission",
+  "mortality:random_admission",
+  "mortality",
+  "hyperlipidemia_eos",
+  "hyperlipidemia_ny",
+  "ckd_eos",
+  "ckd_ny",
+  "aki_eos",
+  "aki_ny",
+]
+featurize: True
+train_adapter: True
+eval: True
+
+filter_function: "admission_length"
+sample_size: 44_055
+test_frac: 0.15
+val_frac: 0.15
+slurm_config: "/home/ma/ma_ma/ma_nheilig/thesis/config/slurm_conf.yaml"
+demo_mode: False
+num_procs: 16
+
+transformer:
+  model: "CLMBR-T-base"

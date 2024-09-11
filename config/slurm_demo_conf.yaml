@@ -1,0 +1,6 @@
+ntasks: 8
+cpus_per_task: 1
+output: '/home/ma/ma_ma/ma_nheilig/logs/%x_%A_%a.out'
+error: '/home/ma/ma_ma/ma_nheilig/logs/%x_%A_%a.err'
+partition: "dev_single"
+mem_per_cpu: "4000mb"
