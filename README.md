@@ -12,7 +12,7 @@ conda activate ENV_NAME
 pip install femr
 
 
-Parts of the code are taken from https://github.com/sungresearch/femr-on-mimic
+Parts of the code are inspired by https://github.com/sungresearch/femr-on-mimic
 
 The requirements.txt file contains all required packages to run the provided code. 
 
@@ -57,6 +57,16 @@ source ~/thesis_env/bin/activate
 
 Run the demo on the cluster
 ```bash
-python scripts/run_pipeline.py --config-path ~/thesis/config/demo_cluster.yaml
+python scripts/run_pipeline.py --config-path ~/path_to_this_repo/config/demo_cluster.yaml
 ```
 
+### Run Local
+The file scripts/run_pipeline.py can be used to execute the whole pipeline. It takes the path to a config file as input if no SLURM config is defined in the file, it executed the pipeline locally. The config file decides which steps should be executed. Furthermore, the individual scripts for the pipeline are placed in the scripts directoy. This allows to individually execute a pipeline step without needing to run the complete pipeline or understand the run_pipeline.py file.
+
+Run the demo pipeline
+```bash
+python scripts/run_pipeline.py --config-path ~/path_to_this_repo/config/demo_conf.yaml
+```
+
+### Notebooks
+We did not include the outputs of the notebooks as this would risk to expose parts of the MIMIC-IV database to the public. Therefore, all output cells were cleared before uploading.
