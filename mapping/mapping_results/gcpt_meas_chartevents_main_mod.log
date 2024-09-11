@@ -1,0 +1,56 @@
+Mapping file: gcpt_meas_chartevents_main_mod.csv
+
+Found 48 relevant mappings in tokenizer. Please try to manually map this file!!!
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+220045                                                       Measurement                                                  3027018                                                     
+220050                                                       Measurement                                                  3004249                                                     
+220051                                                       Measurement                                                  3012888                                                     
+220052                                                       Measurement                                                  3027598                                                     
+220074                                                       Measurement                                                  21490675                                                    
+220210                                                       Measurement                                                  3024171                                                     
+220224                                                       Measurement                                                  3027801                                                     
+220228                                                       Measurement                                                  3000963                                                     
+220235                                                       Measurement                                                  3027946                                                     
+220545                                                       Measurement                                                  3009542                                                     
+220602                                                       Measurement                                                  3014576                                                     
+220615                                                       Measurement                                                  3016723                                                     
+220621                                                       Measurement                                                  3004501                                                     
+220645                                                       Measurement                                                  3019550                                                     
+223761                                                       Measurement                                                  3020891                                                     
+223762                                                       Measurement                                                  3020891                                                     
+223795                                                       Procedure                                                    4021323                                                     
+223830                                                       Measurement                                                  3019977                                                     
+223835                                                       Measurement                                                  3020716                                                     
+224013                                                       Measurement                                                  3016251                                                     
+224016                                                       Measurement                                                  3027162                                                     
+224167                                                       Measurement                                                  3004249                                                     
+224359                                                       Measurement                                                  3026258                                                     
+224642                                                       Observation                                                  3024265                                                     
+224643                                                       Measurement                                                  3012888                                                     
+224690                                                       Measurement                                                  3024171                                                     
+224697                                                       Measurement                                                  42527086                                                    
+224828                                                       Measurement                                                  3003396                                                     
+224876                                                       Measurement                                                  3007876                                                     
+225085                                                       Condition                                                    4295261                                                     
+225106                                                       Condition                                                    433753                                                      
+225309                                                       Measurement                                                  3004249                                                     
+225310                                                       Measurement                                                  3012888                                                     
+225312                                                       Measurement                                                  3027598                                                     
+225624                                                       Measurement                                                  3004295                                                     
+225667                                                       Measurement                                                  3021119                                                     
+225668                                                       Measurement                                                  3018405                                                     
+226512                                                       Measurement                                                  3025315                                                     
+226531                                                       Measurement                                                  3025315                                                     
+226707                                                       Measurement                                                  3036277                                                     
+226730                                                       Measurement                                                  3036277                                                     
+226754                                                       Measurement                                                  3020716                                                     
+227010                                                       Measurement                                                  3020716                                                     
+227073                                                       Measurement                                                  3039000                                                     
+227242                                                       Measurement                                                  3012888                                                     
+227243                                                       Measurement                                                  3004249                                                     
+227442                                                       Measurement                                                  3023103                                                     
+229687                                                       Procedure                                                    4021323                                                     

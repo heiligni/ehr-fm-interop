@@ -1,0 +1,13 @@
+Mapping file: gcpt_per_ethnicity.csv
+
+Found 5 relevant mappings in tokenizer. Adding to brute force mapping list
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+ASIAN                                                        Race                                                         8515                                                        
+WHITE                                                        Race                                                         8527                                                        
+BLACK/AFRICAN AMERICAN                                       Race                                                         8516                                                        
+AMERICAN INDIAN/ALASKA NATIVE                                Race                                                         8657                                                        
+HISPANIC/LATINO                                              Ethnicity                                                    38003563                                                    

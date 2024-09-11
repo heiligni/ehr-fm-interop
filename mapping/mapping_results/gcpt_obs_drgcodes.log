@@ -1,0 +1,19 @@
+Mapping file: gcpt_obs_drgcodes.csv
+
+Found 11 relevant mappings in tokenizer. Please try to manually map this file!!!
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+Abdominal Pain                                               Observation                                                  200219                                                      
+Acute Leukemia                                               Observation                                                  138708                                                      
+Acute Major Eye Infections                                   Observation                                                  4134613                                                     
+Acute Myocardial Infarction                                  Observation                                                  312327                                                      
+Acute & Subacute Endocarditis                                Observation                                                  4108805                                                     
+Alcoholic Liver Disease                                      Observation                                                  201612                                                      
+Allergic Reactions                                           Observation                                                  40589905                                                    
+Cardiomyopathy                                               Observation                                                  321319                                                      
+Heart Failure                                                Observation                                                  316139                                                      
+Intestinal Obstruction                                       Observation                                                  193518                                                      
+Transurethral Prostatectomy                                  Observation                                                  4234536                                                     

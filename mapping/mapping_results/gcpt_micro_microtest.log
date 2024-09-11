@@ -1,0 +1,39 @@
+Mapping file: gcpt_micro_microtest.csv
+
+Found 31 relevant mappings in tokenizer. Please try to manually map this file!!!
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+70073                                                        Measurement                                                  4300293                                                     
+70076                                                        Measurement                                                  4300293                                                     
+70091                                                        Measurement                                                  4296650                                                     
+90039                                                        Measurement                                                  4024509                                                     
+90046                                                        Measurement                                                  4189544                                                     
+90055                                                        Measurement                                                  4035228                                                     
+90092                                                        Measurement                                                  4035113                                                     
+90093                                                        Measurement                                                  4036044                                                     
+90110                                                        Measurement                                                  4024509                                                     
+90117                                                        Measurement                                                  4036044                                                     
+90139                                                        Measurement                                                  4035113                                                     
+90149                                                        Measurement                                                  4036044                                                     
+90178                                                        Measurement                                                  4165398                                                     
+90186                                                        Measurement                                                  4046245                                                     
+90189                                                        Measurement                                                  4296650                                                     
+90201                                                        Measurement                                                  4107893                                                     
+90202                                                        Measurement                                                  4107893                                                     
+90233                                                        Measurement                                                  4327663                                                     
+90243                                                        Measurement                                                  4045656                                                     
+90245                                                        Measurement                                                  4036044                                                     
+90252                                                        Measurement                                                  4130349                                                     
+90256                                                        Measurement                                                  4047154                                                     
+90258                                                        Measurement                                                  4035113                                                     
+90260                                                        Measurement                                                  4035113                                                     
+90261                                                        Measurement                                                  4036044                                                     
+90265                                                        Measurement                                                  4165398                                                     
+90267                                                        Measurement                                                  4024963                                                     
+90268                                                        Measurement                                                  4024510                                                     
+90269                                                        Measurement                                                  4165398                                                     
+90272                                                        Measurement                                                  4300293                                                     
+90935                                                        Measurement                                                  4130349                                                     

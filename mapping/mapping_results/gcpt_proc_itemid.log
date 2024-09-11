@@ -1,0 +1,73 @@
+Mapping file: gcpt_proc_itemid.csv
+
+Found 65 relevant mappings in tokenizer. Please try to manually map this file!!!
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+221214                                                       Procedure                                                    4300757                                                     
+221216                                                       Procedure                                                    4056681                                                     
+221217                                                       Procedure                                                    4037672                                                     
+221219                                                       Procedure                                                    4175809                                                     
+221223                                                       Procedure                                                    4181917                                                     
+221255                                                       Procedure                                                    4019824                                                     
+223253                                                       Procedure                                                    4013636                                                     
+224263                                                       Procedure                                                    4052413                                                     
+224264                                                       Procedure                                                    4322380                                                     
+224267                                                       Procedure                                                    4052413                                                     
+224268                                                       Procedure                                                    4052413                                                     
+224385                                                       Procedure                                                    4013354                                                     
+225199                                                       Procedure                                                    4052413                                                     
+225202                                                       Procedure                                                    4174447                                                     
+225204                                                       Procedure                                                    4322380                                                     
+225399                                                       Procedure                                                    4080549                                                     
+225400                                                       Procedure                                                    4032404                                                     
+225401                                                       Procedure                                                    4107893                                                     
+225402                                                       Procedure                                                    4163951                                                     
+225427                                                       Procedure                                                    4299523                                                     
+225430                                                       Procedure                                                    4148369                                                     
+225432                                                       Procedure                                                    4335825                                                     
+225433                                                       Procedure                                                    4141919                                                     
+225434                                                       Procedure                                                    4249893                                                     
+225437                                                       Procedure                                                    4014499                                                     
+225439                                                       Procedure                                                    4313889                                                     
+225440                                                       Procedure                                                    4195288                                                     
+225442                                                       Procedure                                                    4314001                                                     
+225443                                                       Procedure                                                    4155794                                                     
+225444                                                       Procedure                                                    4107893                                                     
+225445                                                       Procedure                                                    4231419                                                     
+225446                                                       Procedure                                                    4122234                                                     
+225447                                                       Procedure                                                    4046266                                                     
+225449                                                       Procedure                                                    4149930                                                     
+225450                                                       Procedure                                                    4205728                                                     
+225454                                                       Procedure                                                    4024509                                                     
+225457                                                       Procedure                                                    4264477                                                     
+225459                                                       Procedure                                                    4163872                                                     
+225462                                                       Procedure                                                    4081708                                                     
+225463                                                       Procedure                                                    4111530                                                     
+225464                                                       Procedure                                                    4083499                                                     
+225465                                                       Procedure                                                    77670                                                       
+225466                                                       Procedure                                                    321042                                                      
+225467                                                       Procedure                                                    4073393                                                     
+225468                                                       Procedure                                                    4150627                                                     
+225472                                                       Procedure                                                    253796                                                      
+225474                                                       Procedure                                                    436583                                                      
+225475                                                       Procedure                                                    317109                                                      
+225476                                                       Procedure                                                    4022792                                                     
+225477                                                       Procedure                                                    4150627                                                     
+225479                                                       Procedure                                                    4240305                                                     
+225752                                                       Procedure                                                    4213288                                                     
+225794                                                       Procedure                                                    4177224                                                     
+225814                                                       Procedure                                                    4024963                                                     
+225816                                                       Procedure                                                    4296651                                                     
+225821                                                       Procedure                                                    4022792                                                     
+227194                                                       Procedure                                                    4150627                                                     
+227550                                                       Procedure                                                    4304943                                                     
+227551                                                       Procedure                                                    4049372                                                     
+227711                                                       Procedure                                                    4081548                                                     
+227713                                                       Procedure                                                    4078199                                                     
+227714                                                       Procedure                                                    4081548                                                     
+227715                                                       Procedure                                                    4111530                                                     
+227719                                                       Procedure                                                    4052413                                                     
+228286                                                       Procedure                                                    4326816                                                     

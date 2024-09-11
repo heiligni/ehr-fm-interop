@@ -1,0 +1,9 @@
+Mapping file: gcpt_cs_place_of_service.csv
+
+Found 1 relevant mappings in tokenizer. Adding to brute force mapping list
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+Medicine                                                     Visit                                                        38004515                                                    

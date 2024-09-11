@@ -1,0 +1,19 @@
+mapping_source_table,source_code,vocabulary_id,target_concept_id,ontology_concept_name
+gcpt_per_ethnicity,ASIAN,Race/2,8515,Asian
+gcpt_per_ethnicity,WHITE,Race/5,8527,White
+gcpt_per_ethnicity,BLACK/AFRICAN AMERICAN,Race/3,8516,Black or African American
+gcpt_per_ethnicity,AMERICAN INDIAN/ALASKA NATIVE,Race/1,8657,American Indian or Alaska Native
+gcpt_per_ethnicity,HISPANIC/LATINO,Ethnicity/Hispanic,38003563,Hispanic or Latino
+gcpt_cs_place_of_service,Medicine,Medicare Specialty/A0,38004515,Hospital
+gcpt_meas_chartevents_value,1st AV (First degree AV Block),SNOMED/233917008,316135,Atrioventricular block
+gcpt_vis_admission,TRANSFER FROM HOSPITAL,CMS Place of Service/21,8717,Inpatient Hospital
+gcpt_vis_admission,Medical/Surgical Intensive Care Unit (MICU/SICU),Visit/OMOP4822460,32037,Intensive Care
+gcpt_vis_admission,HOME,Visit/OMOP4822459,581476,Home Visit
+gcpt_vis_admission,HOME HEALTH CARE,Visit/OMOP4822459,581476,Home Visit
+gcpt_vis_admission,DIRECT OBSERVATION,CMS Place of Service/OMOP4822036,581385,Observation Room
+gcpt_vis_admission,ELECTIVE,Visit/IP,9201,Inpatient Visit
+gcpt_vis_admission,EU OBSERVATION,CMS Place of Service/OMOP4822036,581385,Observation Room
+gcpt_vis_admission,OBSERVATION ADMIT,CMS Place of Service/OMOP4822036,581385,Observation Room
+gcpt_vis_admission,URGENT,Visit/ERIP,262,Emergency Room and Inpatient Visit
+gcpt_micro_organism,80231,SNOMED/315184001,4201161,RSV antigen level
+gcpt_micro_antibiotic,90007,LOINC/194-1,3005158,Clindamycin [Susceptibility] by Disk diffusion (KB)

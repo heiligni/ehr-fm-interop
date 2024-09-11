@@ -1,0 +1,17 @@
+Mapping file: gcpt_vis_admission.csv
+
+Found 9 relevant mappings in tokenizer. Adding to brute force mapping list
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+TRANSFER FROM HOSPITAL                                       Visit                                                        8717                                                        
+Medical/Surgical Intensive Care Unit (MICU/SICU)             Visit                                                        32037                                                       
+HOME                                                         Visit                                                        581476                                                      
+HOME HEALTH CARE                                             Visit                                                        581476                                                      
+DIRECT OBSERVATION                                           Visit                                                        581385                                                      
+ELECTIVE                                                     Visit                                                        9201                                                        
+EU OBSERVATION                                               Visit                                                        581385                                                      
+OBSERVATION ADMIT                                            Visit                                                        581385                                                      
+URGENT                                                       Visit                                                        262                                                         

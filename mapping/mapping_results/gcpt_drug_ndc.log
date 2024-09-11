@@ -1,0 +1,574 @@
+Mapping file: gcpt_drug_ndc.csv
+
+Found 566 relevant mappings in tokenizer. Please try to manually map this file!!!
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+Budesonide (Nasal) 0.5mg                                     Drug                                                         939422                                                      
+acetylcysteine 100 mg/ml                                     Drug                                                         19095712                                                    
+budesonide 0.5 mg/2 mL Neb Suspension                        Drug                                                         939398                                                      
+Pulmicort ea                                                 Drug                                                         939259                                                      
+Thrombin 5,000 units                                         Drug                                                         1300673                                                     
+Acetylcysteine 20% 30ml Vial                                 Drug                                                         19093622                                                    
+Prednisolone Acetate 1 % Eye Drops, Susp                     Drug                                                         43526394                                                    
+Vancomycin HCl 1GM FROZ. BAG                                 Drug                                                         1707687                                                     
+theophylline ER 300 mg 12 hr Tab                             Drug                                                         1237217                                                     
+Lorazepam                                                    Drug                                                         791967                                                      
+acetylcysteine 600mg                                         Drug                                                         1139058                                                     
+NAC (N-acetyl-L-cysteine 600 mg Cap                          Drug                                                         1139058                                                     
+tetanus immune globulin tetanus immune globulin              Drug                                                         35604680                                                    
+DiphenhydrAMINE                                              Drug                                                         1129625                                                     
+Ampicillin Sodium 2g Vial                                    Drug                                                         1717327                                                     
+Medium Chain Triglycerides 0                                 Drug                                                         42899398                                                    
+HYDROmorphone (Dilaudid)                                     Drug                                                         1126658                                                     
+Vasopressin                                                  Drug                                                         1507835                                                     
+potassium citrate 10 meq                                     Drug                                                         976606                                                      
+Metoprolol                                                   Drug                                                         1307046                                                     
+Diltiazem                                                    Drug                                                         1328165                                                     
+Etanercept 25 mg Sub-Q Kit                                   Drug                                                         1151789                                                     
+Coenzyme Q10 900 mg                                          Drug                                                         1351115                                                     
+DOPamine                                                     Drug                                                         1337860                                                     
+Phenytoin Sodium                                             Drug                                                         740910                                                      
+LIDOCAINE 1% (W/Presv.)                                      Drug                                                         990243                                                      
+Melatonin 3 mg                                               Drug                                                         19083332                                                    
+brimonidine 0.1 % Eye Drops                                  Drug                                                         40164129                                                    
+Mesalamine Desensitization 200 mg / 200 mL                   Drug                                                         968426                                                      
+Ipratropium Bromide Neb                                      Drug                                                         1112921                                                     
+HYDROmorphone Solution 20mg/ml                               Drug                                                         1126658                                                     
+FUROSEMIDE                                                   Drug                                                         956874                                                      
+Levalbuterol Neb 1.25 mg/3ml                                 Drug                                                         1192244                                                     
+Leflunomide 10 mg                                            Drug                                                         1101925                                                     
+degarelix 120 mg Sub-Q Soln                                  Drug                                                         1718073                                                     
+EPINEPHrine                                                  Drug                                                         1343916                                                     
+Dutasteride 0.5MG                                            Drug                                                         19097771                                                    
+Phenylephrine 2.5% opth 2.5%                                 Drug                                                         1135766                                                     
+Varenicline 1 mg                                             Drug                                                         780445                                                      
+Balsalazide Disodium 750 mg                                  Drug                                                         40168548                                                    
+Ranolazine 500                                               Drug                                                         19123444                                                    
+Coenzyme Q10 100mg Capsule                                   Drug                                                         1351153                                                     
+Famotidine 20mg Premix Bag                                   Drug                                                         953120                                                      
+Syringe (0.9% Sodium Chloride) 1 Syringe                     Drug                                                         40141424                                                    
+Leflunomide 20 mg                                            Drug                                                         1101926                                                     
+mylanta 1                                                    Drug                                                         40007739                                                    
+Norepinephrine 4MG/4ML AMP                                   Drug                                                         1321364                                                     
+Sodium Bicarbonate                                           Drug                                                         939506                                                      
+Ondansetron                                                  Drug                                                         1000560                                                     
+Darifenacin 7.5 mg                                           Drug                                                         916233                                                      
+Betamethasone Sodium Phos/Acet 12mg/2ml Syringe              Drug                                                         920458                                                      
+Saccharomyces BOULARDII 1 Capsule                            Drug                                                         991855                                                      
+Alprazolam 0.5mg Tablet                                      Drug                                                         19072934                                                    
+Acetaminophen (Liquid)                                       Drug                                                         40220874                                                    
+sodium citrate-citric acid 500 mg-334 mg/5 mL Oral Soln      Drug                                                         19114106                                                    
+Brimonidine 0.2% solution                                    Drug                                                         915542                                                      
+Prednisolone Acetate 0.12 % Eye Drops, Susp                  Drug                                                         1550557                                                     
+Morphine                                                     Drug                                                         1110410                                                     
+Sodium Chloride 23.4%;30ML V                                 Drug                                                         19136048                                                    
+Adefovir Dipivoxil 10 mg                                     Drug                                                         40168219                                                    
+warfarin 10 mg                                               Drug                                                         40163517                                                    
+Glycerin (Laxative) gm/ml                                    Drug                                                         961145                                                      
+Olmesartan 40 mg Tab                                         Drug                                                         19096752                                                    
+escitalopram 10mg                                            Drug                                                         19098080                                                    
+Timolol Maleate 0.5% XE 0.5% XE opth soln                    Drug                                                         1594709                                                     
+Mesalamine Desensitization 100 mg / 100 mL                   Drug                                                         968426                                                      
+Mesalamine Desensitization 1 mg / 10 mL                      Drug                                                         968426                                                      
+Sodium Chloride 0.9%  Flush Syringe                          Drug                                                         40141424                                                    
+Water water                                                  Drug                                                         19010309                                                    
+HEPARIN                                                      Drug                                                         1367571                                                     
+Ketamine Study Drug (*IND*) Study Drug                       Drug                                                         785649                                                      
+Conjugated Estrogens 1.25 mg Tab                             Drug                                                         1549184                                                     
+Protamine Sulfate                                            Drug                                                         19054242                                                    
+Beclomethasone Dipro. AQ (Nasal) 42mcg                       Drug                                                         40173730                                                    
+Lactobacillus Acidophilus capsule                            Drug                                                         40050771                                                    
+Insulin Detemir 100units/mL                                  Drug                                                         19112694                                                    
+Epoetin Alfa 20,000 UNIT VIAL                                Drug                                                         19081203                                                    
+Pantoprazole Dummy Pkg for POE pump and PHA SS ordering      Drug                                                         948078                                                      
+Ketorolac 0.4 % Eye Drops                                    Drug                                                         1136980                                                     
+Felodipine 5mg                                               Drug                                                         1353817                                                     
+Sodium Chloride 0.45% Flush 3 mL Syringe                     Drug                                                         40141424                                                    
+Metronidazole 500mg Premix Bag                               Drug                                                         1707403                                                     
+Acetic Acid Otic 2%                                          Drug                                                         40004903                                                    
+Phenylephrine HCl 100mcg/ml                                  Drug                                                         1135766                                                     
+Hydrocortisone Na Succ. 100mg/2mL Vial                       Drug                                                         975125                                                      
+solifenacin 10 mg Tab                                        Drug                                                         916008                                                      
+Levetiracetam 750 mg Tab                                     Drug                                                         19078781                                                    
+Lidocaine                                                    Drug                                                         989878                                                      
+dutasteride 0.5 mg Cap                                       Drug                                                         989485                                                      
+rivastigmine 9.5                                             Drug                                                         733523                                                      
+Mesalamine Desensitization 0.1 mg / 10 mL                    Drug                                                         968426                                                      
+Dobutamine 250MG PREMIX                                      Drug                                                         1337720                                                     
+Lactobacillus Acidophilus TAB                                Drug                                                         40136066                                                    
+Levofloxacin 500MG PM BAG                                    Drug                                                         19082484                                                    
+desvenlafaxine 50 mg                                         Drug                                                         19129680                                                    
+Isradipine 15mg                                              Drug                                                         1326012                                                     
+potassium citrate 10 mEq                                     Drug                                                         976606                                                      
+sevelamer carbonate 2.4gm                                    Drug                                                         1718121                                                     
+Tobramycin Fortified Ophth. Soln. 14mg/mL                    Drug                                                         902722                                                      
+Thrombin 5000 units/5 ml                                     Drug                                                         1300673                                                     
+Sodium Citrate 3mL Syringe                                   Drug                                                         977968                                                      
+Bosentan 125 mg                                              Drug                                                         19098071                                                    
+LORAZEPAM                                                    Drug                                                         791967                                                      
+desvenlafaxine ER 50 mg 24 hr Tab                            Drug                                                         19129681                                                    
+Cosyntropin 250 mcg Vial                                     Drug                                                         19008009                                                    
+ESMOLOL                                                      Drug                                                         19063575                                                    
+Ipratropium Bromide 0.06 % Nasal Spray Aerosol               Drug                                                         1112921                                                     
+Thyroid 4mg                                                  Drug                                                         1501309                                                     
+VALPROIC ACID 250MG/5ML                                      Drug                                                         40238016                                                    
+Pimozide 5mg                                                 Drug                                                         745790                                                      
+Rasagiline 1                                                 Drug                                                         19123236                                                    
+Acetazolamide Sodium 500MG VIAL                              Drug                                                         929517                                                      
+Cosyntropin  250 mcg Vial                                    Drug                                                         19008009                                                    
+Melatonin 1 mg                                               Drug                                                         1301233                                                     
+docosanol 10%                                                Drug                                                         980956                                                      
+fenofibrate 160 mg tablet                                    Drug                                                         1551838                                                     
+Lactobacillus Acidophilus 175 mg                             Drug                                                         987153                                                      
+HYDROmorphone (Dilaudid) 20 mg/ mL                           Drug                                                         1126658                                                     
+Nepafenac 0.1 % Eye Drops, Susp                              Drug                                                         19121303                                                    
+vancoMYCIN for nasal inhalation 200 mg / 2 mL                Drug                                                         1707687                                                     
+Travoprost 0.004%                                            Drug                                                         904524                                                      
+Water WATER                                                  Drug                                                         19010309                                                    
+Trandolapril                                                 Drug                                                         1342439                                                     
+Hydromorphone P.F. 1000mcg/1mL Amp                           Drug                                                         1126658                                                     
+Ertapenem 500 mg                                             Drug                                                         1717963                                                     
+Morphine Sulfate Given in OR                                 Drug                                                         1110410                                                     
+Cisatracurium Besylate 200mg/20ml Vial                       Drug                                                         19015729                                                    
+Vancomycin ophthalmic 50mg/ml bottle                         Drug                                                         1707687                                                     
+Mesalamine Desensitization 25 mg / 25 mL                     Drug                                                         968426                                                      
+Mannitol 500ML PREMIX                                        Drug                                                         994058                                                      
+Heparin Sodium 25,000 unit Premix Bag                        Drug                                                         1367571                                                     
+Potassium Chloride                                           Drug                                                         19049105                                                    
+Mesalamine Desensitization 0.05 mg / 10 mL                   Drug                                                         968426                                                      
+roflumilast 500mcg                                           Drug                                                         40236898                                                    
+AMIODARONE                                                   Drug                                                         1309944                                                     
+Bacitracin & Polymyxin B Ophth 1                             Drug                                                         40013984                                                    
+budesonide 3mg                                               Drug                                                         939393                                                      
+Melatonin 3 mg Tab                                           Drug                                                         19083332                                                    
+Potassium Phosphate 3mmol/ml-15ml                            Drug                                                         19049024                                                    
+Ethanol (Ethyl Alcohol) 50%                                  Drug                                                         955372                                                      
+Entecavir 0.5mg Tablet                                       Drug                                                         1711248                                                     
+vancoMYCIN for inhalation 200 mg / 2 mL                      Drug                                                         1707687                                                     
+Folic Acid 5mg/ml-10ml                                       Drug                                                         19111620                                                    
+ACETAMINOPHEN (LIQUID)                                       Drug                                                         1125315                                                     
+Pulmicort inhaler                                            Drug                                                         939259                                                      
+Baclofen 4000 mcg/ml                                         Drug                                                         715233                                                      
+HALOPERIDOL                                                  Drug                                                         766529                                                      
+Methylprednisolone Na Succ. 1 SYRINGE                        Drug                                                         1506270                                                     
+nepafenac 0.1 % Eye Drops, Susp                              Drug                                                         19121303                                                    
+Lidocaine Jelly 2% (Urojet)                                  Drug                                                         989878                                                      
+Valproate Sodium 500MG/5ML VL                                Drug                                                         745466                                                      
+Metoprolol Tartrate                                          Drug                                                         1307046                                                     
+Tobramycin Fortified Ophth. Soln. 15mg/ml                    Drug                                                         902722                                                      
+bimatoprost 0.03 % Eye Drops                                 Drug                                                         904528                                                      
+Insulin Detemir 100 unit/mL Sub-Q                            Drug                                                         19112694                                                    
+ofloxacin 0.3%                                               Drug                                                         923081                                                      
+exenatide 20 mcg                                             Drug                                                         1583722                                                     
+Heparin                                                      Drug                                                         1367571                                                     
+POTASSIUM CHLORIDE                                           Drug                                                         19049105                                                    
+insulin detemir 100 unit/mL Sub-Q Pen                        Drug                                                         19112694                                                    
+Fentanyl Citrate                                             Drug                                                         1154029                                                     
+Ketorolac Tromethamine 0.4%                                  Drug                                                         40164854                                                    
+Clobetasol Propionate 0.05%                                  Drug                                                         40164500                                                    
+Fentanyl Citrate 800-1600 mcg                                Drug                                                         1154029                                                     
+Lidocaine 1%/Epi 1::100,000                                  Drug                                                         989878                                                      
+PROPOFOL (*GENERIC*)                                         Drug                                                         753626                                                      
+moxifloxacin  400 mg                                         Drug                                                         19085094                                                    
+Budesonide (Nasal) 2.5MG                                     Drug                                                         40020313                                                    
+SODIUM BICARBONATE                                           Drug                                                         939506                                                      
+NAFCILLIN 2GM                                                Drug                                                         1713930                                                     
+Darbepoetin alpha (Aranesp) 200mcg/0.4ml syrimge             Drug                                                         1304643                                                     
+chlorzoxazone 500 mg                                         Drug                                                         795153                                                      
+Simvastatin 20 mg                                            Drug                                                         1539465                                                     
+SIMETHICONE SIMETHICONE                                      Drug                                                         966991                                                      
+Estazolam 1mg                                                Drug                                                         748035                                                      
+domperidone  Powder                                          Drug                                                         19037833                                                    
+Ethacrynate Sodium tablet                                    Drug                                                         40131003                                                    
+CALCIUM GLUCONATE                                            Drug                                                         19037038                                                    
+pyridostigmine 60mg/tablet                                   Drug                                                         40075183                                                    
+DopAmine 400MG PREMIX                                        Drug                                                         1337860                                                     
+Dutasteride 0.5 mg Cap                                       Drug                                                         989485                                                      
+Tenofovir Disoproxil Fum. 300mg Tab                          Drug                                                         1710312                                                     
+Clonidine TTS 1 Patch                                        Drug                                                         1398937                                                     
+HYDROMORPHONE                                                Drug                                                         1126658                                                     
+COLESEVELAM 625                                              Drug                                                         40167019                                                    
+Phenytoin Sodium 250mg/5mL Vial                              Drug                                                         40163243                                                    
+Propofol                                                     Drug                                                         753626                                                      
+Lovastatin 10 mg Tab                                         Drug                                                         19019115                                                    
+rabeprazole 20 mg                                            Drug                                                         40163284                                                    
+Nitroglycerin 100MG/250 PM                                   Drug                                                         1361711                                                     
+Methylprednisolone Na Succ. 500MG VIAL                       Drug                                                         35606537                                                    
+Oxybutynin Chloride ER Oxybutynin Chloride ER                Drug                                                         918906                                                      
+Erythromycin Ethylsuccinate 200 mg/5 mL Oral Susp            Drug                                                         19125424                                                    
+erlotinib 150 mg Tab                                         Drug                                                         19122519                                                    
+Phenytoin Sodium 100mg/2mL Vial                              Drug                                                         40163243                                                    
+brimonidine 0.1                                              Drug                                                         915542                                                      
+Darbepoetin Alfa In Polysorbate 40mcg/0.4mL                  Drug                                                         19097935                                                    
+MORPHINE SULFATE                                             Drug                                                         1110410                                                     
+Labetalol                                                    Drug                                                         1386957                                                     
+Sodium Chloride 3% (Hypertonic)                              Drug                                                         40221362                                                    
+Mesalamine Desensitization 10 mg /10 mL                      Drug                                                         968426                                                      
+Aspirin EC 81 mg                                             Drug                                                         1113309                                                     
+Lidocaine 1% P.F.                                            Drug                                                         989878                                                      
+Meropenem 500MG VIAL                                         Drug                                                         35605999                                                    
+Clobazam 10 mg                                               Drug                                                         19050837                                                    
+Bumetanide 2.5MG/10ML VIAL                                   Drug                                                         932778                                                      
+Levothyroxine 88 mcg                                         Drug                                                         40174904                                                    
+Norepinephrine                                               Drug                                                         1321341                                                     
+Fentanyl Citrate 250mcg/5mL Amp                              Drug                                                         1154029                                                     
+Dopamine HCl 200MG/5ML;VIAL                                  Drug                                                         1337860                                                     
+difluprednate 0.05 % Eye Drops                               Drug                                                         19131676                                                    
+Zolmitriptan 5 mg Tab                                        Drug                                                         19082572                                                    
+Sucralfate 1000 mg                                           Drug                                                         19082547                                                    
+Bupivacaine 0.05% 250 mL CADD Med Cassette                   Drug                                                         732893                                                      
+Sodium CITRATE 4% 500 mL Bag                                 Drug                                                         19136048                                                    
+Melatonin 1mg                                                Drug                                                         1301233                                                     
+Epoetin Alfa 40,000 UNIT VIAL                                Drug                                                         1301179                                                     
+ESCITALOPRAM 10MG                                            Drug                                                         19098080                                                    
+menthol (Icy Hot Patch) 5%                                   Drug                                                         901656                                                      
+Lorazepam 0.5mg Tablet                                       Drug                                                         19019112                                                    
+Acetaminophen                                                Drug                                                         1125315                                                     
+ACETAMINOPHEN (RECTAL)                                       Drug                                                         1125315                                                     
+rasagiline 0.5 mg Tab                                        Drug                                                         715734                                                      
+Lidocaine 1% 1%                                              Drug                                                         989878                                                      
+Ritonavir 100mg capsule 100mg Capsule                        Drug                                                         19082373                                                    
+Posaconazole 40 mg / mL - 100 mL Bottle                      Drug                                                         19125035                                                    
+Levofloxacin 1.5 % Eye Drops                                 Drug                                                         1742333                                                     
+Budesonide  2.5MG                                            Drug                                                         939259                                                      
+Dasatinib 50 mg Tab                                          Drug                                                         19124392                                                    
+Potassium Acetate 2MEQ/ML-20ML                               Drug                                                         19076420                                                    
+Glycopyrrolate                                               Drug                                                         45775571                                                    
+Ketotifen Fumarate (Bulk) 1 mg                               Drug                                                         986117                                                      
+Acetic Acid Glacial 0.04% Vaginal Douche                     Drug                                                         929549                                                      
+Levofloxacin 250MG PM BAG                                    Drug                                                         1742253                                                     
+Sildenafil 20 mg Tab                                         Drug                                                         19121182                                                    
+Hepatitis B Immune Globulin (Nabi-HB) NABI-HB                Drug                                                         501343                                                      
+Phenylephrine                                                Drug                                                         1135766                                                     
+NORepinephrine                                               Drug                                                         1321341                                                     
+Meloxicam 15mg                                               Drug                                                         1150373                                                     
+HYDROmorphone PCA (Dilaudid)                                 Drug                                                         1126658                                                     
+Calcium Chloride                                             Drug                                                         19036781                                                    
+fluticasone 110 mcg/ puff                                    Drug                                                         1149380                                                     
+Methylprednisolone Na Succ. 1000mg Vial                      Drug                                                         35606541                                                    
+Interferon Beta-1b 0.3                                       Drug                                                         35605313                                                    
+formoterol fumarate 20 mcg/2 mL Neb Solution                 Drug                                                         42708518                                                    
+esomeprazole 40mg                                            Drug                                                         904454                                                      
+METFORMIN XR TABLET                                          Drug                                                         1503297                                                     
+Morphine Sulfate 20mg/ml                                     Drug                                                         40169958                                                    
+Ceftriaxone 1GM FROZ BAG                                     Drug                                                         46287327                                                    
+Somatropin 5mg/ml                                            Drug                                                         1584986                                                     
+lamotrigine 25 mg Tab                                        Drug                                                         19069199                                                    
+Gentamicin 80mg Premix                                       Drug                                                         45892419                                                    
+FENTANYL                                                     Drug                                                         1154029                                                     
+Imatinib 200 mg/10 ml                                        Drug                                                         1304107                                                     
+Furosemide 100mg/10mL Vial                                   Drug                                                         957140                                                      
+Potassium Chloride 2mEq/ml-20ml                              Drug                                                         19049574                                                    
+Fentanyl Citrate 2500mcg/50mL Vial                           Drug                                                         1154029                                                     
+Bumetanide 1 mg                                              Drug                                                         19080991                                                    
+Pilocarpine 1% 15mL;Ophthalmic Solution                      Drug                                                         40076463                                                    
+Loteprednol Etabonate 0.5%                                   Drug                                                         40238167                                                    
+Isotretinoin Isotretinoin                                    Drug                                                         984232                                                      
+Folic Acid 1MG/0.2ML SYR                                     Drug                                                         19111620                                                    
+Furosemide                                                   Drug                                                         956874                                                      
+VITAMIN K*NEO                                                Drug                                                         19010128                                                    
+METOPROLOL                                                   Drug                                                         1307046                                                     
+LABETALOL                                                    Drug                                                         1386957                                                     
+Vancomycin Enema 200mg/100ml ns                              Drug                                                         1707687                                                     
+Amiodarone HCl 150mg/3mL Vial                                Drug                                                         1309994                                                     
+ACETAMINOPHEN                                                Drug                                                         1125315                                                     
+Galantamine 16 mg                                            Drug                                                         757627                                                      
+Sodium Chloride (Hypertonic) 5%                              Drug                                                         40221362                                                    
+Potassium Chloride Replacement (Oncology) 20mEq tablet       Drug                                                         19049106                                                    
+Dexamethasone                                                Drug                                                         1518254                                                     
+Baclofen 10mg tablet                                         Drug                                                         715235                                                      
+Rasagiline 1 mg Tab                                          Drug                                                         19123237                                                    
+Erythromycin 333 mg                                          Drug                                                         1747210                                                     
+Coenzyme Q10 tablet                                          Drug                                                         40059434                                                    
+imatinib 100 mg Tab                                          Drug                                                         19102501                                                    
+Erythromycin Topical Solution 2%                             Drug                                                         19082703                                                    
+Azelastine HCl 137 mcg/ spray                                Drug                                                         40164091                                                    
+Brimonidine 0.2 % Eye Drops                                  Drug                                                         40164137                                                    
+Cefazolin 10g Bulk vial                                      Drug                                                         1771162                                                     
+Peppermint Oil 1                                             Drug                                                         19086712                                                    
+Felodipine TAB                                               Drug                                                         1353776                                                     
+Nizatidine 150mg                                             Drug                                                         950734                                                      
+Nimodipine 1 Syringe                                         Drug                                                         1319133                                                     
+DIAZOXIDE  30 ML                                             Drug                                                         1523280                                                     
+Cyclobenzaprine 10 mg                                        Drug                                                         778764                                                      
+Lactobacillus Acidophilus-Pectin OTC                         Drug                                                         987153                                                      
+Polyethylene Glycol 400 (Bulk) 0.25%                         Drug                                                         948490                                                      
+Beclomethasone Dipropionate 80 mcg/Actuation Aerosol Inhaler Drug                                                         40173735                                                    
+Morphine Sulfate                                             Drug                                                         1110410                                                     
+Aripiprazole 5mg Tablet                                      Drug                                                         19102213                                                    
+MAGNESIUM SULFATE                                            Drug                                                         19093848                                                    
+theophylline ER 300 mg 24 hr Cap                             Drug                                                         1237217                                                     
+Prednisolone 10 mg                                           Drug                                                         19112502                                                    
+Omeprazole CAP                                               Drug                                                         923645                                                      
+baclofen 3000mcg/ml                                          Drug                                                         715233                                                      
+dexamethasone 0.1%                                           Drug                                                         1518254                                                     
+Aripiprazole 5 mg                                            Drug                                                         19102252                                                    
+Nitroglycerin                                                Drug                                                         1361711                                                     
+Baclofen 4000 mcg/mL Intrathecal                             Drug                                                         715233                                                      
+Hyaluronidase 150 UNITS                                      Drug                                                         19073699                                                    
+fidaxomicin 200mg TAB 200 mg Tab                             Drug                                                         40239987                                                    
+Mannitol 20% 500ML PREMIX                                    Drug                                                         994123                                                      
+NITROGLYCERIN                                                Drug                                                         1361711                                                     
+Bupivacaine 0.2% 250 mL CADD Med Cassette                    Drug                                                         732893                                                      
+Lidocaine 1%/Epi  1::100,000                                 Drug                                                         989878                                                      
+mupirocin 2 % Ointment                                       Drug                                                         951537                                                      
+Ipratropium Bromide HFA                                      Drug                                                         1112921                                                     
+Albuterol Inhalation Soln 0.5%                               Drug                                                         1356108                                                     
+Budesonide (Pulmicort) 0.5mg respules                        Drug                                                         939259                                                      
+Ondansetron HCl 8 mg Tab                                     Drug                                                         19079171                                                    
+Ketorolac TroMETHamine 0.4%                                  Drug                                                         40164854                                                    
+Atropine Sulfate                                             Drug                                                         914335                                                      
+PROPOFOL                                                     Drug                                                         753626                                                      
+Metoprolol Tartrate 100 mg                                   Drug                                                         40167199                                                    
+Magnesium Sulfate                                            Drug                                                         19093848                                                    
+Linezolid 600MG PM BAG                                       Drug                                                         19087402                                                    
+bicalutamide 50 mg Tab                                       Drug                                                         1344403                                                     
+Lidocaine 2%                                                 Drug                                                         989878                                                      
+Bacitracin Ointment 15g Tube                                 Drug                                                         40014637                                                    
+Prochlorperazine                                             Drug                                                         752061                                                      
+OxycoDONE (Immediate Release)                                Drug                                                         1124957                                                     
+Naltrexone 1.75 mg                                           Drug                                                         1714319                                                     
+Sodium Citrate 4% 3mL Syringe                                Drug                                                         19136048                                                    
+Sodium CITRATE 4% 3mL Syringe                                Drug                                                         19136048                                                    
+Propofol (Generic) 1000mg/100ml Vial                         Drug                                                         753630                                                      
+Mycophenolate Mofetil 500MG VIAL                             Drug                                                         19004036                                                    
+Tobramycin Fortified Ophth. 15mg/ml bottle                   Drug                                                         902722                                                      
+Melatonin 3mg tab                                            Drug                                                         19083332                                                    
+tacrolimus 0.5 mg capsules                                   Drug                                                         19079712                                                    
+alfuzosin ER 10 mg 24 hr Tab                                 Drug                                                         40164023                                                    
+Temozolomide 165 mg Cap                                      Drug                                                         1341149                                                     
+Enalaprilat 1.25MG/ML VL                                     Drug                                                         1342025                                                     
+Isradipine 5mg                                               Drug                                                         1326083                                                     
+Esmolol                                                      Drug                                                         19063575                                                    
+Diphenhydramine HCl 2% 2% Cream                              Drug                                                         40033987                                                    
+Levalbuterol (Xopenex) 1.25mg/3ml                            Drug                                                         1192218                                                     
+Isradipine 5 mg                                              Drug                                                         1326083                                                     
+Alfuzosin 10 mg                                              Drug                                                         40164023                                                    
+rivastigmine 6mg cap                                         Drug                                                         733568                                                      
+Ritonavir study med 100mg                                    Drug                                                         1748959                                                     
+Ranolazine 500 mg Tablet                                     Drug                                                         19123444                                                    
+Gentamicin ophth oint 0.3% 0.3%                              Drug                                                         19077580                                                    
+Bosentan 125mg                                               Drug                                                         19098071                                                    
+Mesalamine Desensitization 5 mg / 10 mL                      Drug                                                         968426                                                      
+Potassium Chloride 2mEq/ml-10ml                              Drug                                                         19049574                                                    
+ERYTHROMYCIN 0.5% OPHTH OINT                                 Drug                                                         19076953                                                    
+OxycoDONE                                                    Drug                                                         1124957                                                     
+colesevelam 625                                              Drug                                                         40167019                                                    
+Mupirocin Nasal Ointment 2% 2%                               Drug                                                         40062277                                                    
+Morphine Sulfate 100mg/100ml Premix                          Drug                                                         40169882                                                    
+Bupivacaine 0.1% 250 mL Yellow Med Cassette                  Drug                                                         732893                                                      
+Epinephrine Kit                                              Drug                                                         1343916                                                     
+Enema Disposable 1                                           Drug                                                         40036796                                                    
+cefadroxil 500 mg                                            Drug                                                         1769599                                                     
+Calcium Gluconate                                            Drug                                                         19037038                                                    
+HydrALAZINE                                                  Drug                                                         1373928                                                     
+Acidophilus 175mg                                            Drug                                                         987153                                                      
+MIDAZOLAM                                                    Drug                                                         708298                                                      
+Sodium Chloride  Syringe                                     Drug                                                         40141424                                                    
+norethindrone acetate 5 mg Tab                               Drug                                                         40224821                                                    
+Miconazole  200mg/supp                                       Drug                                                         907879                                                      
+Prednisone 5MG /ML ORAL CONCENTRATE                          Drug                                                         1551099                                                     
+PHENYLEPHRINE HCL                                            Drug                                                         1135766                                                     
+Potassium Chloride 20mEq/50ml Premix                         Drug                                                         19049024                                                    
+Acetic Acid 0.04%                                            Drug                                                         929549                                                      
+fenofibrate 200mg                                            Drug                                                         1551865                                                     
+Levalbuterol HCl 1.25 mg                                     Drug                                                         1192218                                                     
+Imatinib 400MG/20ML                                          Drug                                                         1304107                                                     
+Benzoyl Peroxide 5% wash                                     Drug                                                         918172                                                      
+Glucosamine Chondroitin SMConc tablet                        Drug                                                         40131393                                                    
+Risedronate Sodium 35MG tAB                                  Drug                                                         40174494                                                    
+Bumetanide 1 Syringe                                         Drug                                                         932745                                                      
+Flecainide Acetate 150mg TAB                                 Drug                                                         40169049                                                    
+Everolimus 5 mg Tab                                          Drug                                                         19135083                                                    
+Cefazolin 1g Froz.Bag                                        Drug                                                         46287336                                                    
+Felodipine 5m                                                Drug                                                         1353817                                                     
+Potassium Chloride Replacement (Oncology) 20mEq Tablet       Drug                                                         19049106                                                    
+Epoetin Alfa 10,000 UNIT VIAL                                Drug                                                         1301175                                                     
+TACROLIMUS 0.5MG                                             Drug                                                         19085134                                                    
+Etomidate                                                    Drug                                                         19050488                                                    
+Acetaminophen (Rectal)                                       Drug                                                         1125315                                                     
+Liothyronine 10 mcg/ml                                       Drug                                                         1505346                                                     
+Varenicline 1 mg Tab                                         Drug                                                         780446                                                      
+Propofol Diprivan 200mg                                      Drug                                                         753626                                                      
+Ranolazine 250 mg Tablet                                     Drug                                                         1337107                                                     
+Candesartan Cilexetil 4mg Tab                                Drug                                                         19113470                                                    
+Octreotide Acetate                                           Drug                                                         1522957                                                     
+Calcium Gluconate 1g/10mL Vial                               Drug                                                         19037093                                                    
+Pimecrolimus 1 % Topical Cream                               Drug                                                         40119606                                                    
+CycloSPORINE Modified (Eon Labs) 25mg                        Drug                                                         19010558                                                    
+Levothyroxine 37.5 mcg                                       Drug                                                         1501700                                                     
+Octreotide Acetate 100mcg/mL-1mL                             Drug                                                         1522957                                                     
+Meropenem 1000mg Vial                                        Drug                                                         35606005                                                    
+Teriparatide 20 mcg                                          Drug                                                         1521987                                                     
+warfarin 10 mg Tab                                           Drug                                                         40163518                                                    
+sevelamer carbonate 2.4 gram Oral Powder Packet              Drug                                                         40166055                                                    
+bimatoprost 0.01 % Eye Drops                                 Drug                                                         40226428                                                    
+Nitroglycerin Ointment  2%                                   Drug                                                         1361859                                                     
+sodium citrate 3mL Syringe                                   Drug                                                         977968                                                      
+leflunomide 10mg                                             Drug                                                         1101925                                                     
+Bupivacaine 0.1%                                             Drug                                                         732893                                                      
+cefadroxil 500 mg Cap                                        Drug                                                         19074847                                                    
+Diazepam                                                     Drug                                                         723013                                                      
+NITROPRUSSIDE                                                Drug                                                         19020994                                                    
+Mannitol 20%                                                 Drug                                                         994123                                                      
+Nafcillin Sodium 2g                                          Drug                                                         35605337                                                    
+Potassium Chloride 40meq/20ml                                Drug                                                         40175445                                                    
+clindamycin lotion                                           Drug                                                         40030890                                                    
+Eptifibatide 75MG PREMIX BOTTLE                              Drug                                                         1322199                                                     
+Medium Chain Triglycerides 30 mL bottle                      Drug                                                         42899398                                                    
+Prednisone 5MG/ML ORAL SOLUTION                              Drug                                                         19028933                                                    
+Mesalamine Desensitization 50 mg / 50 mL                     Drug                                                         968426                                                      
+Adenosine (Diagnostic) 6MG/2ML                               Drug                                                         1309204                                                     
+Ranolazine 500mg                                             Drug                                                         19123444                                                    
+magnesium oxide-Mg AA chelate 133mg                          Drug                                                         19122456                                                    
+Melatonin 3                                                  Drug                                                         19083332                                                    
+Vancomycin HCl 500mg Vial                                    Drug                                                         40221357                                                    
+Dronedarone 400 mg Tablet                                    Drug                                                         40163617                                                    
+Melatonin 1mg/tab                                            Drug                                                         1301233                                                     
+HYDROmorphone                                                Drug                                                         1126658                                                     
+PHENYLEPHrine                                                Drug                                                         1135766                                                     
+Buprenorphine HCl Buprenophrine HCl                          Drug                                                         1133201                                                     
+Acetylcysteine 600 mg Cap                                    Drug                                                         1139058                                                     
+NAC 600                                                      Drug                                                         1139058                                                     
+Clobazam Clobazam                                            Drug                                                         19050832                                                    
+Vagifem vagifem                                              Drug                                                         1548195                                                     
+Formoterol Fumarate 12 mcg Inhl CpDv                         Drug                                                         42708523                                                    
+Sodium Chloride Syringe                                      Drug                                                         40141424                                                    
+Candesartan Cilexetil 16mg                                   Drug                                                         1351582                                                     
+Phenobarbital 15 mg Tab                                      Drug                                                         734850                                                      
+Eplerenone 50 mg Oral Tab                                    Drug                                                         1309801                                                     
+Fentanyl Citrate 500mcg/10mL Amp                             Drug                                                         1154029                                                     
+Isradipine 5 mg                                              Drug                                                         1326083                                                     
+zidovudine 50mg/5ml                                          Drug                                                         1710656                                                     
+Racepinephrine                                               Drug                                                         1300153                                                     
+Tretinoin (Emollient) 0.04% gel                              Drug                                                         19097797                                                    
+Ascorbic Acid 500 mg/mL Injection                            Drug                                                         19080924                                                    
+exemestane 25 mg Tab                                         Drug                                                         19077218                                                    
+Glucosamine Chondroitin MaxStr 1                             Drug                                                         40131392                                                    
+sorafenib 200 mg Tab                                         Drug                                                         1363389                                                     
+Albuterol 0.083% Neb Soln                                    Drug                                                         1154501                                                     
+Bosentan 125 mg Tab                                          Drug                                                         1321641                                                     
+Pantoprazole Sodium 40mg Vial                                Drug                                                         19085107                                                    
+Leuprolide Acetate 7.5 mg                                    Drug                                                         40240986                                                    
+Calcium Replacement (Oncology)                               Drug                                                         19018544                                                    
+Gluco Sulfate NaCl-Chond Su Na tab                           Drug                                                         40131393                                                    
+Water Water                                                  Drug                                                         19010309                                                    
+Aripiprazole 5 mg Tab                                        Drug                                                         19102213                                                    
+Mesalamine Desensitization 0.025 mg / 10 mL                  Drug                                                         968426                                                      
+Meperidine                                                   Drug                                                         1102527                                                     
+Phenylephrine HCl                                            Drug                                                         1135766                                                     
+Aspirin (Rectal)                                             Drug                                                         1112807                                                     
+Dextran  1 (Promit) 1                                        Drug                                                         1319182                                                     
+Adefovir Dipivoxil 10mg                                      Drug                                                         40168219                                                    
+Vancomycin fortified opthalmic 50mg/ml                       Drug                                                         1707687                                                     
+Lidocaine Viscous 2% 120ml Bottle                            Drug                                                         989878                                                      
+Midazolam                                                    Drug                                                         708298                                                      
+melatonin 1 mg Tab                                           Drug                                                         1301156                                                     
+Vasopressin 20U/ML VIAL                                      Drug                                                         1507839                                                     
+Levalbuterol (Xopenex) 0.63 mg/3 mL                          Drug                                                         1192218                                                     
+Heparin Sodium                                               Drug                                                         1367571                                                     
+Halobetasol Propionate 0.05%                                 Drug                                                         40168956                                                    
+Nitroglycerin SL                                             Drug                                                         1361711                                                     
+sevelamer carbonate 2.4 gm                                   Drug                                                         1718121                                                     
+roflumilast 500 mcg tablet                                   Drug                                                         40236899                                                    
+Ribavirin *NF* 1 gm Vial                                     Drug                                                         1762711                                                     
+Levothyroxine Sodium 50 mcg                                  Drug                                                         1501700                                                     
+halobetasol propionate 0.05 % Topical Cream                  Drug                                                         949759                                                      
+Epinephrine                                                  Drug                                                         1343916                                                     
+Fentanyl Citrate Dummy Pkg for POE pump and PHA SS ordering  Drug                                                         1154029                                                     
+Epoetin Alfa 4000U VIAL                                      Drug                                                         1301180                                                     
+Warfarin 10 mg                                               Drug                                                         40163517                                                    
+Clobazam 10mg                                                Drug                                                         19050837                                                    
+Amlodipine 5 mg                                              Drug                                                         1332450                                                     
+Aspirin                                                      Drug                                                         1112807                                                     
+Water 500ml                                                  Drug                                                         19010309                                                    
+Mesalamine Desensitization 0.5 mg / 10 mL                    Drug                                                         968426                                                      
+Phenylephrine HCl 1% Phenylephrine 1%                        Drug                                                         1135766                                                     
+desvenlafaxine 100 mg                                        Drug                                                         19129663                                                    
+Haloperidol                                                  Drug                                                         766529                                                      
+melatonin 1                                                  Drug                                                         1301233                                                     
+Erlotinib 150 mg Tab                                         Drug                                                         19122519                                                    
+Ipratropium bromide 1 SPRAY                                  Drug                                                         1112921                                                     
+Posaconazole 40mg/mL Suspension                              Drug                                                         19125036                                                    
+Thrombin 10,000 units                                        Drug                                                         1300673                                                     
+Anti-Thymocyte Globulin (Rabbit) 25mg Vial                   Drug                                                         19136207                                                    
+Mesalamine Desensitization 2.5 mg / 10 mL                    Drug                                                         968426                                                      
+Albuterol Inhaler                                            Drug                                                         1154343                                                     
+Diflunisal 500mg                                             Drug                                                         1126165                                                     
+menthol (Icy Hot Patch) 5 %                                  Drug                                                         901656                                                      
+Naltrexone 1.75 mg                                           Drug                                                         1714319                                                     
+Dronedarone 400 mg tablets                                   Drug                                                         40163617                                                    
+Nitroprusside Sodium 25mg/ml-2ml                             Drug                                                         46287575                                                    
+Midazolam HCl                                                Drug                                                         708298                                                      
+Potassium Chloride 10 meq                                    Drug                                                         19049429                                                    
+Nitroprusside Sodium                                         Drug                                                         19020994                                                    
+Bupivacaine 0.1% 250 mL CADD Med Cassette                    Drug                                                         732893                                                      
+degarelix 120 mg syringe                                     Drug                                                         1718073                                                     
+Botulinum Toxin Type A 100 unit/vial                         Drug                                                         35604244                                                    
+EPINEPHRINE                                                  Drug                                                         1343916                                                     
+Potassium Phosphate 3mmol/ml-50ml                            Drug                                                         19049024                                                    
+ALBUTEROL                                                    Drug                                                         1154343                                                     
+Mesalamine Desensitization 0.25 mg / 10 mL                   Drug                                                         968426                                                      
+Clobazam 10mg tab                                            Drug                                                         19021852                                                    
+Haloperidol 2 mg/ml                                          Drug                                                         19081395                                                    
+HydrALAzine                                                  Drug                                                         1373928                                                     
+Dornase Alfa 1 mg/mL Inhl Soln                               Drug                                                         19076733                                                    
+saccharomyces boulardii 1 CAP                                Drug                                                         991855                                                      
+Candesartan 8mg                                              Drug                                                         19113474                                                    
+citrate 3mL Syringe                                          Drug                                                         19011034                                                    
+Cefuroxime 500mg Tablet                                      Drug                                                         19075002                                                    
+Epinephrine 1MG/ML AMP                                       Drug                                                         1344056                                                     
+Econazole 1% Cream 30GM                                      Drug                                                         40162381                                                    
+Topiramate 15mg sprinkle capsule                             Drug                                                         19028939                                                    
+Fluticasone 50 mcg/Actuation Nasal Spray, Susp               Drug                                                         36250141                                                    
+darifenacin SR 7.5 mg 24 hr Tab                              Drug                                                         916234                                                      
+acetylcysteine 600 mg Cap                                    Drug                                                         1139058                                                     
+Dronedarone 400 mg Tab                                       Drug                                                         40163617                                                    
+Melatonin 5 mg Tab                                           Drug                                                         1301234                                                     
+Clobazam 10mg TAB                                            Drug                                                         19021852                                                    
+Fentanyl                                                     Drug                                                         1154029                                                     
+Lactobacillus Rhamnosus (GG) 10 billion                      Drug                                                         19000811                                                    
+balsalazide 750 mg Cap                                       Drug                                                         40168549                                                    
+Lidocaine 1%                                                 Drug                                                         989878                                                      
+Flaxseed Oil Flaxseed Oil                                    Drug                                                         1315342                                                     
+Gentamicin 100mg Premix                                      Drug                                                         45892419                                                    
+Balsalazide Balsalazide                                      Drug                                                         934262                                                      
+Vancomycin ophthalmic solution 50mg/ml                       Drug                                                         1707687                                                     
+Nifedipine (Bulk) 0.2% gel                                   Drug                                                         1318853                                                     
+Vancomycin Enema Vancomycin 1mg/ml                           Drug                                                         1707687                                                     
+Coenzyme Q10 100 mg                                          Drug                                                         1351160                                                     
+Lansoprazole 15 mg Cap, Delayed Release                      Drug                                                         929953                                                      
+Tizanidine 4 mg Tab                                          Drug                                                         778479                                                      
+Bimatoprost 0.03&                                            Drug                                                         904528                                                      
+Diltiazem 50MG/10ML VL                                       Drug                                                         1328165                                                     
+methylphenidate SR  20 mg                                    Drug                                                         705944                                                      
+Acetaminophen IV 100 mL Bottle                               Drug                                                         19112656                                                    
+Ampicillin Send Vial                                         Drug                                                         40009799                                                    
+Ampicillin-Sulbactam Send Vial                               Drug                                                         40009679                                                    
+Caffeine Citrate 1 Syringe                                   Drug                                                         1135469                                                     
+Calcium Gluconate Bag                                        Drug                                                         35603394                                                    
+Calcium Gluconate sliding scale (Critical Care-Ionized calcium) Send Vial Drug                                                         35603394                                                    
+CefePIME Send Vial                                           Drug                                                         46287354                                                    
+CefTAZidime Send Vial                                        Drug                                                         46275516                                                    
+CefTRIAXone Send Vial                                        Drug                                                         46287328                                                    
+Epoetin Alfa Send Vial                                       Drug                                                         35605564                                                    
+Filgrastim Send Vial                                         Drug                                                         46234500                                                    
+Filgrastim-sndz Syringe                                      Drug                                                         40141762                                                    
+Furosemide 1 Syringe                                         Drug                                                         40040328                                                    
+Gentamicin 10 mL Vial                                        Drug                                                         1592211                                                     
+Gentamicin Send Vial                                         Drug                                                         1594373                                                     
+Insulin Dummy Package for Sliding Scale                      Drug                                                         1596977                                                     
+Iso-Osmotic Dextrose 200ml Bag                               Drug                                                         36249735                                                    
+Magnesium Sulfate 100 mL Bag                                 Drug                                                         46275282                                                    
+Magnesium Sulfate 50 mL Bag                                  Drug                                                         46275280                                                    
+Magnesium Sulfate Replacement (Critical Care and Oncology) 100 mL Bag Drug                                                         46275282                                                    
+Magnesium Sulfate Replacement (Critical Care and Oncology) 50 mL Bag Drug                                                         46275280                                                    
+Magnesium Sulfate Replacement (Oncology) 50 mL Bag           Drug                                                         46275280                                                    
+Meropenem Send Vial                                          Drug                                                         35606001                                                    
+Pantoprazole Send Vial                                       Drug                                                         948080                                                      
+PHENYLEPHrine 20mL Syringe                                   Drug                                                         40074086                                                    
+Phenylephrine 60mL Syringe                                   Drug                                                         40074086                                                    
+Vancomycin Bag                                               Drug                                                         40087247                                                    

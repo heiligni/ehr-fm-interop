@@ -1,0 +1,21 @@
+Mapping file: gcpt_meas_waveforms.csv
+
+Found 13 relevant mappings in tokenizer. Please try to manually map this file!!!
+
+
+
+Found codes in tokenizer:
+Code                                                         Domain                                                       OMOP Code                                                   
+GLOBAL HEART RATE                                            Measurement                                                  3027018                                                     
+GLOBAL PR INT                                                Measurement                                                  3007794                                                     
+GLOBAL QRS AXIS                                              Measurement                                                  3006277                                                     
+GLOBAL QRS Dur                                               Measurement                                                  3022022                                                     
+GLOBAL QT                                                    Measurement                                                  3025809                                                     
+GLOBAL QTc                                                   Measurement                                                  3026258                                                     
+HR [bpm]                                                     Measurement                                                  3027018                                                     
+RR [rpm]                                                     Measurement                                                  3013078                                                     
+SpO2 [%]                                                     Measurement                                                  3013502                                                     
+QT [msec]                                                    Measurement                                                  3025809                                                     
+QTc [msec]                                                   Measurement                                                  3026258                                                     
+btbHR [bpm]                                                  Measurement                                                  3027018                                                     
+Pulse (SpO2) [bpm]                                           Measurement                                                  4098046                                                     

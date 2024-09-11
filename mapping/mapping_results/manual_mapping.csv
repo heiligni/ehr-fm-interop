@@ -1,0 +1,1523 @@
+mapping_source_table,source_code,vocabulary_id,target_concept_id,ontology_concept_name
+gcpt_micro_microtest,70073,SNOMED/77601007,4300293,Tissue culture
+gcpt_micro_microtest,70076,SNOMED/77601007,4300293,Tissue culture
+gcpt_micro_microtest,70091,SNOMED/401289003,4296650,Methicillin resistant Staphylococcus aureus screening test
+gcpt_micro_microtest,90039,SNOMED/117010004,4024509,Urine culture
+gcpt_micro_microtest,90046,SNOMED/61594008,4189544,Microbial culture
+gcpt_micro_microtest,90055,SNOMED/117056007,4035228,Respiratory microbial culture
+gcpt_micro_microtest,90092,SNOMED/117033003,4035113,Aerobic microbial culture
+gcpt_micro_microtest,90093,SNOMED/117034009,4036044,Anaerobic microbial culture
+gcpt_micro_microtest,90110,SNOMED/117010004,4024509,Urine culture
+gcpt_micro_microtest,90117,SNOMED/117034009,4036044,Anaerobic microbial culture
+gcpt_micro_microtest,90139,SNOMED/117033003,4035113,Aerobic microbial culture
+gcpt_micro_microtest,90149,SNOMED/117034009,4036044,Anaerobic microbial culture
+gcpt_micro_microtest,90178,SNOMED/41170006,4165398,Mycology culture
+gcpt_micro_microtest,90186,SNOMED/122395005,4046245,Yeast culture
+gcpt_micro_microtest,90189,SNOMED/401289003,4296650,Methicillin resistant Staphylococcus aureus screening test
+gcpt_micro_microtest,90201,SNOMED/30088009,4107893,Blood culture
+gcpt_micro_microtest,90202,SNOMED/30088009,4107893,Blood culture
+gcpt_micro_microtest,90233,SNOMED/75332002,4327663,Clostridium difficile toxin assay
+gcpt_micro_microtest,90243,SNOMED/122253004,4045656,Campylobacter species culture
+gcpt_micro_microtest,90245,SNOMED/117034009,4036044,Anaerobic microbial culture
+gcpt_micro_microtest,90252,SNOMED/12717000,4130349,Viral culture
+gcpt_micro_microtest,90256,SNOMED/122213002,4047154,Herpes simplex virus culture
+gcpt_micro_microtest,90258,SNOMED/117033003,4035113,Aerobic microbial culture
+gcpt_micro_microtest,90260,SNOMED/117033003,4035113,Aerobic microbial culture
+gcpt_micro_microtest,90261,SNOMED/117034009,4036044,Anaerobic microbial culture
+gcpt_micro_microtest,90265,SNOMED/41170006,4165398,Mycology culture
+gcpt_micro_microtest,90267,SNOMED/117028002,4024963,Stool culture
+gcpt_micro_microtest,90268,SNOMED/117027007,4024510,"Microbial culture, body fluid"
+gcpt_micro_microtest,90269,SNOMED/41170006,4165398,Mycology culture
+gcpt_micro_microtest,90272,SNOMED/77601007,4300293,Tissue culture
+gcpt_micro_microtest,90935,SNOMED/12717000,4130349,Viral culture
+gcpt_meas_lab_loinc_mod,50802,LOINC/11555-0,3012501,Base excess in Blood by calculation
+gcpt_meas_lab_loinc_mod,50803,LOINC/1959-6,3006576,Bicarbonate [Moles/volume] in Blood
+gcpt_meas_lab_loinc_mod,50805,LOINC/20563-3,3023081,Carboxyhemoglobin/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,50806,LOINC/2069-3,3018572,Chloride [Moles/volume] in Blood
+gcpt_meas_lab_loinc_mod,50808,LOINC/1994-3,3021119,Calcium.ionized [Moles/volume] in Blood
+gcpt_meas_lab_loinc_mod,50809,LOINC/2339-0,3000483,Glucose [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50811,LOINC/718-7,3000963,Hemoglobin [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50813,LOINC/32693-4,3047181,Lactate [Moles/volume] in Blood
+gcpt_meas_lab_loinc_mod,50815,LOINC/3151-8,3005629,Inhaled oxygen flow rate
+gcpt_meas_lab_loinc_mod,50816,LOINC/3150-0,3020716,Inhaled oxygen concentration
+gcpt_meas_lab_loinc_mod,50817,LOINC/20564-1,3013502,Oxygen saturation in Blood
+gcpt_meas_lab_loinc_mod,50818,LOINC/11557-6,3013290,Carbon dioxide [Partial pressure] in Blood
+gcpt_meas_lab_loinc_mod,50820,LOINC/11558-4,3010421,pH of Blood
+gcpt_meas_lab_loinc_mod,50821,LOINC/11556-8,3027315,Oxygen [Partial pressure] in Blood
+gcpt_meas_lab_loinc_mod,50822,LOINC/6298-4,3005456,Potassium [Moles/volume] in Blood
+gcpt_meas_lab_loinc_mod,50823,LOINC/3150-0,3020716,Inhaled oxygen concentration
+gcpt_meas_lab_loinc_mod,50824,LOINC/2947-0,3000285,Sodium [Moles/volume] in Blood
+gcpt_meas_lab_loinc_mod,50825,LOINC/8310-5,3020891,Body temperature
+gcpt_meas_lab_loinc_mod,50826,LOINC/20112-9,3012410,Tidal volume setting Ventilator
+gcpt_meas_lab_loinc_mod,50831,LOINC/2748-2,3018672,pH of Body fluid
+gcpt_meas_lab_loinc_mod,50835,LOINC/1749-1,3026692,Albumin [Mass/volume] in Peritoneal fluid
+gcpt_meas_lab_loinc_mod,50836,LOINC/1797-0,3008691,Amylase [Enzymatic activity/volume] in Peritoneal fluid
+gcpt_meas_lab_loinc_mod,50841,LOINC/12191-3,3016647,Creatinine [Mass/volume] in Peritoneal fluid
+gcpt_meas_lab_loinc_mod,50842,LOINC/2347-3,3002240,Glucose [Mass/volume] in Peritoneal fluid
+gcpt_meas_lab_loinc_mod,50849,LOINC/2883-7,3002331,Protein [Mass/volume] in Peritoneal fluid
+gcpt_meas_lab_loinc_mod,50850,LOINC/14447-7,3023386,Triglyceride [Mass/volume] in Peritoneal fluid
+gcpt_meas_lab_loinc_mod,50852,LOINC/4548-4,3004410,Hemoglobin A1c/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,50853,LOINC/1989-3,3020149,25-hydroxyvitamin D3 [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50854,LOINC/41995-2,3034639,Hemoglobin A1c [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50855,LOINC/718-7,3000963,Hemoglobin [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50856,LOINC/3298-7,3002617,Acetaminophen [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50860,LOINC/1834-1,3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50861,LOINC/1742-6,3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50862,LOINC/1751-7,3024561,Albumin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50863,LOINC/6768-6,3035995,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50864,LOINC/1834-1,3009306,Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50865,LOINC/35669-1,3036152,Amikacin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50866,LOINC/16362-6,3011958,Ammonia [Moles/volume] in Plasma
+gcpt_meas_lab_loinc_mod,50867,LOINC/1798-8,3016771,Amylase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50869,LOINC/63420-4,40766151,Gliadin peptide+tissue transglutaminase IgA+IgG Ab [Presence] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,50870,LOINC/58709-7,40761803,Gliadin peptide IgA Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,50871,LOINC/17284-1,3005277,Mitochondria Ab [Presence] in Serum by Immunofluorescence
+gcpt_meas_lab_loinc_mod,50872,LOINC/17351-8,3009628,Neutrophil cytoplasmic Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50873,LOINC/8061-4,3004616,Nuclear Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50874,LOINC/5048-4,3002971,Nuclear Ab [Titer] in Serum by Immunofluorescence
+gcpt_meas_lab_loinc_mod,50876,LOINC/14252-1,3005932,Smooth muscle Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50877,LOINC/8098-6,3025547,Thyroglobulin Ab [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50878,LOINC/1920-8,3013721,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50881,LOINC/1952-1,3013201,Beta-2-Microglobulin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50883,LOINC/1968-7,3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50884,LOINC/1971-1,3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50885,LOINC/1975-2,3024128,Bilirubin.total [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50889,LOINC/1988-5,3020460,C reactive protein [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50890,LOINC/4485-9,3000620,Complement C3 [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50891,LOINC/4498-2,3017766,Complement C4 [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50892,LOINC/10334-1,3037551,Cancer Ag 125 [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50893,LOINC/17861-6,3006906,Calcium [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50896,LOINC/32215-6,3000551,Thyroxine (T4) free index in Serum or Plasma by calculation
+gcpt_meas_lab_loinc_mod,50898,LOINC/17842-6,3013520,Cancer Ag 27-29 [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50899,LOINC/3432-2,3028639,carBAMazepine [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50900,LOINC/2039-6,3003785,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50901,LOINC/16137-2,3014825,Centromere Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50902,LOINC/2075-0,3014576,Chloride [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50903,LOINC/9830-1,3011163,Cholesterol.total/Cholesterol in HDL [Mass Ratio] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50904,LOINC/2085-9,3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50905,LOINC/13457-7,3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation
+gcpt_meas_lab_loinc_mod,50906,LOINC/18262-6,3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay
+gcpt_meas_lab_loinc_mod,50907,LOINC/2093-3,3027114,Cholesterol [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50908,LOINC/49136-5,3048863,Creatine kinase.MB/Creatine kinase.total [Ratio] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50909,LOINC/2143-6,3009682,Cortisol [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50910,LOINC/2157-6,3007220,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50911,LOINC/13969-1,3005785,Creatine kinase.MB [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50912,LOINC/2160-0,3016723,Creatinine [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50913,LOINC/5117-7,3021322,Cryoglobulin [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50914,LOINC/3520-4,3010375,cycloSPORINE [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50915,LOINC/48065-7,3051714,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,50916,LOINC/2191-5,3015884,Dehydroepiandrosterone sulfate (DHEA-S) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50917,LOINC/10535-3,3011335,Digoxin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50918,LOINC/31348-6,3012718,DNA double strand Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50920,LOINC/77147-7,46236952,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)"
+gcpt_meas_lab_loinc_mod,50921,LOINC/2243-4,3025285,Estradiol (E2) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50922,LOINC/5640-8,3025643,Ethanol [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50924,LOINC/2276-4,3001122,Ferritin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50925,LOINC/2284-8,3036987,Folate [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50926,LOINC/15067-2,3023323,Follitropin [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50927,LOINC/2324-2,3026910,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50928,LOINC/2333-3,3009927,Gastrin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50929,LOINC/35668-3,3035510,Gentamicin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50930,LOINC/2336-6,3021886,Globulin [Mass/volume] in Serum
+gcpt_meas_lab_loinc_mod,50931,LOINC/2345-7,3004501,Glucose [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50935,LOINC/4542-7,3012336,Haptoglobin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50936,LOINC/19080-1,3018171,Choriogonadotropin [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50937,LOINC/13951-9,3035456,Hepatitis A virus Ab [Presence] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,50938,LOINC/22314-9,3013327,Hepatitis A virus IgM Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50939,LOINC/31204-1,3013527,Hepatitis B virus core IgM Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50940,LOINC/22322-2,3017797,Hepatitis B virus surface Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,50941,LOINC/5196-1,3019510,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,50942,LOINC/13952-7,3036282,Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,50943,LOINC/13955-0,3013801,Hepatitis C virus Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,50945,LOINC/13965-9,3016724,Homocysteine [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50946,LOINC/19080-1,3018171,Choriogonadotropin [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50948,LOINC/25700-6,3037756,Immunofixation for Serum or Plasma
+gcpt_meas_lab_loinc_mod,50949,LOINC/2458-8,3007164,IgA [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50950,LOINC/2465-3,3005719,IgG [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50951,LOINC/2472-9,3028026,IgM [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50952,LOINC/2498-4,3002400,Iron [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50953,LOINC/2500-7,3021044,Iron binding capacity [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50954,LOINC/2532-0,3016436,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50956,LOINC/3040-3,3004905,Lipase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50957,LOINC/14334-7,3024666,"Lithium, Blood [Moles/volume] in Serum or Plasma"
+gcpt_meas_lab_loinc_mod,50958,LOINC/10501-5,3009214,Lutropin [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50960,LOINC/19123-9,3001420,Magnesium [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50961,LOINC/14836-1,3017115,Methotrexate [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50963,LOINC/33762-6,3029187,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50964,LOINC/2692-2,3008295,Osmolality of Serum or Plasma
+gcpt_meas_lab_loinc_mod,50965,LOINC/2731-8,3000067,Parathyrin.intact [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50966,LOINC/3948-7,3025411,PHENobarbital [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50967,LOINC/3968-5,3022616,Phenytoin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50970,LOINC/2777-1,3011904,Phosphate [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50971,LOINC/2823-3,3023103,Potassium [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50973,LOINC/2842-3,3004722,Prolactin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50974,LOINC/2857-1,3013603,Prostate specific Ag [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50975,LOINC/12851-2,3035956,Protein Fractions [Interpretation] in Serum or Plasma by Electrophoresis
+gcpt_meas_lab_loinc_mod,50976,LOINC/2885-2,3020630,Protein [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50978,LOINC/29247-4,3021374,Sirolimus [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50980,LOINC/11572-5,3021614,Rheumatoid factor [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50981,LOINC/4024-6,3000787,Salicylates [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50982,LOINC/13967-5,3004248,Sex hormone binding globulin [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50983,LOINC/2951-2,3019550,Sodium [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50986,LOINC/11253-2,3026250,Tacrolimus [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,50988,LOINC/2986-8,3008893,Testosterone [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50989,LOINC/2991-8,3016049,Testosterone Free [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50990,LOINC/4049-3,3016072,Theophylline [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50991,LOINC/3013-0,3036535,Thyroglobulin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50992,LOINC/8099-4,3027238,Thyroperoxidase Ab [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50993,LOINC/3016-3,3009201,Thyrotropin [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50994,LOINC/3026-2,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50995,LOINC/3024-7,3008598,Thyroxine (T4) free [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50996,LOINC/31017-7,3019050,Tissue transglutaminase IgA Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,50997,LOINC/35670-9,3035509,Tobramycin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,50998,LOINC/3034-6,3004789,Transferrin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51000,LOINC/2571-8,3022192,Triglyceride [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51001,LOINC/3053-6,3010340,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51002,LOINC/10839-9,3021337,Troponin I.cardiac [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51003,LOINC/6598-7,3019800,Troponin T.cardiac [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51005,LOINC/3050-2,3021717,Triiodothyronine resin uptake (T3RU) in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51006,LOINC/3094-0,3013682,Urea nitrogen [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51007,LOINC/3084-1,3037556,Urate [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51008,LOINC/4086-5,3016201,Valproate [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51009,LOINC/20578-1,3005715,Vancomycin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51010,LOINC/2132-9,3000593,Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51022,LOINC/2348-1,3001978,Glucose [Mass/volume] in Synovial fluid
+gcpt_meas_lab_loinc_mod,51024,LOINC/2886-0,3036670,Protein [Mass/volume] in Synovial fluid
+gcpt_meas_lab_loinc_mod,51025,LOINC/1747-5,3025313,Albumin [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51026,LOINC/1795-4,3012133,Amylase [Enzymatic activity/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51028,LOINC/1974-5,3028193,Bilirubin.total [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51030,LOINC/2072-7,3013194,Chloride [Moles/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51031,LOINC/12183-0,3015232,Cholesterol [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51032,LOINC/12190-5,3016662,Creatinine [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51033,LOINC/20404-0,3036848,Fibronectin.fetal [Presence] in Vaginal fluid
+gcpt_meas_lab_loinc_mod,51034,LOINC/2344-0,3019210,Glucose [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51035,LOINC/2529-6,3008338,Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51036,LOINC/15212-4,3026286,Lipase [Enzymatic activity/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51043,LOINC/2881-1,3005029,Protein [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51044,LOINC/12228-3,3000637,Triglyceride [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51045,LOINC/3093-2,3019930,Urea nitrogen [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51047,LOINC/1796-2,3015401,Amylase [Enzymatic activity/volume] in Pleural fluid
+gcpt_meas_lab_loinc_mod,51053,LOINC/2346-5,3003403,Glucose [Mass/volume] in Pleural fluid
+gcpt_meas_lab_loinc_mod,51059,LOINC/2882-9,3003434,Protein [Mass/volume] in Pleural fluid
+gcpt_meas_lab_loinc_mod,51060,LOINC/9619-8,3034207,Triglyceride [Mass/volume] in Pleural fluid
+gcpt_meas_lab_loinc_mod,51061,LOINC/22735-5,3014637,Bicarbonate [Moles/volume] in Specimen
+gcpt_meas_lab_loinc_mod,51063,LOINC/2693-0,3007256,Osmolality of Stool
+gcpt_meas_lab_loinc_mod,51064,LOINC/15202-5,3005819,Potassium [Moles/volume] in Stool
+gcpt_meas_lab_loinc_mod,51065,LOINC/15207-4,3011846,Sodium [Moles/volume] in Stool
+gcpt_meas_lab_loinc_mod,51066,LOINC/6874-2,3007687,Calcium [Mass/time] in 24 hour Urine
+gcpt_meas_lab_loinc_mod,51067,LOINC/2162-6,3004239,Creatinine [Mass/time] in 24 hour Urine
+gcpt_meas_lab_loinc_mod,51068,LOINC/2889-4,3020876,Protein [Mass/time] in 24 hour Urine
+gcpt_meas_lab_loinc_mod,51069,LOINC/14957-5,3000034,Microalbumin [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51071,LOINC/19343-3,3000144,Amphetamine [Presence] in Urine by Screen method
+gcpt_meas_lab_loinc_mod,51074,LOINC/19270-8,3005058,Barbiturates [Presence] in Urine by Screen method
+gcpt_meas_lab_loinc_mod,51075,LOINC/14316-4,3007682,Benzodiazepines [Presence] in Urine by Screen method
+gcpt_meas_lab_loinc_mod,51077,LOINC/17862-4,3006661,Calcium [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51078,LOINC/2078-4,3007733,Chloride [Moles/volume] in Urine
+gcpt_meas_lab_loinc_mod,51080,LOINC/2164-2,3005770,Creatinine renal clearance in 24 hour Urine and Serum or Plasma
+gcpt_meas_lab_loinc_mod,51081,LOINC/2160-0,3016723,Creatinine [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51082,LOINC/2161-8,3017250,Creatinine [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51083,LOINC/5644-0,3010109,Ethanol [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51084,LOINC/2350-7,3020399,Glucose [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51085,LOINC/2106-3,3018954,Choriogonadotropin (pregnancy test) [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51086,LOINC/13440-3,3017704,Immunofixation for Urine
+gcpt_meas_lab_loinc_mod,51087,LOINC/13362-9,3016750,Collection duration of Urine
+gcpt_meas_lab_loinc_mod,51088,LOINC/19124-7,3019738,Magnesium [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51089,LOINC/3426-4,3028064,Tetrahydrocannabinol [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51090,LOINC/3773-9,3036180,Methadone [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51091,LOINC/2640-1,3011470,Myoglobin [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51092,LOINC/19295-5,3015208,Opiates [Presence] in Urine by Screen method
+gcpt_meas_lab_loinc_mod,51093,LOINC/2695-5,3026782,Osmolality of Urine
+gcpt_meas_lab_loinc_mod,51094,LOINC/2756-5,3015736,pH of Urine
+gcpt_meas_lab_loinc_mod,51095,LOINC/2778-9,3026729,Phosphate [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51096,LOINC/2809-2,3034719,Porphobilinogen [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51097,LOINC/2828-2,3016038,Potassium [Moles/volume] in Urine
+gcpt_meas_lab_loinc_mod,51099,LOINC/2890-2,3001582,Protein/Creatinine [Mass Ratio] in Urine
+gcpt_meas_lab_loinc_mod,51100,LOINC/2955-3,3003181,Sodium [Moles/volume] in Urine
+gcpt_meas_lab_loinc_mod,51101,LOINC/13362-9,3016750,Collection duration of Urine
+gcpt_meas_lab_loinc_mod,51102,LOINC/2888-6,3037121,Protein [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51104,LOINC/3095-7,3011965,Urea nitrogen [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51105,LOINC/3086-6,3033526,Urate [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51106,LOINC/2161-8,3017250,Creatinine [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51130,LOINC/8122-4,3011412,CD3 cells [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,51131,LOINC/24467-3,3028167,CD3+CD4+ (T4 helper) cells [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,51132,LOINC/14135-8,3001405,CD3+CD8+ (T8 suppressor) cells [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,51133,LOINC/731-0,3004327,Lymphocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51138,LOINC/3181-5,3009041,Cardiolipin IgG Ab [Units/volume] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,51139,LOINC/3182-3,3015813,Cardiolipin IgM Ab [Units/volume] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,51140,LOINC/27811-9,3000515,Antithrombin actual/normal in Platelet poor plasma by Chromogenic method
+gcpt_meas_lab_loinc_mod,51143,LOINC/13046-8,3013498,Variant lymphocytes/100 leukocytes in Blood
+gcpt_meas_lab_loinc_mod,51144,LOINC/26508-2,3004809,Band form neutrophils/100 leukocytes in Blood
+gcpt_meas_lab_loinc_mod,51145,LOINC/703-9,3026904,Basophilic stippling [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51146,LOINC/706-2,3013869,Basophils/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51149,LOINC/11067-6,3011625,Bleeding time
+gcpt_meas_lab_loinc_mod,51159,LOINC/17117-3,3010143,CD15 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51164,LOINC/8117-4,3016228,CD19 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51165,LOINC/8117-4,3016228,CD19 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51166,LOINC/8116-6,3010503,CD19 cells [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,51174,LOINC/8124-0,3022533,CD3 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51175,LOINC/8122-4,3011412,CD3 cells [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,51176,LOINC/8124-0,3022533,CD3 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51180,LOINC/8123-2,3014037,CD3+CD4+ (T4 helper) cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51181,LOINC/54218-3,40757349,CD3+CD4+ (T4 helper) cells/CD3+CD8+ (T8 suppressor cells) cells [# Ratio] in Blood
+gcpt_meas_lab_loinc_mod,51184,LOINC/8132-3,3020383,CD5 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51185,LOINC/8132-3,3020383,CD5 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51192,LOINC/8135-6,3003255,CD7 cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51194,LOINC/8101-8,3007449,CD3+CD8+ (T8 suppressor) cells/100 cells in Blood
+gcpt_meas_lab_loinc_mod,51196,LOINC/48065-7,3051714,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,51198,LOINC/681-7,3017196,Microscopic observation [Identifier] in Specimen by Wright stain
+gcpt_meas_lab_loinc_mod,51199,LOINC/711-2,3028615,Eosinophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51200,LOINC/713-8,3010457,Eosinophils/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51201,LOINC/2230-1,3008625,EPINEPHrine [Mass/volume] in Plasma
+gcpt_meas_lab_loinc_mod,51202,LOINC/3289-6,3005353,Prothrombin activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51203,LOINC/3187-2,3006109,Coagulation factor IX activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51204,LOINC/3193-0,3005757,Coagulation factor V activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51205,LOINC/3198-9,3011547,Coagulation factor VII activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51206,LOINC/3209-4,3019250,Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51207,LOINC/3204-5,3024942,Coagulation factor VIII inhibitor [Units/volume] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51208,LOINC/3218-5,3004409,Coagulation factor X activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51209,LOINC/3226-8,3001850,Coagulation factor XI activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51210,LOINC/3232-6,3002348,Coagulation factor XII activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51211,LOINC/27815-0,3020066,Coagulation factor XIII activity actual/normal in Platelet poor plasma by Chromogenic method
+gcpt_meas_lab_loinc_mod,51212,LOINC/4576-5,3018738,Hemoglobin F/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51213,LOINC/30226-5,3000401,Fibrin+Fibrinogen fragments [Mass/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,51214,LOINC/3255-7,3016407,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51219,LOINC/5909-7,3018760,Blood smear finding [Identifier] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51221,LOINC/4544-3,3023314,Hematocrit [Volume Fraction] of Blood by Automated count
+gcpt_meas_lab_loinc_mod,51222,LOINC/718-7,3000963,Hemoglobin [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,51223,LOINC/4551-8,3020784,Hemoglobin A2/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51224,LOINC/4563-3,3001258,Hemoglobin C/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51225,LOINC/4576-5,3018738,Hemoglobin F/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51226,LOINC/4546-8,3020428,Hemoglobin A/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51227,LOINC/4625-0,3005081,Hemoglobin S/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51228,LOINC/66483-9,40769146,Heparin unfractionated [Units/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,51229,LOINC/32684-3,3045452,LMW Heparin [Units/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,51231,LOINC/7793-3,3002620,Howell-Jolly bodies [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51234,LOINC/55230-7,40758359,Immunophenotyping study
+gcpt_meas_lab_loinc_mod,51236,LOINC/5909-7,3018760,Blood smear finding [Identifier] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51237,LOINC/6301-6,3022217,INR in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51243,LOINC/3281-3,3027184,Lupus anticoagulant [Interpretation] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,51244,LOINC/736-9,3037511,Lymphocytes/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51245,LOINC/736-9,3037511,Lymphocytes/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51248,LOINC/785-6,3012030,MCH [Entitic mass] by Automated count
+gcpt_meas_lab_loinc_mod,51249,LOINC/786-4,3009744,MCHC [Mass/volume] by Automated count
+gcpt_meas_lab_loinc_mod,51250,LOINC/787-2,3023599,MCV [Entitic volume] by Automated count
+gcpt_meas_lab_loinc_mod,51252,LOINC/30434-5,3025639,Microcytes [Presence] in Blood
+gcpt_meas_lab_loinc_mod,51253,LOINC/742-7,3033575,Monocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51254,LOINC/5905-5,3011948,Monocytes/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51256,LOINC/770-8,3008342,Neutrophils/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51257,LOINC/58413-6,40761514,Nucleated erythrocytes/100 leukocytes [Ratio] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51260,LOINC/774-0,3027920,Ovalocytes [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51261,LOINC/7795-8,3019761,Pappenheimer bodies [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51265,LOINC/777-3,3024929,Platelets [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51266,LOINC/9317-9,3033641,Platelet adequacy [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51268,LOINC/10378-8,3011987,Polychromasia [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51269,LOINC/783-1,3011587,Promyelocytes/100 leukocytes in Blood by Manual count
+gcpt_meas_lab_loinc_mod,51270,LOINC/27820-0,3002022,Protein C Ag actual/normal in Platelet poor plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51271,LOINC/27819-2,3020287,Protein C actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51272,LOINC/27823-4,3037201,Protein S Ag actual/normal in Platelet poor plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51273,LOINC/27822-6,3036669,Protein S actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51274,LOINC/5902-2,3034426,Prothrombin time (PT)
+gcpt_meas_lab_loinc_mod,51275,LOINC/14979-9,3018677,aPTT in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51276,LOINC/32546-4,3003994,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells
+gcpt_meas_lab_loinc_mod,51277,LOINC/788-0,3019897,Erythrocyte distribution width [Ratio] by Automated count
+gcpt_meas_lab_loinc_mod,51278,LOINC/800-3,3019880,Schistocytes [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51279,LOINC/789-8,3020416,Erythrocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51280,LOINC/6683-7,3005308,Reptilase time
+gcpt_meas_lab_loinc_mod,51282,LOINC/14196-0,3023520,Reticulocytes [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,51283,LOINC/60474-4,40763528,Reticulocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51284,LOINC/40665-2,3041154,Reticulocytes [#/volume] in Blood by Manual count
+gcpt_meas_lab_loinc_mod,51287,LOINC/800-3,3019880,Schistocytes [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51288,LOINC/4537-7,3013707,Erythrocyte sedimentation rate by Westergren method
+gcpt_meas_lab_loinc_mod,51289,LOINC/3128-6,3010493,Viscosity of Serum
+gcpt_meas_lab_loinc_mod,51290,LOINC/801-1,3020412,Sickle cells [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51291,LOINC/801-1,3020412,Sickle cells [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51294,LOINC/10381-2,3025616,Target cells [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51296,LOINC/7791-7,3000456,Dacrocytes [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,51297,LOINC/3243-3,3036489,Thrombin time
+gcpt_meas_lab_loinc_mod,51298,LOINC/6014-5,3037533,von Willebrand factor (vWf) ristocetin cofactor actual/normal in Platelet poor plasma by Platelet aggregation
+gcpt_meas_lab_loinc_mod,51299,LOINC/27816-8,3036035,von Willebrand factor (vWf) Ag actual/normal in Platelet poor plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51300,LOINC/6690-2,3000905,Leukocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51301,LOINC/6690-2,3000905,Leukocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51338,LOINC/55230-7,40758359,Immunophenotyping study
+gcpt_meas_lab_loinc_mod,51370,LOINC/5781-0,3022683,Crystals [type] in Synovial fluid by Light microscopy
+gcpt_meas_lab_loinc_mod,51374,LOINC/5781-0,3022683,Crystals [type] in Synovial fluid by Light microscopy
+gcpt_meas_lab_loinc_mod,51383,LOINC/26458-0,3010144,Erythrocytes [#/volume] in Synovial fluid
+gcpt_meas_lab_loinc_mod,51386,LOINC/26510-8,3017161,Band form neutrophils/100 leukocytes in Body fluid
+gcpt_meas_lab_loinc_mod,51398,LOINC/17829-3,3013368,CD19 cells/100 cells in Body fluid
+gcpt_meas_lab_loinc_mod,51404,LOINC/17826-9,3033894,CD3 cells/100 cells in Body fluid
+gcpt_meas_lab_loinc_mod,51406,LOINC/58939-0,40762032,CD34 cells [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51419,LOINC/26452-3,3021453,Eosinophils/100 leukocytes in Body fluid
+gcpt_meas_lab_loinc_mod,51424,LOINC/55230-7,40758359,Immunophenotyping study
+gcpt_meas_lab_loinc_mod,51427,LOINC/11031-2,3028079,Lymphocytes/100 leukocytes in Body fluid
+gcpt_meas_lab_loinc_mod,51431,LOINC/26487-9,3038104,Monocytes/100 leukocytes in Body fluid
+gcpt_meas_lab_loinc_mod,51433,LOINC/49229-8,3053291,Nucleated erythrocytes/100 leukocytes [Ratio] in Body fluid
+gcpt_meas_lab_loinc_mod,51438,LOINC/26455-6,3010910,Erythrocytes [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51460,LOINC/2335-8,3016251,Hemoglobin.gastrointestinal [Presence] in Stool
+gcpt_meas_lab_loinc_mod,51463,LOINC/5769-5,3025255,Bacteria [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51464,LOINC/5770-3,3018834,Bilirubin.total [Presence] in Urine by Test strip
+gcpt_meas_lab_loinc_mod,51466,LOINC/53963-5,3051227,Blood [Presence] in Urine by Visual
+gcpt_meas_lab_loinc_mod,51469,LOINC/5774-5,3006490,Calcium oxalate crystals [Presence] in Urine sediment by Light microscopy
+gcpt_meas_lab_loinc_mod,51474,LOINC/25156-1,3037579,Eosinophils [Presence] in Urine sediment by Light microscopy
+gcpt_meas_lab_loinc_mod,51476,LOINC/5787-7,3010189,Epithelial cells [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51479,LOINC/5793-5,3011483,Granular casts [#/area] in Urine sediment by Microscopy low power field
+gcpt_meas_lab_loinc_mod,51482,LOINC/5796-8,3022509,Hyaline casts [#/area] in Urine sediment by Microscopy low power field
+gcpt_meas_lab_loinc_mod,51487,LOINC/5802-4,3021601,Nitrite [Presence] in Urine by Test strip
+gcpt_meas_lab_loinc_mod,51491,LOINC/5803-2,3022621,pH of Urine by Test strip
+gcpt_meas_lab_loinc_mod,51493,LOINC/13945-1,3035124,Erythrocytes [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51496,LOINC/5809-9,3020029,Reducing substances [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51497,LOINC/26052-1,3015023,Epithelial cells.renal [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51498,LOINC/5811-5,3000330,Specific gravity of Urine by Test strip
+gcpt_meas_lab_loinc_mod,51501,LOINC/30089-7,3035851,Transitional cells [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51502,LOINC/33905-1,3029154,Trichomonas sp [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51506,LOINC/5767-9,3007876,Appearance of Urine
+gcpt_meas_lab_loinc_mod,51507,LOINC/9842-6,3005658,Casts [#/area] in Urine sediment by Microscopy low power field
+gcpt_meas_lab_loinc_mod,51508,LOINC/5778-6,3027162,Color of Urine
+gcpt_meas_lab_loinc_mod,51509,LOINC/11279-7,3036005,Urine sediment comments by Light microscopy Narrative
+gcpt_meas_lab_loinc_mod,51510,LOINC/5783-6,3026978,Unidentified crystals [Presence] in Urine sediment by Light microscopy
+gcpt_meas_lab_loinc_mod,51512,LOINC/8247-9,3006175,Mucus [Presence] in Urine sediment by Light microscopy
+gcpt_meas_lab_loinc_mod,51514,LOINC/20405-7,3037072,Urobilinogen [Mass/volume] in Urine by Test strip
+gcpt_meas_lab_loinc_mod,51516,LOINC/5821-4,3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51519,LOINC/5822-2,3037244,Yeast [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,51560,LOINC/94562-6,723473,SARS-CoV-2 (COVID-19) IgA Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51561,LOINC/94563-4,723474,SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51563,LOINC/14252-1,3005932,Smooth muscle Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51566,LOINC/2871-2,3016520,Beta globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+gcpt_meas_lab_loinc_mod,51567,LOINC/6873-4,3003985,Beta hydroxybutyrate [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51568,LOINC/33898-8,3043744,Bilirubin.conjugated+indirect [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51569,LOINC/15152-2,3019676,Bilirubin.conjugated [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51570,LOINC/1971-1,3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51574,LOINC/4477-6,3003245,Complement C1 esterase inhibitor [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51575,LOINC/4478-4,3002140,Complement C1q [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51576,LOINC/4484-2,3001793,Complement C2 [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51579,LOINC/24108-3,3022914,Cancer Ag 19-9 [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51580,LOINC/12189-7,3025909,Creatine kinase.MB/Creatine kinase.total in Serum or Plasma by calculation
+gcpt_meas_lab_loinc_mod,51581,LOINC/2053-7,3001599,Carotene [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51582,LOINC/4532-8,3028461,Complement total hemolytic CH50 [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51586,LOINC/22244-8,3016816,Cytomegalovirus IgG Ab [Presence] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51587,LOINC/5124-3,3005356,Cytomegalovirus IgG Ab [Units/volume] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51588,LOINC/30325-5,3013332,Cytomegalovirus IgM Ab [Presence] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51589,LOINC/5126-8,3003526,Cytomegalovirus IgM Ab [Units/volume] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51590,LOINC/20475-0,3038184,Cytomegalovirus IgG Ab [Interpretation] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51592,LOINC/1968-7,3027597,Bilirubin.direct [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51593,LOINC/5631-7,3027126,Copper [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51595,LOINC/20569-0,3016311,Creatine kinase.MB/Creatine kinase.total in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51598,LOINC/54206-8,40757337,Cytomegalovirus DNA [Log #/volume] (viral load) in Serum or Plasma by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51607,LOINC/23883-2,3018595,Inhibin A [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51613,LOINC/27353-2,3005131,Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin
+gcpt_meas_lab_loinc_mod,51614,LOINC/7883-2,3021849,Epstein Barr virus nuclear IgG Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51615,LOINC/7883-2,3021849,Epstein Barr virus nuclear IgG Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51618,LOINC/49564-8,3031599,Epstein Barr virus band pattern [Interpretation] in Specimen by Immunoblot Narrative
+gcpt_meas_lab_loinc_mod,51619,LOINC/7885-7,3015681,Epstein Barr virus capsid IgG Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,51620,LOINC/7886-5,3008360,Epstein Barr virus capsid IgM Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,51623,LOINC/3255-7,3016407,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51624,LOINC/1994-3,3021119,Calcium.ionized [Moles/volume] in Blood
+gcpt_meas_lab_loinc_mod,51625,LOINC/36916-5,3034860,Kappa light chains.free [Mass/volume] in Serum
+gcpt_meas_lab_loinc_mod,51626,LOINC/48378-4,3053209,Kappa light chains.free/Lambda light chains.free [Mass Ratio] in Serum
+gcpt_meas_lab_loinc_mod,51627,LOINC/33944-0,3047169,Lambda light chains.free [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51628,LOINC/15069-8,3019839,Fructosamine [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51629,LOINC/15069-8,3019839,Fructosamine [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51630,LOINC/2874-6,3023465,Gamma globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+gcpt_meas_lab_loinc_mod,51631,LOINC/4548-4,3004410,Hemoglobin A1c/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51632,LOINC/2963-7,3023709,Somatotropin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51633,LOINC/13954-3,3023378,Hepatitis B virus e Ag [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51634,LOINC/5196-1,3019510,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51635,LOINC/5196-1,3019510,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51637,LOINC/2110-5,3011149,Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51638,LOINC/4544-3,3023314,Hematocrit [Volume Fraction] of Blood by Automated count
+gcpt_meas_lab_loinc_mod,51639,LOINC/4544-3,3023314,Hematocrit [Volume Fraction] of Blood by Automated count
+gcpt_meas_lab_loinc_mod,51640,LOINC/718-7,3000963,Hemoglobin [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,51641,LOINC/4546-8,3020428,Hemoglobin A/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51642,LOINC/4547-6,3005446,Hemoglobin A1/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51643,LOINC/4551-8,3020784,Hemoglobin A2/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51644,LOINC/4563-3,3001258,Hemoglobin C/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51645,LOINC/20509-6,3027484,Hemoglobin [Mass/volume] in Blood by calculation
+gcpt_meas_lab_loinc_mod,51646,LOINC/4576-5,3018738,Hemoglobin F/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51647,LOINC/4625-0,3005081,Hemoglobin S/Hemoglobin.total in Blood
+gcpt_meas_lab_loinc_mod,51648,LOINC/48398-2,3048505,Hepatitis B virus DNA [log units/volume] (viral load) in Serum or Plasma by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51651,LOINC/38180-6,3034868,Hepatitis C virus RNA [log units/volume] (viral load) in Serum or Plasma by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51652,LOINC/30522-7,3010156,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method
+gcpt_meas_lab_loinc_mod,51653,LOINC/29893-5,3017675,HIV 1 Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51654,LOINC/29541-0,3026532,HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51655,LOINC/30361-0,3024449,HIV 2 Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51666,LOINC/17859-0,3023871,Helicobacter pylori IgG Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51667,LOINC/5176-3,3027491,Helicobacter pylori IgG Ab [Units/volume] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,51669,LOINC/22362-8,3014389,HTLV I+II Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51673,LOINC/13169-8,3000265,Immunoelectrophoresis for Serum or Plasma
+gcpt_meas_lab_loinc_mod,51675,LOINC/6301-6,3022217,INR in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,51676,LOINC/20448-7,3016244,Insulin [Units/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51677,LOINC/2823-3,3023103,Potassium [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51685,LOINC/3714-3,3004944,Lidocaine [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51687,LOINC/20510-4,3008183,Lipoprotein fractions [Interpretation] in Serum or Plasma by Electrophoresis
+gcpt_meas_lab_loinc_mod,51689,LOINC/34148-7,3044883,Borrelia burgdorferi IgG+IgM Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,51690,LOINC/736-9,3037511,Lymphocytes/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51691,LOINC/787-2,3023599,MCV [Entitic volume] by Automated count
+gcpt_meas_lab_loinc_mod,51692,LOINC/31418-7,3033533,Heterophile Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51693,LOINC/22415-4,3028498,Mumps virus IgG Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51694,LOINC/7966-5,3018867,Mumps virus IgG Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,51695,LOINC/2639-3,3005895,Myoglobin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51697,LOINC/751-8,3013650,Neutrophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51704,LOINC/777-3,3024929,Platelets [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51705,LOINC/3978-4,3002248,Primidone [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51707,LOINC/2839-9,3027144,Progesterone [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51708,LOINC/16935-9,3023421,Hepatitis B virus surface Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,51709,LOINC/31147-2,3026501,Reagin Ab [Titer] in Serum by RPR
+gcpt_meas_lab_loinc_mod,51710,LOINC/20507-0,3021461,Reagin Ab [Presence] in Serum by RPR
+gcpt_meas_lab_loinc_mod,51711,LOINC/789-8,3020416,Erythrocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51713,LOINC/11011-4,3018447,Hepatitis C virus RNA [Units/volume] (viral load) in Serum or Plasma by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51714,LOINC/56888-1,40760007,HIV 1+2 Ab+HIV1 p24 Ag [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51715,LOINC/2915-7,3007808,Renin [Enzymatic activity/volume] in Plasma
+gcpt_meas_lab_loinc_mod,51716,LOINC/2915-7,3007808,Renin [Enzymatic activity/volume] in Plasma
+gcpt_meas_lab_loinc_mod,51721,LOINC/3052-8,3027514,Triiodothyronine (T3).reverse [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51722,LOINC/2089-1,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51723,LOINC/22496-4,3010937,Rubella virus Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51724,LOINC/25514-1,3013750,Rubella virus IgG Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51725,LOINC/20479-2,3013339,Measles virus IgG Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51726,LOINC/5244-9,3006573,Measles virus IgG Ab [Units/volume] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,51728,LOINC/2132-9,3000593,Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51729,LOINC/2132-9,3000593,Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51730,LOINC/2284-8,3036987,Folate [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51738,LOINC/3021-3,3020924,Thyroxine binding globulin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51739,LOINC/2028-9,3015632,"Carbon dioxide, total [Moles/volume] in Serum or Plasma"
+gcpt_meas_lab_loinc_mod,51741,LOINC/22580-5,3024995,Toxoplasma gondii IgG Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51742,LOINC/5388-4,3006957,Toxoplasma gondii IgG Ab [Units/volume] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51743,LOINC/40678-5,3038943,Toxoplasma gondii IgM Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51744,LOINC/5390-0,3017382,Toxoplasma gondii IgM Ab [Units/volume] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,51746,LOINC/2502-3,3000185,Iron saturation [Mass Fraction] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51747,LOINC/22587-0,3019832,Treponema pallidum Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51748,LOINC/22587-0,3019832,Treponema pallidum Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51751,LOINC/1971-1,3007359,Bilirubin.indirect [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51753,LOINC/19162-7,3022386,Varicella zoster virus IgG Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,51754,LOINC/8047-3,3022575,Varicella zoster virus IgG Ab [Units/volume] in Serum
+gcpt_meas_lab_loinc_mod,51755,LOINC/6690-2,3000905,Leukocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51756,LOINC/6690-2,3000905,Leukocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,51761,LOINC/5763-8,3017394,Zinc [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,51769,LOINC/5334-8,3011564,Rubella virus IgG Ab [Units/volume] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51770,LOINC/77147-7,46236952,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)"
+gcpt_meas_lab_loinc_mod,51773,LOINC/36913-2,3035795,FMR1 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method
+gcpt_meas_lab_loinc_mod,51774,LOINC/48159-8,3052023,Hepatitis C virus Ab Signal/Cutoff in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,51775,LOINC/1746-7,3024474,Albumin [Mass/volume] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,51776,LOINC/1746-7,3024474,Albumin [Mass/volume] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,51777,LOINC/1746-7,3024474,Albumin [Mass/volume] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,51788,LOINC/31788-3,3001363,Cryptococcus sp Ag [Presence] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,51790,LOINC/2342-4,3022548,Glucose [Mass/volume] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,51791,LOINC/29541-0,3026532,HIV 1 RNA [Log #/volume] (viral load) in Serum or Plasma by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51802,LOINC/2880-3,3019473,Protein [Mass/volume] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,51811,LOINC/22735-5,3014637,Bicarbonate [Moles/volume] in Specimen
+gcpt_meas_lab_loinc_mod,51819,LOINC/13169-8,3000265,Immunoelectrophoresis for Serum or Plasma
+gcpt_meas_lab_loinc_mod,51833,LOINC/1832-5,3010296,Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid
+gcpt_meas_lab_loinc_mod,51835,LOINC/1747-5,3025313,Albumin [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51836,LOINC/1747-5,3025313,Albumin [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51837,LOINC/17812-9,3019891,Alpha 1 globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51838,LOINC/17814-5,3005504,Alpha 2 globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51841,LOINC/2335-8,3016251,Hemoglobin.gastrointestinal [Presence] in Stool
+gcpt_meas_lab_loinc_mod,51842,LOINC/3093-2,3019930,Urea nitrogen [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51843,LOINC/61367-9,40764128,Clostridioides difficile DNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51846,LOINC/43304-5,3043310,Chlamydia trachomatis rRNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51858,LOINC/25836-8,3038207,HIV 1 RNA [#/volume] (viral load) in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51859,LOINC/38917-1,3042194,Human metapneumovirus RNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51861,LOINC/13169-8,3000265,Immunoelectrophoresis for Serum or Plasma
+gcpt_meas_lab_loinc_mod,51864,LOINC/34487-9,3044938,Influenza virus A RNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51865,LOINC/34487-9,3044938,Influenza virus A RNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51869,LOINC/31859-2,3002523,Influenza virus A Ag [Presence] in Specimen
+gcpt_meas_lab_loinc_mod,51870,LOINC/31859-2,3002523,Influenza virus A Ag [Presence] in Specimen
+gcpt_meas_lab_loinc_mod,51872,LOINC/40982-1,3038288,Influenza virus B RNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51873,LOINC/40982-1,3038288,Influenza virus B RNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51875,LOINC/80383-3,21492989,Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay
+gcpt_meas_lab_loinc_mod,51877,LOINC/35492-8,3033966,Methicillin resistant Staphylococcus aureus (MRSA) DNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51879,LOINC/43305-2,3045028,Neisseria gonorrhoeae rRNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51882,LOINC/673-4,3012744,Ova and parasites identified in Specimen by Light microscopy
+gcpt_meas_lab_loinc_mod,51886,LOINC/41010-0,3038297,Parainfluenza virus 4 RNA [Presence] in Specimen by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51887,LOINC/88698-6,36305551,Protein electrophoresis panel - Body fluid
+gcpt_meas_lab_loinc_mod,51888,LOINC/17818-6,3023700,Gamma globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51890,LOINC/94558-4,723477,SARS-CoV-2 (COVID-19) Ag [Presence] in Respiratory system specimen by Rapid immunoassay
+gcpt_meas_lab_loinc_mod,51894,LOINC/78012-2,21491660,Streptococcus pyogenes Ag [Presence] in Throat by Rapid immunoassay
+gcpt_meas_lab_loinc_mod,51895,LOINC/78012-2,21491660,Streptococcus pyogenes Ag [Presence] in Throat by Rapid immunoassay
+gcpt_meas_lab_loinc_mod,51899,LOINC/32766-8,3047204,Trichomonas vaginalis [Presence] in Specimen by Wet preparation
+gcpt_meas_lab_loinc_mod,51900,LOINC/53612-8,3050920,Urate [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51911,LOINC/17812-9,3019891,Alpha 1 globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51912,LOINC/17814-5,3005504,Alpha 2 globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51917,LOINC/13169-8,3000265,Immunoelectrophoresis for Serum or Plasma
+gcpt_meas_lab_loinc_mod,51920,LOINC/17818-6,3023700,Gamma globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51928,LOINC/9407-8,3014717,Alpha 1 antitrypsin [Mass/volume] in Stool
+gcpt_meas_lab_loinc_mod,51929,LOINC/17814-5,3005504,Alpha 2 globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51933,LOINC/54067-4,3051552,Clostridioides difficile toxin genes [Presence] in Stool by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51936,LOINC/34712-0,3032057,Clostridioides difficile [Presence] in Stool
+gcpt_meas_lab_loinc_mod,51940,LOINC/17818-6,3023700,Gamma globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,51943,LOINC/13169-8,3000265,Immunoelectrophoresis for Serum or Plasma
+gcpt_meas_lab_loinc_mod,51944,LOINC/32324-6,3007869,Lactate dehydrogenase [Enzymatic activity/volume] in Specimen
+gcpt_meas_lab_loinc_mod,51945,LOINC/54905-5,40758035,Norovirus genogroup I RNA [Presence] in Stool by NAA with probe detection
+gcpt_meas_lab_loinc_mod,51947,LOINC/10701-1,3020389,Ova and parasites identified in Stool by Concentration
+gcpt_meas_lab_loinc_mod,51948,LOINC/10753-2,3024796,Fat.microscopic observation [Identifier] in Stool by Sudan IV stain
+gcpt_meas_lab_loinc_mod,51951,LOINC/3093-2,3019930,Urea nitrogen [Mass/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,51959,LOINC/1695-6,3005148,5-Hydroxyindoleacetate [Mass/time] in 24 hour Urine
+gcpt_meas_lab_loinc_mod,51961,LOINC/13990-7,3026665,Alpha 1 globulin/Protein.total in Urine by Electrophoresis
+gcpt_meas_lab_loinc_mod,51965,LOINC/13994-9,3009565,Beta globulin/Protein.total in Urine by Electrophoresis
+gcpt_meas_lab_loinc_mod,51967,LOINC/53963-5,3051227,Blood [Presence] in Urine by Visual
+gcpt_meas_lab_loinc_mod,51969,LOINC/2057-8,3033473,Catecholamines [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51974,LOINC/5632-5,3028506,Copper [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51977,LOINC/2161-8,3017250,Creatinine [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51980,LOINC/11235-9,3004176,fentaNYL [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51981,LOINC/2350-7,3020399,Glucose [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,51982,LOINC/29585-7,3008366,Immunoelectrophoresis panel - Urine
+gcpt_meas_lab_loinc_mod,51987,LOINC/32710-6,3042812,Nitrite [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51989,LOINC/10998-3,3000068,oxyCODONE [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51991,LOINC/19141-1,3011802,Propoxyphene [Presence] in Urine
+gcpt_meas_lab_loinc_mod,51992,LOINC/20454-5,3014051,Protein [Presence] in Urine by Test strip
+gcpt_meas_lab_loinc_mod,51994,LOINC/2965-2,3033543,Specific gravity of Urine
+gcpt_meas_lab_loinc_mod,52000,LOINC/2161-8,3017250,Creatinine [Mass/volume] in Urine
+gcpt_meas_lab_loinc_mod,52022,LOINC/1751-7,3024561,Albumin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52024,LOINC/38483-4,3051825,Creatinine [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,52026,LOINC/77147-7,46236952,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)"
+gcpt_meas_lab_loinc_mod,52027,LOINC/2339-0,3000483,Glucose [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,52031,LOINC/2692-2,3008295,Osmolality of Serum or Plasma
+gcpt_meas_lab_loinc_mod,52032,LOINC/19214-6,3015968,Oxygen [Partial pressure] saturation adjusted to 0.5 in Arterial blood
+gcpt_meas_lab_loinc_mod,52033,LOINC/66746-9,40769406,Specimen type
+gcpt_meas_lab_loinc_mod,52034,LOINC/49765-1,3032503,Calcium [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,52035,LOINC/49765-1,3032503,Calcium [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,52038,LOINC/1925-7,3003396,Base excess in Arterial blood by calculation
+gcpt_meas_lab_loinc_mod,52039,LOINC/1960-4,3008152,Bicarbonate [Moles/volume] in Arterial blood
+gcpt_meas_lab_loinc_mod,52040,LOINC/2019-8,3027946,Carbon dioxide [Partial pressure] in Arterial blood
+gcpt_meas_lab_loinc_mod,52041,LOINC/2744-1,3019977,pH of Arterial blood
+gcpt_meas_lab_loinc_mod,52042,LOINC/2703-7,3027801,Oxygen [Partial pressure] in Arterial blood
+gcpt_meas_lab_loinc_mod,52044,LOINC/2695-5,3026782,Osmolality of Urine
+gcpt_meas_lab_loinc_mod,52045,LOINC/2756-5,3015736,pH of Urine
+gcpt_meas_lab_loinc_mod,52046,LOINC/2828-2,3016038,Potassium [Moles/volume] in Urine
+gcpt_meas_lab_loinc_mod,52047,LOINC/2955-3,3003181,Sodium [Moles/volume] in Urine
+gcpt_meas_lab_loinc_mod,52058,LOINC/26476-2,3003467,Lymphocytes [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52069,LOINC/704-7,3013429,Basophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52070,LOINC/8116-6,3010503,CD19 cells [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,52073,LOINC/711-2,3028615,Eosinophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52074,LOINC/742-7,3033575,Monocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52075,LOINC/751-8,3013650,Neutrophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52077,LOINC/3084-1,3037556,Urate [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52078,LOINC/27811-9,3000515,Antithrombin actual/normal in Platelet poor plasma by Chromogenic method
+gcpt_meas_lab_loinc_mod,52085,LOINC/11067-6,3011625,Bleeding time
+gcpt_meas_lab_loinc_mod,52086,LOINC/11067-6,3011625,Bleeding time
+gcpt_meas_lab_loinc_mod,52097,LOINC/34550-4,3044917,Immunoglobulin panel [Mass/volume] - Serum
+gcpt_meas_lab_loinc_mod,52098,LOINC/3244-1,3023055,Clot Lysis [Time] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52101,LOINC/38483-4,3051825,Creatinine [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,52103,LOINC/34550-4,3044917,Immunoglobulin panel [Mass/volume] - Serum
+gcpt_meas_lab_loinc_mod,52104,LOINC/5117-7,3021322,Cryoglobulin [Presence] in Serum
+gcpt_meas_lab_loinc_mod,52107,LOINC/50410-0,3032493,dRVVT/dRVVT W excess phospholipid (screen to confirm ratio)
+gcpt_meas_lab_loinc_mod,52109,LOINC/6303-2,3019174,dRVVT (LA screen)
+gcpt_meas_lab_loinc_mod,52112,LOINC/3244-1,3023055,Clot Lysis [Time] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52115,LOINC/3255-7,3016407,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52116,LOINC/3255-7,3016407,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52122,LOINC/30226-5,3000401,Fibrin+Fibrinogen fragments [Mass/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,52124,LOINC/32546-4,3003994,Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells
+gcpt_meas_lab_loinc_mod,52127,LOINC/10374-7,3023873,Helmet cells [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,52134,LOINC/34550-4,3044917,Immunoglobulin panel [Mass/volume] - Serum
+gcpt_meas_lab_loinc_mod,52135,LOINC/38518-7,3050479,Immature granulocytes/100 leukocytes in Blood
+gcpt_meas_lab_loinc_mod,52140,LOINC/34571-0,3044009,aPTT.lupus sensitive (LA screen)
+gcpt_meas_lab_loinc_mod,52141,LOINC/32700-7,3045707,Microscopic observation [Identifier] in Blood by Malaria smear
+gcpt_meas_lab_loinc_mod,52144,LOINC/2613-8,3004831,Methemoglobin [Presence] in Blood
+gcpt_meas_lab_loinc_mod,52145,LOINC/31418-7,3033533,Heterophile Ab [Presence] in Serum
+gcpt_meas_lab_loinc_mod,52154,LOINC/49010-2,3048603,Platelet aggregation ADP induced [Units/volume] in Platelet rich plasma
+gcpt_meas_lab_loinc_mod,52157,LOINC/721-1,3022493,Free Hemoglobin [Mass/volume] in Plasma
+gcpt_meas_lab_loinc_mod,52159,LOINC/21027-8,3020174,Platelet aggregation [Interpretation] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,52162,LOINC/5892-5,3002346,Protein S [Units/volume] in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52164,LOINC/5902-2,3034426,Prothrombin time (PT)
+gcpt_meas_lab_loinc_mod,52166,LOINC/34571-0,3044009,aPTT.lupus sensitive (LA screen)
+gcpt_meas_lab_loinc_mod,52170,LOINC/789-8,3020416,Erythrocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52171,LOINC/6742-1,3012764,Erythrocyte morphology finding [Identifier] in Blood
+gcpt_meas_lab_loinc_mod,52173,LOINC/72695-0,43055529,Erythrocyte enzyme panel - Red Blood Cells
+gcpt_meas_lab_loinc_mod,52175,LOINC/6014-5,3037533,von Willebrand factor (vWf) ristocetin cofactor actual/normal in Platelet poor plasma by Platelet aggregation
+gcpt_meas_lab_loinc_mod,52187,LOINC/3243-3,3036489,Thrombin time
+gcpt_meas_lab_loinc_mod,52196,LOINC/57782-5,40760892,CBC W Ordered Manual Differential panel - Blood
+gcpt_meas_lab_loinc_mod,52197,LOINC/57782-5,40760892,CBC W Ordered Manual Differential panel - Blood
+gcpt_meas_lab_loinc_mod,52198,LOINC/789-8,3020416,Erythrocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52199,LOINC/800-3,3019880,Schistocytes [Presence] in Blood by Light microscopy
+gcpt_meas_lab_loinc_mod,52201,LOINC/777-3,3024929,Platelets [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52204,LOINC/788-0,3019897,Erythrocyte distribution width [Ratio] by Automated count
+gcpt_meas_lab_loinc_mod,52205,LOINC/14196-0,3023520,Reticulocytes [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,52206,LOINC/4679-7,3027945,Reticulocytes/100 erythrocytes in Blood
+gcpt_meas_lab_loinc_mod,52207,LOINC/718-7,3000963,Hemoglobin [Mass/volume] in Blood
+gcpt_meas_lab_loinc_mod,52208,LOINC/704-7,3013429,Basophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52209,LOINC/711-2,3028615,Eosinophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52211,LOINC/731-0,3004327,Lymphocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52212,LOINC/5905-5,3011948,Monocytes/100 leukocytes in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52213,LOINC/771-6,3007238,Nucleated erythrocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52216,LOINC/30376-8,3005105,Blasts [#/volume] in Blood
+gcpt_meas_lab_loinc_mod,52219,LOINC/6690-2,3000905,Leukocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52255,LOINC/34958-9,3031163,Eosinophils [#/volume] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,52262,LOINC/55230-7,40758359,Immunophenotyping study
+gcpt_meas_lab_loinc_mod,52264,LOINC/26479-6,3020951,Lymphocytes/100 leukocytes in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,52272,LOINC/26486-1,3037577,Monocytes/100 leukocytes in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,52285,LOINC/26454-9,3027475,Erythrocytes [#/volume] in Cerebral spinal fluid
+gcpt_meas_lab_loinc_mod,52312,LOINC/53557-5,3039497,Nucleated cells [#/volume] in Synovial fluid by Manual count
+gcpt_meas_lab_loinc_mod,52336,LOINC/35045-4,3031796,Variant lymphocytes [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52338,LOINC/35071-0,3030548,Basophils [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52350,LOINC/35063-7,3032084,Eosinophils [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52356,LOINC/30452-7,3019355,Segmented neutrophils [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52359,LOINC/26476-2,3003467,Lymphocytes [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52361,LOINC/35076-9,3031141,Monocytes [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52369,LOINC/55793-4,40758914,Nucleated cells [#/volume] in Body fluid
+gcpt_meas_lab_loinc_mod,52404,LOINC/2270-7,3022481,Fat [Presence] in Stool
+gcpt_meas_lab_loinc_mod,52407,LOINC/13655-6,3014441,Leukocytes [Presence] in Stool by Light microscopy
+gcpt_meas_lab_loinc_mod,52408,LOINC/630-4,3026008,Bacteria identified in Urine by Culture
+gcpt_meas_lab_loinc_mod,52411,LOINC/5794-3,3011397,Hemoglobin [Presence] in Urine by Test strip
+gcpt_meas_lab_loinc_mod,52413,LOINC/5821-4,3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,52414,LOINC/5821-4,3035583,Leukocytes [#/area] in Urine sediment by Microscopy high power field
+gcpt_meas_lab_loinc_mod,52416,LOINC/2640-1,3011470,Myoglobin [Presence] in Urine
+gcpt_meas_lab_loinc_mod,52434,LOINC/41650-3,3031248,Chloride [Moles/volume] in Arterial blood
+gcpt_meas_lab_loinc_mod,52442,LOINC/2518-9,3018405,Lactate [Moles/volume] in Arterial blood
+gcpt_meas_lab_loinc_mod,52452,LOINC/32713-0,3043409,Potassium [Moles/volume] in Arterial blood
+gcpt_meas_lab_loinc_mod,52455,LOINC/32717-1,3043706,Sodium [Moles/volume] in Arterial blood
+gcpt_meas_lab_loinc_mod,52500,LOINC/33037-3,3045716,Anion gap in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52535,LOINC/2075-0,3014576,Chloride [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52546,LOINC/2160-0,3016723,Creatinine [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52548,LOINC/5117-7,3021322,Cryoglobulin [Presence] in Serum
+gcpt_meas_lab_loinc_mod,52551,LOINC/48066-5,3048530,Fibrin D-dimer DDU [Mass/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,52562,LOINC/2284-8,3036987,Folate [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52569,LOINC/2345-7,3004501,Glucose [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52610,LOINC/2823-3,3023103,Potassium [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52623,LOINC/2951-2,3019550,Sodium [Moles/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52642,LOINC/10839-9,3021337,Troponin I.cardiac [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52647,LOINC/3094-0,3013682,Urea nitrogen [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,52720,LOINC/2106-3,3018954,Choriogonadotropin (pregnancy test) [Presence] in Urine
+gcpt_meas_lab_loinc_mod,52730,LOINC/2756-5,3015736,pH of Urine
+gcpt_meas_lab_loinc_mod,52769,LOINC/731-0,3004327,Lymphocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,52786,LOINC/11067-6,3011625,Bleeding time
+gcpt_meas_lab_loinc_mod,52838,LOINC/3289-6,3005353,Prothrombin activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52840,LOINC/3188-0,3026498,Coagulation factor IX activity [Units/volume] in Platelet poor plasma by Chromogenic method
+gcpt_meas_lab_loinc_mod,52842,LOINC/3193-0,3005757,Coagulation factor V activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52844,LOINC/3198-9,3011547,Coagulation factor VII activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52846,LOINC/3209-4,3019250,Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52849,LOINC/3218-5,3004409,Coagulation factor X activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52851,LOINC/3226-8,3001850,Coagulation factor XI activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52853,LOINC/3232-6,3002348,Coagulation factor XII activity actual/normal in Platelet poor plasma by Coagulation assay
+gcpt_meas_lab_loinc_mod,52858,LOINC/30226-5,3000401,Fibrin+Fibrinogen fragments [Mass/volume] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,52889,LOINC/3281-3,3027184,Lupus anticoagulant [Interpretation] in Platelet poor plasma
+gcpt_meas_lab_loinc_mod,52921,LOINC/5902-2,3034426,Prothrombin time (PT)
+gcpt_meas_lab_loinc_mod,52923,LOINC/3173-2,3013466,aPTT in Blood by Coagulation assay
+gcpt_meas_lab_loinc_mod,52929,LOINC/6683-7,3005308,Reptilase time
+gcpt_meas_lab_loinc_mod,52934,LOINC/40665-2,3041154,Reticulocytes [#/volume] in Blood by Manual count
+gcpt_meas_lab_loinc_mod,52948,LOINC/3243-3,3036489,Thrombin time
+gcpt_meas_lab_loinc_mod,53116,LOINC/1749-1,3026692,Albumin [Mass/volume] in Peritoneal fluid
+gcpt_meas_lab_loinc_mod,53117,LOINC/17812-9,3019891,Alpha 1 globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,53118,LOINC/17814-5,3005504,Alpha 2 globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,53123,LOINC/13169-8,3000265,Immunoelectrophoresis for Serum or Plasma
+gcpt_meas_lab_loinc_mod,53125,LOINC/17818-6,3023700,Gamma globulin/Protein.total in Body fluid by Electrophoresis
+gcpt_meas_lab_loinc_mod,53128,LOINC/1656-8,3008895,11-Deoxycorticosterone [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,53129,LOINC/3053-6,3010340,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,53130,LOINC/3026-2,3016991,Thyroxine (T4) [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,53131,LOINC/1690-7,3013614,5'-Nucleotidase [Enzymatic activity/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,53132,LOINC/731-0,3004327,Lymphocytes [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,53133,LOINC/751-8,3013650,Neutrophils [#/volume] in Blood by Automated count
+gcpt_meas_lab_loinc_mod,53138,LOINC/2862-1,3028286,Albumin [Mass/volume] in Serum or Plasma by Electrophoresis
+gcpt_meas_lab_loinc_mod,53139,LOINC/1763-2,3011337,Aldosterone [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,53140,LOINC/1763-2,3011337,Aldosterone [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,53141,LOINC/2865-4,3015322,Alpha 1 globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+gcpt_meas_lab_loinc_mod,53142,LOINC/1825-9,3026285,Alpha 1 antitrypsin [Mass/volume] in Serum or Plasma
+gcpt_meas_lab_loinc_mod,53143,LOINC/2868-8,3005229,Alpha 2 globulin [Mass/volume] in Serum or Plasma by Electrophoresis
+gcpt_meas_lab_loinc_mod,53146,LOINC/13951-9,3035456,Hepatitis A virus Ab [Presence] in Serum by Immunoassay
+gcpt_meas_lab_loinc_mod,53147,LOINC/13952-7,3036282,Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,53148,LOINC/13953-5,3036806,Hepatitis B virus e Ab [Presence] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,53149,LOINC/5193-8,3013731,Hepatitis B virus surface Ab [Units/volume] in Serum or Plasma by Immunoassay
+gcpt_meas_lab_loinc_mod,53150,LOINC/10900-9,3006453,Hepatitis B virus surface Ab [Presence] in Serum by Immunoassay
+gcpt_drug_ndc,Budesonide (Nasal) 0.5mg,RxNorm/358545,939422,budesonide 0.5 MG/ML
+gcpt_drug_ndc,acetylcysteine 100 mg/ml,RxNorm/345092,19095712,acetylcysteine 100 MG/ML
+gcpt_drug_ndc,budesonide 0.5 mg/2 mL Neb Suspension,RxNorm/346148,939398,budesonide 0.25 MG/ML
+gcpt_drug_ndc,Pulmicort ea,RxNorm/19831,939259,budesonide
+gcpt_drug_ndc,"Thrombin 5,000 units",RxNorm/10528,1300673,thrombin
+gcpt_drug_ndc,Acetylcysteine 20% 30ml Vial,RxNorm/340088,19093622,acetylcysteine 200 MG/ML
+gcpt_drug_ndc,"Prednisolone Acetate 1 % Eye Drops, Susp",RxNorm/1376335,43526394,prednisolone acetate 10 MG/ML
+gcpt_drug_ndc,Vancomycin HCl 1GM FROZ. BAG,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,theophylline ER 300 mg 12 hr Tab,RxNorm/316799,1237217,theophylline 300 MG
+gcpt_drug_ndc,Lorazepam ,RxNorm/6470,791967,lorazepam
+gcpt_drug_ndc,acetylcysteine 600mg,RxNorm/437279,1139058,acetylcysteine 600 MG
+gcpt_drug_ndc,NAC (N-acetyl-L-cysteine 600 mg Cap,RxNorm/437279,1139058,acetylcysteine 600 MG
+gcpt_drug_ndc,tetanus immune globulin tetanus immune globulin,RxNorm/1727875,35604680,tetanus immune globulin
+gcpt_drug_ndc,DiphenhydrAMINE ,RxNorm/3498,1129625,diphenhydramine
+gcpt_drug_ndc,Ampicillin Sodium 2g Vial,RxNorm/733,1717327,ampicillin
+gcpt_drug_ndc,Medium Chain Triglycerides 0,RxNorm/1310578,42899398,medium chain triglycerides
+gcpt_drug_ndc,HYDROmorphone (Dilaudid) ,RxNorm/3423,1126658,hydromorphone
+gcpt_drug_ndc,Vasopressin ,RxNorm/11149,1507835,vasopressin (USP)
+gcpt_drug_ndc,potassium citrate 10 meq,RxNorm/358572,976606,potassium citrate 10 MEQ
+gcpt_drug_ndc,Metoprolol ,RxNorm/6918,1307046,metoprolol
+gcpt_drug_ndc,Diltiazem ,RxNorm/3443,1328165,diltiazem
+gcpt_drug_ndc,Etanercept 25 mg Sub-Q Kit,RxNorm/214555,1151789,etanercept
+gcpt_drug_ndc,Coenzyme Q10 900 mg,RxNorm/21406,1351115,ubidecarenone
+gcpt_drug_ndc,DOPamine ,RxNorm/3628,1337860,dopamine
+gcpt_drug_ndc,Phenytoin Sodium ,RxNorm/8183,740910,phenytoin
+gcpt_drug_ndc,LIDOCAINE 1% (W/Presv.) ,RxNorm/328866,990243,lidocaine 10 MG/ML
+gcpt_drug_ndc,Melatonin 3 mg,RxNorm/329012,19083332,melatonin 3 MG
+gcpt_drug_ndc,brimonidine 0.1 % Eye Drops,RxNorm/861203,40164129,brimonidine tartrate 1 MG/ML
+gcpt_drug_ndc,Mesalamine Desensitization 200 mg / 200 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Ipratropium Bromide Neb ,RxNorm/7213,1112921,ipratropium
+gcpt_drug_ndc,HYDROmorphone Solution 20mg/ml,RxNorm/3423,1126658,hydromorphone
+gcpt_drug_ndc,FUROSEMIDE ,RxNorm/4603,956874,furosemide
+gcpt_drug_ndc,Levalbuterol Neb 1.25 mg/3ml,RxNorm/346138,1192244,levalbuterol 0.417 MG/ML
+gcpt_drug_ndc,Leflunomide 10 mg,RxNorm/316133,1101925,leflunomide 10 MG
+gcpt_drug_ndc,degarelix 120 mg Sub-Q Soln,RxNorm/1812344,1718073,degarelix 120 MG
+gcpt_drug_ndc,EPINEPHrine ,RxNorm/3992,1343916,epinephrine
+gcpt_drug_ndc,Dutasteride 0.5MG,RxNorm/350640,19097771,dutasteride 0.5 MG
+gcpt_drug_ndc,Phenylephrine 2.5% opth 2.5%,RxNorm/8163,1135766,phenylephrine
+gcpt_drug_ndc,Varenicline 1 mg,RxNorm/636675,780445,varenicline 1 MG
+gcpt_drug_ndc,Balsalazide Disodium 750 mg,RxNorm/885856,40168548,balsalazide disodium 750 MG
+gcpt_drug_ndc,Ranolazine 500,RxNorm/616490,19123444,ranolazine 500 MG
+gcpt_drug_ndc,Coenzyme Q10 100mg Capsule,RxNorm/252761,1351153,ubidecarenone 100 MG Oral Capsule
+gcpt_drug_ndc,Famotidine 20mg Premix Bag,RxNorm/315921,953120,famotidine 20 MG
+gcpt_drug_ndc,Syringe (0.9% Sodium Chloride) 1 Syringe,RxNorm/727633,40141424,sodium chloride Prefilled Syringe
+gcpt_drug_ndc,Leflunomide 20 mg,RxNorm/316134,1101926,leflunomide 20 MG
+gcpt_drug_ndc,mylanta 1,RxNorm/374710,40007739,aluminum hydroxide / magnesium hydroxide / simethicone Oral Suspension
+gcpt_drug_ndc,Norepinephrine 4MG/4ML AMP,RxNorm/328853,1321364,norepinephrine 1 MG/ML
+gcpt_drug_ndc,Sodium Bicarbonate ,RxNorm/36676,939506,sodium bicarbonate
+gcpt_drug_ndc,Ondansetron ,RxNorm/26225,1000560,ondansetron
+gcpt_drug_ndc,Darifenacin 7.5 mg,RxNorm/485422,916233,darifenacin 7.5 MG
+gcpt_drug_ndc,Betamethasone Sodium Phos/Acet 12mg/2ml Syringe,RxNorm/1514,920458,betamethasone
+gcpt_drug_ndc,Saccharomyces BOULARDII 1 Capsule,RxNorm/236782,991855,Saccharomyces boulardii
+gcpt_drug_ndc,Alprazolam 0.5mg Tablet,RxNorm/308048,19072934,alprazolam 0.5 MG Oral Tablet
+gcpt_drug_ndc,Acetaminophen (Liquid) ,RxNorm/1803956,40220874,acetaminophen Injection
+gcpt_drug_ndc,sodium citrate-citric acid 500 mg-334 mg/5 mL Oral Soln,RxNorm/543014,19114106,citric acid 66.8 MG/ML / sodium citrate 100 MG/ML Oral Solution
+gcpt_drug_ndc,Brimonidine 0.2% solution,RxNorm/134615,915542,brimonidine
+gcpt_drug_ndc,"Prednisolone Acetate 0.12 % Eye Drops, Susp",RxNorm/8638,1550557,prednisolone
+gcpt_drug_ndc,Morphine ,RxNorm/7052,1110410,morphine
+gcpt_drug_ndc,Sodium Chloride 23.4%;30ML V,RxNorm/9853,19136048,sodium
+gcpt_drug_ndc,Adefovir Dipivoxil 10 mg,RxNorm/881340,40168219,adefovir dipivoxil 10 MG
+gcpt_drug_ndc,warfarin 10 mg,RxNorm/855295,40163517,warfarin sodium 10 MG
+gcpt_drug_ndc,Glycerin (Laxative) gm/ml,RxNorm/4910,961145,glycerin
+gcpt_drug_ndc,Olmesartan 40 mg Tab,RxNorm/349405,19096752,olmesartan medoxomil 40 MG Oral Tablet
+gcpt_drug_ndc,escitalopram 10mg,RxNorm/351044,19098080,escitalopram 10 MG
+gcpt_drug_ndc,Timolol Maleate 0.5% XE 0.5% XE opth soln,RxNorm/1923430,1594709,timolol 5 MG/ML Ophthalmic Solution
+gcpt_drug_ndc,Mesalamine Desensitization 100 mg / 100 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Mesalamine Desensitization 1 mg / 10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Sodium Chloride 0.9%  Flush Syringe,RxNorm/727633,40141424,sodium chloride Prefilled Syringe
+gcpt_drug_ndc,Water water,RxNorm/11295,19010309,water
+gcpt_drug_ndc,HEPARIN ,RxNorm/5224,1367571,heparin
+gcpt_drug_ndc,Ketamine Study Drug (*IND*) Study Drug,RxNorm/6130,785649,ketamine
+gcpt_drug_ndc,Conjugated Estrogens 1.25 mg Tab,RxNorm/343137,1549184,"estrogens, conjugated (USP) 1.25 MG"
+gcpt_drug_ndc,Protamine Sulfate ,RxNorm/8825,19054242,protamine sulfate (USP)
+gcpt_drug_ndc,Beclomethasone Dipro. AQ (Nasal) 42mcg,RxNorm/966544,40173730,beclomethasone dipropionate 0.042 MG/ACTUAT
+gcpt_drug_ndc,Lactobacillus Acidophilus capsule,RxNorm/381174,40050771,Lactobacillus acidophilus Oral Capsule
+gcpt_drug_ndc,Insulin Detemir 100units/mL,RxNorm/484320,19112694,insulin detemir 100 UNT/ML
+gcpt_drug_ndc,"Epoetin Alfa 20,000 UNIT VIAL",RxNorm/315860,19081203,epoetin alfa 20000 UNT/ML
+gcpt_drug_ndc,Pantoprazole Dummy Pkg for POE pump and PHA SS ordering,RxNorm/40790,948078,pantoprazole
+gcpt_drug_ndc,Ketorolac 0.4 % Eye Drops,RxNorm/35827,1136980,ketorolac
+gcpt_drug_ndc,Felodipine 5mg,RxNorm/317371,1353817,felodipine 5 MG
+gcpt_drug_ndc,Sodium Chloride 0.45% Flush 3 mL Syringe,RxNorm/727633,40141424,sodium chloride Prefilled Syringe
+gcpt_drug_ndc,Metronidazole 500mg Premix Bag,RxNorm/317428,1707403,metronidazole 500 MG
+gcpt_drug_ndc,Acetic Acid Otic 2%,RxNorm/370528,40004903,acetic acid Otic Solution
+gcpt_drug_ndc,Phenylephrine HCl 100mcg/ml,RxNorm/8163,1135766,phenylephrine
+gcpt_drug_ndc,Hydrocortisone Na Succ. 100mg/2mL Vial,RxNorm/5492,975125,hydrocortisone
+gcpt_drug_ndc,solifenacin 10 mg Tab,RxNorm/477372,916008,solifenacin succinate 10 MG Oral Tablet
+gcpt_drug_ndc,Levetiracetam 750 mg Tab,RxNorm/311290,19078781,levetiracetam 750 MG Oral Tablet
+gcpt_drug_ndc,Lidocaine ,RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,dutasteride 0.5 mg Cap,RxNorm/351172,989485,dutasteride 0.5 MG Oral Capsule
+gcpt_drug_ndc,rivastigmine 9.5,RxNorm/183379,733523,rivastigmine
+gcpt_drug_ndc,Mesalamine Desensitization 0.1 mg / 10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Dobutamine 250MG PREMIX,RxNorm/3616,1337720,dobutamine
+gcpt_drug_ndc,Lactobacillus Acidophilus TAB,RxNorm/654237,40136066,Lactobacillus acidophilus Oral Tablet
+gcpt_drug_ndc,Levofloxacin 500MG PM BAG,RxNorm/317403,19082484,levofloxacin 500 MG
+gcpt_drug_ndc,desvenlafaxine 50 mg,RxNorm/790287,19129680,desvenlafaxine 50 MG
+gcpt_drug_ndc,Isradipine 15mg,RxNorm/33910,1326012,isradipine
+gcpt_drug_ndc,potassium citrate 10 mEq,RxNorm/358572,976606,potassium citrate 10 MEQ
+gcpt_drug_ndc,sevelamer carbonate 2.4gm,RxNorm/1812610,1718121,sevelamer carbonate 2400 MG
+gcpt_drug_ndc,Tobramycin Fortified Ophth. Soln. 14mg/mL,RxNorm/10627,902722,tobramycin
+gcpt_drug_ndc,Thrombin 5000 units/5 ml,RxNorm/10528,1300673,thrombin
+gcpt_drug_ndc,Sodium Citrate 3mL Syringe,RxNorm/56466,977968,sodium citrate
+gcpt_drug_ndc,Bosentan 125 mg,RxNorm/351035,19098071,bosentan 125 MG
+gcpt_drug_ndc,LORAZEPAM ,RxNorm/6470,791967,lorazepam
+gcpt_drug_ndc,desvenlafaxine ER 50 mg 24 hr Tab,RxNorm/790288,19129681,24 HR desvenlafaxine 50 MG Extended Release Oral Tablet
+gcpt_drug_ndc,Cosyntropin 250 mcg Vial,RxNorm/2890,19008009,cosyntropin
+gcpt_drug_ndc,ESMOLOL ,RxNorm/49737,19063575,esmolol
+gcpt_drug_ndc,Ipratropium Bromide 0.06 % Nasal Spray Aerosol,RxNorm/7213,1112921,ipratropium
+gcpt_drug_ndc,Thyroid 4mg,RxNorm/10572,1501309,thyroid (USP)
+gcpt_drug_ndc,VALPROIC ACID 250MG/5ML,RxNorm/1099685,40238016,valproic acid 50 MG/ML
+gcpt_drug_ndc,Pimozide 5mg,RxNorm/8331,745790,pimozide
+gcpt_drug_ndc,Rasagiline 1,RxNorm/608326,19123236,rasagiline 1 MG
+gcpt_drug_ndc,Acetazolamide Sodium 500MG VIAL,RxNorm/317288,929517,acetazolamide 500 MG
+gcpt_drug_ndc,Cosyntropin  250 mcg Vial,RxNorm/2890,19008009,cosyntropin
+gcpt_drug_ndc,Melatonin 1 mg,RxNorm/332182,1301233,melatonin 1 MG
+gcpt_drug_ndc,docosanol 10%,RxNorm/797532,980956,docosanol 100 MG/ML
+gcpt_drug_ndc,fenofibrate 160 mg tablet,RxNorm/349287,1551838,fenofibrate 160 MG Oral Tablet
+gcpt_drug_ndc,Lactobacillus Acidophilus 175 mg,RxNorm/6205,987153,Lactobacillus acidophilus
+gcpt_drug_ndc,HYDROmorphone (Dilaudid) 20 mg/ mL,RxNorm/3423,1126658,hydromorphone
+gcpt_drug_ndc,"Nepafenac 0.1 % Eye Drops, Susp",RxNorm/578044,19121303,nepafenac 1 MG/ML Ophthalmic Suspension
+gcpt_drug_ndc,vancoMYCIN for nasal inhalation 200 mg / 2 mL,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,Travoprost 0.004%,RxNorm/333557,904524,travoprost 0.04 MG/ML
+gcpt_drug_ndc,Water WATER,RxNorm/11295,19010309,water
+gcpt_drug_ndc,Trandolapril ,RxNorm/38454,1342439,trandolapril
+gcpt_drug_ndc,Hydromorphone P.F. 1000mcg/1mL Amp,RxNorm/3423,1126658,hydromorphone
+gcpt_drug_ndc,Ertapenem 500 mg,RxNorm/325642,1717963,ertapenem
+gcpt_drug_ndc,Morphine Sulfate Given in OR,RxNorm/7052,1110410,morphine
+gcpt_drug_ndc,Cisatracurium Besylate 200mg/20ml Vial,RxNorm/328995,19015729,cisatracurium 10 MG/ML
+gcpt_drug_ndc,Vancomycin ophthalmic 50mg/ml bottle,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,Mesalamine Desensitization 25 mg / 25 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Mannitol 500ML PREMIX,RxNorm/6628,994058,mannitol
+gcpt_drug_ndc,"Heparin Sodium 25,000 unit Premix Bag",RxNorm/5224,1367571,heparin
+gcpt_drug_ndc,Potassium Chloride ,RxNorm/8591,19049105,potassium chloride
+gcpt_drug_ndc,Mesalamine Desensitization 0.05 mg / 10 mL ,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,roflumilast 500mcg,RxNorm/1091837,40236898,roflumilast 0.5 MG
+gcpt_drug_ndc,AMIODARONE ,RxNorm/703,1309944,amiodarone
+gcpt_drug_ndc,Bacitracin & Polymyxin B Ophth 1,RxNorm/374629,40013984,bacitracin / polymyxin B Ophthalmic Ointment
+gcpt_drug_ndc,budesonide 3mg,RxNorm/332685,939393,budesonide 3 MG
+gcpt_drug_ndc,Melatonin 3 mg Tab,RxNorm/329012,19083332,melatonin 3 MG
+gcpt_drug_ndc,Potassium Phosphate 3mmol/ml-15ml,RxNorm/8588,19049024,potassium
+gcpt_drug_ndc,Ethanol (Ethyl Alcohol) 50%,RxNorm/448,955372,ethanol
+gcpt_drug_ndc,Entecavir 0.5mg Tablet,RxNorm/485434,1711248,entecavir 0.5 MG Oral Tablet
+gcpt_drug_ndc,vancoMYCIN for inhalation 200 mg / 2 mL,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,Folic Acid 5mg/ml-10ml,RxNorm/4511,19111620,folic acid
+gcpt_drug_ndc,ACETAMINOPHEN (LIQUID) ,RxNorm/161,1125315,acetaminophen
+gcpt_drug_ndc,Pulmicort inhaler,RxNorm/19831,939259,budesonide
+gcpt_drug_ndc,Baclofen 4000 mcg/ml,RxNorm/1292,715233,baclofen
+gcpt_drug_ndc,HALOPERIDOL ,RxNorm/5093,766529,haloperidol
+gcpt_drug_ndc,Methylprednisolone Na Succ. 1 SYRINGE,RxNorm/6902,1506270,methylprednisolone
+gcpt_drug_ndc,"nepafenac 0.1 % Eye Drops, Susp",RxNorm/578044,19121303,nepafenac 1 MG/ML Ophthalmic Suspension
+gcpt_drug_ndc,Lidocaine Jelly 2% (Urojet) ,RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,Valproate Sodium 500MG/5ML VL,RxNorm/40254,745466,valproate
+gcpt_drug_ndc,Metoprolol Tartrate ,RxNorm/6918,1307046,metoprolol
+gcpt_drug_ndc,Tobramycin Fortified Ophth. Soln. 15mg/ml,RxNorm/10627,902722,tobramycin
+gcpt_drug_ndc,bimatoprost 0.03 % Eye Drops,RxNorm/323998,904528,bimatoprost 0.3 MG/ML
+gcpt_drug_ndc,Insulin Detemir 100 unit/mL Sub-Q,RxNorm/484320,19112694,insulin detemir 100 UNT/ML
+gcpt_drug_ndc,ofloxacin 0.3%,RxNorm/7623,923081,ofloxacin
+gcpt_drug_ndc,exenatide 20 mcg,RxNorm/60548,1583722,exenatide
+gcpt_drug_ndc,Heparin ,RxNorm/5224,1367571,heparin
+gcpt_drug_ndc,POTASSIUM CHLORIDE ,RxNorm/8591,19049105,potassium chloride
+gcpt_drug_ndc,insulin detemir 100 unit/mL Sub-Q Pen,RxNorm/484320,19112694,insulin detemir 100 UNT/ML
+gcpt_drug_ndc,Fentanyl Citrate ,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,Ketorolac Tromethamine 0.4%,RxNorm/860102,40164854,ketorolac tromethamine 4 MG/ML
+gcpt_drug_ndc,Clobetasol Propionate 0.05%,RxNorm/861433,40164500,clobetasol propionate 0.0005 MG/MG
+gcpt_drug_ndc,Fentanyl Citrate 800-1600 mcg,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,"Lidocaine 1%/Epi 1::100,000 ",RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,PROPOFOL (*GENERIC*) ,RxNorm/8782,753626,propofol
+gcpt_drug_ndc,moxifloxacin  400 mg,RxNorm/330383,19085094,moxifloxacin 400 MG
+gcpt_drug_ndc,Budesonide (Nasal) 2.5MG,RxNorm/371152,40020313,budesonide Nasal Spray
+gcpt_drug_ndc,SODIUM BICARBONATE ,RxNorm/36676,939506,sodium bicarbonate
+gcpt_drug_ndc,NAFCILLIN 2GM,RxNorm/7233,1713930,nafcillin
+gcpt_drug_ndc,Darbepoetin alpha (Aranesp) 200mcg/0.4ml syrimge,RxNorm/283838,1304643,darbepoetin alfa
+gcpt_drug_ndc,chlorzoxazone 500 mg,RxNorm/315657,795153,chlorzoxazone 500 MG
+gcpt_drug_ndc,Simvastatin 20 mg,RxNorm/316673,1539465,simvastatin 20 MG
+gcpt_drug_ndc,SIMETHICONE SIMETHICONE,RxNorm/9796,966991,simethicone
+gcpt_drug_ndc,Estazolam 1mg,RxNorm/315878,748035,estazolam 1 MG
+gcpt_drug_ndc,domperidone  Powder,RxNorm/3626,19037833,domperidone
+gcpt_drug_ndc,Ethacrynate Sodium tablet,RxNorm/617327,40131003,ethacrynate Oral Tablet
+gcpt_drug_ndc,CALCIUM GLUCONATE ,RxNorm/1908,19037038,calcium gluconate
+gcpt_drug_ndc,pyridostigmine 60mg/tablet,RxNorm/373706,40075183,pyridostigmine Oral Tablet
+gcpt_drug_ndc,DopAmine 400MG PREMIX,RxNorm/3628,1337860,dopamine
+gcpt_drug_ndc,Dutasteride 0.5 mg Cap,RxNorm/351172,989485,dutasteride 0.5 MG Oral Capsule
+gcpt_drug_ndc,Tenofovir Disoproxil Fum. 300mg Tab,RxNorm/349251,1710312,tenofovir disoproxil fumarate 300 MG Oral Tablet
+gcpt_drug_ndc,Clonidine TTS 1 Patch ,RxNorm/2599,1398937,clonidine
+gcpt_drug_ndc,HYDROMORPHONE ,RxNorm/3423,1126658,hydromorphone
+gcpt_drug_ndc,COLESEVELAM 625,RxNorm/866909,40167019,colesevelam hydrochloride 625 MG
+gcpt_drug_ndc,Phenytoin Sodium 250mg/5mL Vial,RxNorm/855888,40163243,phenytoin sodium 50 MG/ML
+gcpt_drug_ndc,Propofol ,RxNorm/8782,753626,propofol
+gcpt_drug_ndc,Lovastatin 10 mg Tab,RxNorm/197903,19019115,lovastatin 10 MG Oral Tablet
+gcpt_drug_ndc,rabeprazole 20 mg,RxNorm/854862,40163284,rabeprazole sodium 20 MG
+gcpt_drug_ndc,Nitroglycerin 100MG/250 PM,RxNorm/4917,1361711,nitroglycerin
+gcpt_drug_ndc,Methylprednisolone Na Succ. 500MG VIAL,RxNorm/1743719,35606537,methylprednisolone 500 MG
+gcpt_drug_ndc,Oxybutynin Chloride ER Oxybutynin Chloride ER,RxNorm/32675,918906,oxybutynin
+gcpt_drug_ndc,Erythromycin Ethylsuccinate 200 mg/5 mL Oral Susp,RxNorm/686400,19125424,erythromycin ethylsuccinate 40 MG/ML Oral Suspension
+gcpt_drug_ndc,erlotinib 150 mg Tab,RxNorm/603206,19122519,erlotinib 150 MG Oral Tablet
+gcpt_drug_ndc,Phenytoin Sodium 100mg/2mL Vial,RxNorm/855888,40163243,phenytoin sodium 50 MG/ML
+gcpt_drug_ndc,brimonidine 0.1,RxNorm/134615,915542,brimonidine
+gcpt_drug_ndc,Darbepoetin Alfa In Polysorbate 40mcg/0.4mL,RxNorm/350792,19097935,darbepoetin alfa 0.1 MG/ML
+gcpt_drug_ndc,MORPHINE SULFATE ,RxNorm/7052,1110410,morphine
+gcpt_drug_ndc,Labetalol ,RxNorm/6185,1386957,labetalol
+gcpt_drug_ndc,Sodium Chloride 3% (Hypertonic) ,RxNorm/1807545,40221362,sodium chloride Injection
+gcpt_drug_ndc,Mesalamine Desensitization 10 mg /10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Aspirin EC 81 mg,RxNorm/315431,1113309,aspirin 81 MG
+gcpt_drug_ndc,Lidocaine 1% P.F. ,RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,Meropenem 500MG VIAL,RxNorm/1722932,35605999,meropenem 500 MG
+gcpt_drug_ndc,Clobazam 10 mg,RxNorm/331727,19050837,clobazam 10 MG
+gcpt_drug_ndc,Bumetanide 2.5MG/10ML VIAL,RxNorm/315499,932778,bumetanide 0.25 MG/ML
+gcpt_drug_ndc,Levothyroxine 88 mcg,RxNorm/905461,40174904,levothyroxine sodium 0.088 MG
+gcpt_drug_ndc,Norepinephrine ,RxNorm/7512,1321341,norepinephrine
+gcpt_drug_ndc,Fentanyl Citrate 250mcg/5mL Amp,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,Dopamine HCl 200MG/5ML;VIAL,RxNorm/3628,1337860,dopamine
+gcpt_drug_ndc,difluprednate 0.05 % Eye Drops,RxNorm/804544,19131676,difluprednate 0.5 MG/ML Ophthalmic Suspension
+gcpt_drug_ndc,Zolmitriptan 5 mg Tab,RxNorm/317540,19082572,zolmitriptan 5 MG
+gcpt_drug_ndc,Sucralfate 1000 mg,RxNorm/317509,19082547,sucralfate 1000 MG
+gcpt_drug_ndc,Bupivacaine 0.05% 250 mL CADD Med Cassette,RxNorm/1815,732893,bupivacaine
+gcpt_drug_ndc,Sodium CITRATE 4% 500 mL Bag,RxNorm/9853,19136048,sodium
+gcpt_drug_ndc,Melatonin 1mg,RxNorm/332182,1301233,melatonin 1 MG
+gcpt_drug_ndc,"Epoetin Alfa 40,000 UNIT VIAL",RxNorm/315862,1301179,epoetin alfa 40000 UNT/ML
+gcpt_drug_ndc,ESCITALOPRAM 10MG,RxNorm/351044,19098080,escitalopram 10 MG
+gcpt_drug_ndc,menthol (Icy Hot Patch) 5%,RxNorm/6750,901656,menthol
+gcpt_drug_ndc,Lorazepam 0.5mg Tablet,RxNorm/197900,19019112,lorazepam 0.5 MG Oral Tablet
+gcpt_drug_ndc,Acetaminophen ,RxNorm/161,1125315,acetaminophen
+gcpt_drug_ndc,ACETAMINOPHEN (RECTAL) ,RxNorm/161,1125315,acetaminophen
+gcpt_drug_ndc,rasagiline 0.5 mg Tab,RxNorm/636664,715734,rasagiline 0.5 MG Oral Tablet
+gcpt_drug_ndc,Lidocaine 1% 1%,RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,Ritonavir 100mg capsule 100mg Capsule,RxNorm/317150,19082373,ritonavir 100 MG Oral Capsule
+gcpt_drug_ndc,Posaconazole 40 mg / mL - 100 mL Bottle,RxNorm/665017,19125035,posaconazole 40 MG/ML
+gcpt_drug_ndc,Levofloxacin 1.5 % Eye Drops,RxNorm/545117,1742333,levofloxacin 15 MG/ML
+gcpt_drug_ndc,Budesonide  2.5MG,RxNorm/19831,939259,budesonide
+gcpt_drug_ndc,Dasatinib 50 mg Tab,RxNorm/643107,19124392,dasatinib 50 MG Oral Tablet
+gcpt_drug_ndc,Potassium Acetate 2MEQ/ML-20ML,RxNorm/333172,19076420,potassium acetate 2 MEQ/ML
+gcpt_drug_ndc,Glycopyrrolate ,RxNorm/1546438,45775571,glycopyrronium
+gcpt_drug_ndc,Ketotifen Fumarate (Bulk) 1 mg,RxNorm/6146,986117,ketotifen
+gcpt_drug_ndc,Acetic Acid Glacial 0.04% Vaginal Douche,RxNorm/168,929549,acetic acid
+gcpt_drug_ndc,Levofloxacin 250MG PM BAG,RxNorm/82122,1742253,levofloxacin
+gcpt_drug_ndc,Sildenafil 20 mg Tab,RxNorm/577033,19121182,sildenafil 20 MG Oral Tablet
+gcpt_drug_ndc,Hepatitis B Immune Globulin (Nabi-HB) NABI-HB,RxNorm/26744,501343,hepatitis B immune globulin
+gcpt_drug_ndc,Phenylephrine ,RxNorm/8163,1135766,phenylephrine
+gcpt_drug_ndc,NORepinephrine ,RxNorm/7512,1321341,norepinephrine
+gcpt_drug_ndc,Meloxicam 15mg,RxNorm/332451,1150373,meloxicam 15 MG
+gcpt_drug_ndc,HYDROmorphone PCA (Dilaudid) ,RxNorm/3423,1126658,hydromorphone
+gcpt_drug_ndc,Calcium Chloride ,RxNorm/1901,19036781,calcium chloride
+gcpt_drug_ndc,fluticasone 110 mcg/ puff,RxNorm/41126,1149380,fluticasone
+gcpt_drug_ndc,Methylprednisolone Na Succ. 1000mg Vial,RxNorm/1743725,35606541,methylprednisolone 1000 MG
+gcpt_drug_ndc,Interferon Beta-1b 0.3,RxNorm/1721322,35605313,interferon beta-1b 0.3 MG
+gcpt_drug_ndc,formoterol fumarate 20 mcg/2 mL Neb Solution,RxNorm/1246319,42708518,formoterol fumarate 0.01 MG/ML Inhalation Solution
+gcpt_drug_ndc,esomeprazole 40mg,RxNorm/331599,904454,esomeprazole 40 MG
+gcpt_drug_ndc,METFORMIN XR TABLET,RxNorm/6809,1503297,metformin
+gcpt_drug_ndc,Morphine Sulfate 20mg/ml,RxNorm/892624,40169958,morphine sulfate 20 MG/ML
+gcpt_drug_ndc,Ceftriaxone 1GM FROZ BAG,RxNorm/1665020,46287327,ceftriaxone 1000 MG
+gcpt_drug_ndc,Somatropin 5mg/ml,RxNorm/316723,1584986,somatropin 5 MG/ML
+gcpt_drug_ndc,lamotrigine 25 mg Tab,RxNorm/282401,19069199,lamotrigine 25 MG Oral Tablet
+gcpt_drug_ndc,Gentamicin 80mg Premix,RxNorm/1596450,45892419,gentamicin
+gcpt_drug_ndc,FENTANYL ,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,Imatinib 200 mg/10 ml,RxNorm/282388,1304107,imatinib
+gcpt_drug_ndc,Furosemide 100mg/10mL Vial,RxNorm/317376,957140,furosemide 10 MG/ML
+gcpt_drug_ndc,Potassium Chloride 2mEq/ml-20ml,RxNorm/333186,19049574,potassium chloride 0.2 MEQ/ML
+gcpt_drug_ndc,Fentanyl Citrate 2500mcg/50mL Vial,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,Bumetanide 1 mg,RxNorm/315501,19080991,bumetanide 1 MG
+gcpt_drug_ndc,Pilocarpine 1% 15mL;Ophthalmic Solution,RxNorm/373454,40076463,pilocarpine Ophthalmic Solution
+gcpt_drug_ndc,Loteprednol Etabonate 0.5%,RxNorm/1099498,40238167,loteprednol etabonate 0.005 MG/MG
+gcpt_drug_ndc,Isotretinoin Isotretinoin,RxNorm/6064,984232,isotretinoin
+gcpt_drug_ndc,Folic Acid 1MG/0.2ML SYR,RxNorm/4511,19111620,folic acid
+gcpt_drug_ndc,Furosemide ,RxNorm/4603,956874,furosemide
+gcpt_drug_ndc,VITAMIN K*NEO ,RxNorm/11258,19010128,vitamin K
+gcpt_drug_ndc,METOPROLOL ,RxNorm/6918,1307046,metoprolol
+gcpt_drug_ndc,LABETALOL ,RxNorm/6185,1386957,labetalol
+gcpt_drug_ndc,Vancomycin Enema 200mg/100ml ns,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,Amiodarone HCl 150mg/3mL Vial,RxNorm/833531,1309994,amiodarone hydrochloride 50 MG/ML
+gcpt_drug_ndc,ACETAMINOPHEN ,RxNorm/161,1125315,acetaminophen
+gcpt_drug_ndc,Galantamine 16 mg ,RxNorm/4637,757627,galantamine
+gcpt_drug_ndc,Sodium Chloride (Hypertonic) 5%,RxNorm/1807545,40221362,sodium chloride Injection
+gcpt_drug_ndc,Potassium Chloride Replacement (Oncology) 20mEq tablet,RxNorm/198116,19049106,potassium chloride 20 MEQ Extended Release Oral Tablet
+gcpt_drug_ndc,Dexamethasone ,RxNorm/3264,1518254,dexamethasone
+gcpt_drug_ndc,Baclofen 10mg tablet,RxNorm/197391,715235,baclofen 10 MG Oral Tablet
+gcpt_drug_ndc,Rasagiline 1 mg Tab,RxNorm/608328,19123237,rasagiline 1 MG Oral Tablet
+gcpt_drug_ndc,Erythromycin 333 mg,RxNorm/315876,1747210,erythromycin 333 MG
+gcpt_drug_ndc,Coenzyme Q10 tablet,RxNorm/371623,40059434,ubidecarenone Oral Tablet
+gcpt_drug_ndc,imatinib 100 mg Tab,RxNorm/403878,19102501,imatinib 100 MG Oral Tablet
+gcpt_drug_ndc,Erythromycin Topical Solution 2%,RxNorm/318202,19082703,erythromycin 20 MG/ML Topical Solution
+gcpt_drug_ndc,Azelastine HCl 137 mcg/ spray,RxNorm/860795,40164091,azelastine hydrochloride 0.137 MG/ACTUAT
+gcpt_drug_ndc,Brimonidine 0.2 % Eye Drops,RxNorm/861199,40164137,brimonidine tartrate 2 MG/ML
+gcpt_drug_ndc,Cefazolin 10g Bulk vial,RxNorm/2180,1771162,cefazolin
+gcpt_drug_ndc,Peppermint Oil 1,RxNorm/33094,19086712,peppermint oil
+gcpt_drug_ndc,Felodipine TAB,RxNorm/4316,1353776,felodipine
+gcpt_drug_ndc,Nizatidine 150mg,RxNorm/316382,950734,nizatidine 150 MG
+gcpt_drug_ndc,Nimodipine 1 Syringe,RxNorm/7426,1319133,nimodipine
+gcpt_drug_ndc,DIAZOXIDE  30 ML ,RxNorm/3327,1523280,diazoxide
+gcpt_drug_ndc,Cyclobenzaprine 10 mg,RxNorm/828347,778764,cyclobenzaprine hydrochloride 10 MG
+gcpt_drug_ndc,Lactobacillus Acidophilus-Pectin OTC,RxNorm/6205,987153,Lactobacillus acidophilus
+gcpt_drug_ndc,Polyethylene Glycol 400 (Bulk) 0.25%,RxNorm/8514,948490,polyethylene glycol 400
+gcpt_drug_ndc,Beclomethasone Dipropionate 80 mcg/Actuation Aerosol Inhaler,RxNorm/966539,40173735,beclomethasone dipropionate 0.08 MG/ACTUAT
+gcpt_drug_ndc,Morphine Sulfate ,RxNorm/7052,1110410,morphine
+gcpt_drug_ndc,Aripiprazole 5mg Tablet,RxNorm/402131,19102213,aripiprazole 5 MG Oral Tablet
+gcpt_drug_ndc,MAGNESIUM SULFATE ,RxNorm/6585,19093848,magnesium sulfate
+gcpt_drug_ndc,theophylline ER 300 mg 24 hr Cap,RxNorm/316799,1237217,theophylline 300 MG
+gcpt_drug_ndc,Prednisolone 10 mg,RxNorm/452820,19112502,prednisolone 10 MG
+gcpt_drug_ndc,Omeprazole CAP,RxNorm/7646,923645,omeprazole
+gcpt_drug_ndc,baclofen 3000mcg/ml,RxNorm/1292,715233,baclofen
+gcpt_drug_ndc,dexamethasone 0.1%,RxNorm/3264,1518254,dexamethasone
+gcpt_drug_ndc,Aripiprazole 5 mg,RxNorm/402368,19102252,aripiprazole 5 MG
+gcpt_drug_ndc,Nitroglycerin ,RxNorm/4917,1361711,nitroglycerin
+gcpt_drug_ndc,Baclofen 4000 mcg/mL Intrathecal,RxNorm/1292,715233,baclofen
+gcpt_drug_ndc,Hyaluronidase 150 UNITS,RxNorm/5464,19073699,hyaluronidase
+gcpt_drug_ndc,fidaxomicin 200mg TAB 200 mg Tab,RxNorm/1111106,40239987,fidaxomicin 200 MG Oral Tablet
+gcpt_drug_ndc,Mannitol 20% 500ML PREMIX,RxNorm/316226,994123,mannitol 200 MG/ML
+gcpt_drug_ndc,NITROGLYCERIN ,RxNorm/4917,1361711,nitroglycerin
+gcpt_drug_ndc,Bupivacaine 0.2% 250 mL CADD Med Cassette,RxNorm/1815,732893,bupivacaine
+gcpt_drug_ndc,"Lidocaine 1%/Epi  1::100,000 ",RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,mupirocin 2 % Ointment,RxNorm/311878,951537,mupirocin 0.02 MG/MG Nasal Ointment
+gcpt_drug_ndc,Ipratropium Bromide HFA ,RxNorm/7213,1112921,ipratropium
+gcpt_drug_ndc,Albuterol Inhalation Soln 0.5% ,RxNorm/2108226,1356108,albuterol Inhalation Solution
+gcpt_drug_ndc,Budesonide (Pulmicort) 0.5mg respules,RxNorm/19831,939259,budesonide
+gcpt_drug_ndc,Ondansetron HCl 8 mg Tab,RxNorm/312086,19079171,ondansetron 8 MG Oral Tablet
+gcpt_drug_ndc,Ketorolac TroMETHamine 0.4%,RxNorm/860102,40164854,ketorolac tromethamine 4 MG/ML
+gcpt_drug_ndc,Atropine Sulfate ,RxNorm/1223,914335,atropine
+gcpt_drug_ndc,PROPOFOL ,RxNorm/8782,753626,propofol
+gcpt_drug_ndc,Metoprolol Tartrate 100 mg,RxNorm/866411,40167199,metoprolol tartrate 100 MG
+gcpt_drug_ndc,Magnesium Sulfate ,RxNorm/6585,19093848,magnesium sulfate
+gcpt_drug_ndc,Linezolid 600MG PM BAG,RxNorm/331505,19087402,linezolid 600 MG
+gcpt_drug_ndc,bicalutamide 50 mg Tab,RxNorm/199123,1344403,bicalutamide 50 MG Oral Tablet
+gcpt_drug_ndc,Lidocaine 2% ,RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,Bacitracin Ointment 15g Tube,RxNorm/370982,40014637,bacitracin Topical Ointment
+gcpt_drug_ndc,Prochlorperazine ,RxNorm/8704,752061,prochlorperazine
+gcpt_drug_ndc,OxycoDONE (Immediate Release) ,RxNorm/7804,1124957,oxycodone
+gcpt_drug_ndc,Naltrexone 1.75 mg,RxNorm/7243,1714319,naltrexone
+gcpt_drug_ndc,Sodium Citrate 4% 3mL Syringe,RxNorm/9853,19136048,sodium
+gcpt_drug_ndc,Sodium CITRATE 4% 3mL Syringe,RxNorm/9853,19136048,sodium
+gcpt_drug_ndc,Propofol (Generic) 1000mg/100ml Vial,RxNorm/345859,753630,propofol 10 MG/ML
+gcpt_drug_ndc,Mycophenolate Mofetil 500MG VIAL,RxNorm/316317,19004036,mycophenolate mofetil 500 MG
+gcpt_drug_ndc,Tobramycin Fortified Ophth. 15mg/ml bottle,RxNorm/10627,902722,tobramycin
+gcpt_drug_ndc,Melatonin 3mg tab,RxNorm/329012,19083332,melatonin 3 MG
+gcpt_drug_ndc,tacrolimus 0.5 mg capsules,RxNorm/313190,19079712,tacrolimus 0.5 MG Oral Capsule
+gcpt_drug_ndc,alfuzosin ER 10 mg 24 hr Tab,RxNorm/861131,40164023,alfuzosin hydrochloride 10 MG
+gcpt_drug_ndc,Temozolomide 165 mg Cap,RxNorm/37776,1341149,temozolomide
+gcpt_drug_ndc,Enalaprilat 1.25MG/ML VL,RxNorm/315855,1342025,enalaprilat 1.25 MG/ML
+gcpt_drug_ndc,Isradipine 5mg ,RxNorm/316112,1326083,isradipine 5 MG
+gcpt_drug_ndc,Esmolol ,RxNorm/49737,19063575,esmolol
+gcpt_drug_ndc,Diphenhydramine HCl 2% 2% Cream,RxNorm/377689,40033987,diphenhydramine Topical Cream
+gcpt_drug_ndc,Levalbuterol (Xopenex) 1.25mg/3ml,RxNorm/237159,1192218,levalbuterol
+gcpt_drug_ndc,Isradipine 5 mg,RxNorm/316112,1326083,isradipine 5 MG
+gcpt_drug_ndc,Alfuzosin 10 mg,RxNorm/861131,40164023,alfuzosin hydrochloride 10 MG
+gcpt_drug_ndc,rivastigmine 6mg cap,RxNorm/331511,733568,rivastigmine 6 MG
+gcpt_drug_ndc,Ritonavir study med 100mg,RxNorm/317488,1748959,ritonavir 100 MG
+gcpt_drug_ndc,Ranolazine 500 mg Tablet,RxNorm/616490,19123444,ranolazine 500 MG
+gcpt_drug_ndc,Gentamicin ophth oint 0.3% 0.3%,RxNorm/310466,19077580,gentamicin 0.003 MG/MG Ophthalmic Ointment
+gcpt_drug_ndc,Bosentan 125mg,RxNorm/351035,19098071,bosentan 125 MG
+gcpt_drug_ndc,Mesalamine Desensitization 5 mg / 10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Potassium Chloride 2mEq/ml-10ml,RxNorm/333186,19049574,potassium chloride 0.2 MEQ/ML
+gcpt_drug_ndc,ERYTHROMYCIN 0.5% OPHTH OINT ,RxNorm/310149,19076953,erythromycin 0.005 MG/MG Ophthalmic Ointment
+gcpt_drug_ndc,OxycoDONE ,RxNorm/7804,1124957,oxycodone
+gcpt_drug_ndc,colesevelam 625,RxNorm/866909,40167019,colesevelam hydrochloride 625 MG
+gcpt_drug_ndc,Mupirocin Nasal Ointment 2% 2%,RxNorm/372971,40062277,mupirocin Nasal Ointment
+gcpt_drug_ndc,Morphine Sulfate 100mg/100ml Premix,RxNorm/892476,40169882,morphine sulfate 1 MG/ML
+gcpt_drug_ndc,Bupivacaine 0.1% 250 mL Yellow Med Cassette,RxNorm/1815,732893,bupivacaine
+gcpt_drug_ndc,Epinephrine Kit ,RxNorm/3992,1343916,epinephrine
+gcpt_drug_ndc,Enema Disposable 1,RxNorm/371944,40036796,docusate Enema
+gcpt_drug_ndc,cefadroxil 500 mg,RxNorm/315593,1769599,cefadroxil 500 MG
+gcpt_drug_ndc,Calcium Gluconate ,RxNorm/1908,19037038,calcium gluconate
+gcpt_drug_ndc,HydrALAZINE ,RxNorm/5470,1373928,hydralazine
+gcpt_drug_ndc,Acidophilus 175mg,RxNorm/6205,987153,Lactobacillus acidophilus
+gcpt_drug_ndc,MIDAZOLAM ,RxNorm/6960,708298,midazolam
+gcpt_drug_ndc,Sodium Chloride  Syringe,RxNorm/727633,40141424,sodium chloride Prefilled Syringe
+gcpt_drug_ndc,norethindrone acetate 5 mg Tab,RxNorm/1000404,40224821,norethindrone acetate 5 MG
+gcpt_drug_ndc,Miconazole  200mg/supp,RxNorm/6932,907879,miconazole
+gcpt_drug_ndc,Prednisone 5MG /ML ORAL CONCENTRATE,RxNorm/8640,1551099,prednisone
+gcpt_drug_ndc,PHENYLEPHRINE HCL ,RxNorm/8163,1135766,phenylephrine
+gcpt_drug_ndc,Potassium Chloride 20mEq/50ml Premix,RxNorm/8588,19049024,potassium
+gcpt_drug_ndc,Acetic Acid 0.04%,RxNorm/168,929549,acetic acid
+gcpt_drug_ndc,fenofibrate 200mg,RxNorm/379814,1551865,fenofibrate 200 MG
+gcpt_drug_ndc,Levalbuterol HCl 1.25 mg,RxNorm/237159,1192218,levalbuterol
+gcpt_drug_ndc,Imatinib 400MG/20ML,RxNorm/282388,1304107,imatinib
+gcpt_drug_ndc,Benzoyl Peroxide 5% wash,RxNorm/1418,918172,benzoyl peroxide
+gcpt_drug_ndc,Glucosamine Chondroitin SMConc tablet,RxNorm/619128,40131393,chondroitin sulfates / glucosamine Oral Tablet
+gcpt_drug_ndc,Risedronate Sodium 35MG tAB,RxNorm/905024,40174494,risedronate sodium 35 MG Oral Tablet
+gcpt_drug_ndc,Bumetanide 1 Syringe,RxNorm/1808,932745,bumetanide
+gcpt_drug_ndc,Flecainide Acetate 150mg TAB,RxNorm/886670,40169049,flecainide acetate 150 MG
+gcpt_drug_ndc,Everolimus 5 mg Tab,RxNorm/845515,19135083,everolimus 5 MG Oral Tablet
+gcpt_drug_ndc,Cefazolin 1g Froz.Bag,RxNorm/1665048,46287336,cefazolin 1000 MG
+gcpt_drug_ndc,Felodipine 5m,RxNorm/317371,1353817,felodipine 5 MG
+gcpt_drug_ndc,Potassium Chloride Replacement (Oncology) 20mEq Tablet,RxNorm/198116,19049106,potassium chloride 20 MEQ Extended Release Oral Tablet
+gcpt_drug_ndc,"Epoetin Alfa 10,000 UNIT VIAL",RxNorm/315858,1301175,epoetin alfa 10000 UNT/ML
+gcpt_drug_ndc,TACROLIMUS 0.5MG ,RxNorm/330404,19085134,tacrolimus 0.5 MG
+gcpt_drug_ndc,Etomidate ,RxNorm/4177,19050488,etomidate
+gcpt_drug_ndc,Acetaminophen (Rectal) ,RxNorm/161,1125315,acetaminophen
+gcpt_drug_ndc,Liothyronine 10 mcg/ml,RxNorm/10814,1505346,liothyronine
+gcpt_drug_ndc,Varenicline 1 mg Tab,RxNorm/636676,780446,varenicline 1 MG Oral Tablet
+gcpt_drug_ndc,Propofol Diprivan 200mg,RxNorm/8782,753626,propofol
+gcpt_drug_ndc,Ranolazine 250 mg Tablet,RxNorm/35829,1337107,ranolazine
+gcpt_drug_ndc,Candesartan Cilexetil 4mg Tab,RxNorm/540781,19113470,candesartan cilexetil 4 MG
+gcpt_drug_ndc,Octreotide Acetate ,RxNorm/7617,1522957,octreotide
+gcpt_drug_ndc,Calcium Gluconate 1g/10mL Vial,RxNorm/315546,19037093,calcium gluconate 100 MG/ML
+gcpt_drug_ndc,Pimecrolimus 1 % Topical Cream,RxNorm/562805,40119606,pimecrolimus Topical Cream
+gcpt_drug_ndc,CycloSPORINE Modified (Eon Labs) 25mg,RxNorm/835893,19010558,"cyclosporine, modified 25 MG"
+gcpt_drug_ndc,Levothyroxine 37.5 mcg,RxNorm/10582,1501700,levothyroxine
+gcpt_drug_ndc,Octreotide Acetate 100mcg/mL-1mL,RxNorm/7617,1522957,octreotide
+gcpt_drug_ndc,Meropenem 1000mg Vial,RxNorm/1722938,35606005,meropenem 1000 MG
+gcpt_drug_ndc,Teriparatide 20 mcg,RxNorm/32915,1521987,teriparatide
+gcpt_drug_ndc,warfarin 10 mg Tab,RxNorm/855296,40163518,warfarin sodium 10 MG Oral Tablet
+gcpt_drug_ndc,sevelamer carbonate 2.4 gram Oral Powder Packet,RxNorm/861370,40166055,sevelamer carbonate 2400 MG Powder for Oral Suspension
+gcpt_drug_ndc,bimatoprost 0.01 % Eye Drops,RxNorm/1009338,40226428,bimatoprost 0.1 MG/ML
+gcpt_drug_ndc,Nitroglycerin Ointment  2% ,RxNorm/242946,1361859,nitroglycerin 0.02 MG/MG Topical Ointment
+gcpt_drug_ndc,sodium citrate 3mL Syringe,RxNorm/56466,977968,sodium citrate
+gcpt_drug_ndc,leflunomide 10mg,RxNorm/316133,1101925,leflunomide 10 MG
+gcpt_drug_ndc,Bupivacaine 0.1% ,RxNorm/1815,732893,bupivacaine
+gcpt_drug_ndc,cefadroxil 500 mg Cap,RxNorm/309049,19074847,cefadroxil 500 MG Oral Capsule
+gcpt_drug_ndc,Diazepam ,RxNorm/3322,723013,diazepam
+gcpt_drug_ndc,NITROPRUSSIDE ,RxNorm/7476,19020994,nitroprusside
+gcpt_drug_ndc,Mannitol 20% ,RxNorm/316226,994123,mannitol 200 MG/ML
+gcpt_drug_ndc,Nafcillin Sodium 2g,RxNorm/1721459,35605337,nafcillin 2000 MG
+gcpt_drug_ndc,Potassium Chloride 40meq/20ml,RxNorm/904253,40175445,potassium chloride 0.4 MEQ
+gcpt_drug_ndc,clindamycin lotion,RxNorm/377650,40030890,clindamycin Topical Lotion
+gcpt_drug_ndc,Eptifibatide 75MG PREMIX BOTTLE,RxNorm/75635,1322199,eptifibatide
+gcpt_drug_ndc,Medium Chain Triglycerides 30 mL bottle,RxNorm/1310578,42899398,medium chain triglycerides
+gcpt_drug_ndc,Prednisone 5MG/ML ORAL SOLUTION,RxNorm/205301,19028933,prednisone 5 MG/ML Oral Solution
+gcpt_drug_ndc,Mesalamine Desensitization 50 mg / 50 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Adenosine (Diagnostic) 6MG/2ML,RxNorm/296,1309204,adenosine
+gcpt_drug_ndc,Ranolazine 500mg,RxNorm/616490,19123444,ranolazine 500 MG
+gcpt_drug_ndc,magnesium oxide-Mg AA chelate 133mg,RxNorm/602857,19122456,magnesium amino acid chelate 133 MG
+gcpt_drug_ndc,Melatonin 3,RxNorm/329012,19083332,melatonin 3 MG
+gcpt_drug_ndc,Vancomycin HCl 500mg Vial,RxNorm/1807515,40221357,vancomycin 500 MG
+gcpt_drug_ndc,Dronedarone 400 mg Tablet,RxNorm/854856,40163617,dronedarone 400 MG Oral Tablet
+gcpt_drug_ndc,Melatonin 1mg/tab,RxNorm/332182,1301233,melatonin 1 MG
+gcpt_drug_ndc,HYDROmorphone ,RxNorm/3423,1126658,hydromorphone
+gcpt_drug_ndc,PHENYLEPHrine ,RxNorm/8163,1135766,phenylephrine
+gcpt_drug_ndc,Buprenorphine HCl Buprenophrine HCl,RxNorm/1819,1133201,buprenorphine
+gcpt_drug_ndc,Acetylcysteine 600 mg Cap,RxNorm/437279,1139058,acetylcysteine 600 MG
+gcpt_drug_ndc,NAC 600,RxNorm/437279,1139058,acetylcysteine 600 MG
+gcpt_drug_ndc,Clobazam Clobazam,RxNorm/21241,19050832,clobazam
+gcpt_drug_ndc,Vagifem vagifem,RxNorm/4083,1548195,estradiol
+gcpt_drug_ndc,Formoterol Fumarate 12 mcg Inhl CpDv,RxNorm/1246326,42708523,formoterol fumarate 0.012 MG Inhalation Powder
+gcpt_drug_ndc,Sodium Chloride Syringe,RxNorm/727633,40141424,sodium chloride Prefilled Syringe
+gcpt_drug_ndc,Candesartan Cilexetil 16mg,RxNorm/577775,1351582,candesartan cilexetil 16 MG
+gcpt_drug_ndc,Phenobarbital 15 mg Tab,RxNorm/316476,734850,phenobarbital 15 MG
+gcpt_drug_ndc,Eplerenone 50 mg Oral Tab,RxNorm/351257,1309801,eplerenone 50 MG Oral Tablet
+gcpt_drug_ndc,Fentanyl Citrate 500mcg/10mL Amp,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,Isradipine 5 mg ,RxNorm/316112,1326083,isradipine 5 MG
+gcpt_drug_ndc,zidovudine 50mg/5ml,RxNorm/317538,1710656,zidovudine 10 MG/ML
+gcpt_drug_ndc,Racepinephrine ,RxNorm/66887,1300153,racepinephrine
+gcpt_drug_ndc,Tretinoin (Emollient) 0.04% gel,RxNorm/350661,19097797,tretinoin 0.0004 MG/MG
+gcpt_drug_ndc,Ascorbic Acid 500 mg/mL Injection,RxNorm/315406,19080924,ascorbic acid 500 MG/ML
+gcpt_drug_ndc,exemestane 25 mg Tab,RxNorm/310261,19077218,exemestane 25 MG Oral Tablet
+gcpt_drug_ndc,Glucosamine Chondroitin MaxStr 1,RxNorm/619127,40131392,chondroitin sulfates / glucosamine Oral Capsule
+gcpt_drug_ndc,sorafenib 200 mg Tab,RxNorm/597747,1363389,sorafenib 200 MG Oral Tablet
+gcpt_drug_ndc,Albuterol 0.083% Neb Soln ,RxNorm/346188,1154501,albuterol 0.83 MG/ML
+gcpt_drug_ndc,Bosentan 125 mg Tab,RxNorm/656659,1321641,bosentan 125 MG Oral Tablet
+gcpt_drug_ndc,Pantoprazole Sodium 40mg Vial,RxNorm/330396,19085107,pantoprazole 40 MG
+gcpt_drug_ndc,Leuprolide Acetate 7.5 mg,RxNorm/1115461,40240986,leuprolide acetate 7.5 MG/ML
+gcpt_drug_ndc,Calcium Replacement (Oncology) ,RxNorm/1895,19018544,calcium
+gcpt_drug_ndc,Gluco Sulfate NaCl-Chond Su Na tab,RxNorm/619128,40131393,chondroitin sulfates / glucosamine Oral Tablet
+gcpt_drug_ndc,Water Water,RxNorm/11295,19010309,water
+gcpt_drug_ndc,Aripiprazole 5 mg Tab,RxNorm/402131,19102213,aripiprazole 5 MG Oral Tablet
+gcpt_drug_ndc,Mesalamine Desensitization 0.025 mg / 10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Meperidine ,RxNorm/6754,1102527,meperidine
+gcpt_drug_ndc,Phenylephrine HCl ,RxNorm/8163,1135766,phenylephrine
+gcpt_drug_ndc,Aspirin (Rectal) ,RxNorm/1191,1112807,aspirin
+gcpt_drug_ndc,Dextran  1 (Promit) 1,RxNorm/329684,1319182,dextran 70 1 MG/ML
+gcpt_drug_ndc,Adefovir Dipivoxil 10mg,RxNorm/881340,40168219,adefovir dipivoxil 10 MG
+gcpt_drug_ndc,Vancomycin fortified opthalmic 50mg/ml,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,Lidocaine Viscous 2% 120ml Bottle,RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,Midazolam ,RxNorm/6960,708298,midazolam
+gcpt_drug_ndc,melatonin 1 mg Tab,RxNorm/199425,1301156,melatonin 1 MG Oral Tablet
+gcpt_drug_ndc,Vasopressin 20U/ML VIAL,RxNorm/316883,1507839,vasopressin (USP) 20 UNT/ML
+gcpt_drug_ndc,Levalbuterol (Xopenex) 0.63 mg/3 mL,RxNorm/237159,1192218,levalbuterol
+gcpt_drug_ndc,Heparin Sodium ,RxNorm/5224,1367571,heparin
+gcpt_drug_ndc,Halobetasol Propionate 0.05%,RxNorm/884691,40168956,halobetasol propionate 0.0005 MG/MG
+gcpt_drug_ndc,Nitroglycerin SL ,RxNorm/4917,1361711,nitroglycerin
+gcpt_drug_ndc,sevelamer carbonate 2.4 gm,RxNorm/1812610,1718121,sevelamer carbonate 2400 MG
+gcpt_drug_ndc,roflumilast 500 mcg tablet,RxNorm/1091839,40236899,roflumilast 0.5 MG Oral Tablet
+gcpt_drug_ndc,Ribavirin *NF* 1 gm Vial,RxNorm/9344,1762711,ribavirin
+gcpt_drug_ndc,Levothyroxine Sodium 50 mcg,RxNorm/10582,1501700,levothyroxine
+gcpt_drug_ndc,halobetasol propionate 0.05 % Topical Cream,RxNorm/41208,949759,halobetasol
+gcpt_drug_ndc,Epinephrine ,RxNorm/3992,1343916,epinephrine
+gcpt_drug_ndc,Fentanyl Citrate Dummy Pkg for POE pump and PHA SS ordering,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,Epoetin Alfa 4000U VIAL,RxNorm/317363,1301180,epoetin alfa 4000 UNT/ML
+gcpt_drug_ndc,Warfarin 10 mg,RxNorm/855295,40163517,warfarin sodium 10 MG
+gcpt_drug_ndc,Clobazam 10mg,RxNorm/331727,19050837,clobazam 10 MG
+gcpt_drug_ndc,Amlodipine 5 mg,RxNorm/329528,1332450,amlodipine 5 MG
+gcpt_drug_ndc,Aspirin ,RxNorm/1191,1112807,aspirin
+gcpt_drug_ndc,Water 500ml,RxNorm/11295,19010309,water
+gcpt_drug_ndc,Mesalamine Desensitization 0.5 mg / 10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Phenylephrine HCl 1% Phenylephrine 1%,RxNorm/8163,1135766,phenylephrine
+gcpt_drug_ndc,desvenlafaxine 100 mg,RxNorm/790262,19129663,desvenlafaxine 100 MG
+gcpt_drug_ndc,Haloperidol ,RxNorm/5093,766529,haloperidol
+gcpt_drug_ndc,melatonin 1,RxNorm/332182,1301233,melatonin 1 MG
+gcpt_drug_ndc,Erlotinib 150 mg Tab,RxNorm/603206,19122519,erlotinib 150 MG Oral Tablet
+gcpt_drug_ndc,Ipratropium bromide 1 SPRAY,RxNorm/7213,1112921,ipratropium
+gcpt_drug_ndc,Posaconazole 40mg/mL Suspension,RxNorm/665019,19125036,posaconazole 40 MG/ML Oral Suspension
+gcpt_drug_ndc,"Thrombin 10,000 units",RxNorm/10528,1300673,thrombin
+gcpt_drug_ndc,Anti-Thymocyte Globulin (Rabbit) 25mg Vial,RxNorm/1011,19136207,"lymphocyte immune globulin, anti-thymocyte globulin"
+gcpt_drug_ndc,Mesalamine Desensitization 2.5 mg / 10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Albuterol Inhaler ,RxNorm/435,1154343,albuterol
+gcpt_drug_ndc,Diflunisal 500mg,RxNorm/315811,1126165,diflunisal 500 MG
+gcpt_drug_ndc,menthol (Icy Hot Patch) 5 %,RxNorm/6750,901656,menthol
+gcpt_drug_ndc,Naltrexone 1.75 mg ,RxNorm/7243,1714319,naltrexone
+gcpt_drug_ndc,Dronedarone 400 mg tablets,RxNorm/854856,40163617,dronedarone 400 MG Oral Tablet
+gcpt_drug_ndc,Nitroprusside Sodium 25mg/ml-2ml,RxNorm/1666591,46287575,sodium nitroprusside 25 MG/ML
+gcpt_drug_ndc,Midazolam HCl ,RxNorm/6960,708298,midazolam
+gcpt_drug_ndc,Potassium Chloride 10 meq,RxNorm/316543,19049429,potassium chloride 10 MEQ
+gcpt_drug_ndc,Nitroprusside Sodium ,RxNorm/7476,19020994,nitroprusside
+gcpt_drug_ndc,Bupivacaine 0.1% 250 mL CADD Med Cassette,RxNorm/1815,732893,bupivacaine
+gcpt_drug_ndc,degarelix 120 mg syringe,RxNorm/1812344,1718073,degarelix 120 MG
+gcpt_drug_ndc,Botulinum Toxin Type A 100 unit/vial,RxNorm/1726286,35604244,onabotulinumtoxinA 100 UNT
+gcpt_drug_ndc,EPINEPHRINE ,RxNorm/3992,1343916,epinephrine
+gcpt_drug_ndc,Potassium Phosphate 3mmol/ml-50ml,RxNorm/8588,19049024,potassium
+gcpt_drug_ndc,ALBUTEROL ,RxNorm/435,1154343,albuterol
+gcpt_drug_ndc,Mesalamine Desensitization 0.25 mg / 10 mL,RxNorm/52582,968426,mesalamine
+gcpt_drug_ndc,Clobazam 10mg tab,RxNorm/199450,19021852,clobazam 10 MG Oral Tablet
+gcpt_drug_ndc,Haloperidol 2 mg/ml,RxNorm/316028,19081395,haloperidol 2 MG/ML
+gcpt_drug_ndc,HydrALAzine ,RxNorm/5470,1373928,hydralazine
+gcpt_drug_ndc,Dornase Alfa 1 mg/mL Inhl Soln,RxNorm/310014,19076733,dornase alfa 1 MG/ML Inhalation Solution
+gcpt_drug_ndc,saccharomyces boulardii 1 CAP,RxNorm/236782,991855,Saccharomyces boulardii
+gcpt_drug_ndc,Candesartan 8mg,RxNorm/540788,19113474,candesartan cilexetil 8 MG
+gcpt_drug_ndc,citrate 3mL Syringe,RxNorm/114200,19011034,citrate
+gcpt_drug_ndc,Cefuroxime 500mg Tablet,RxNorm/309098,19075002,cefuroxime 500 MG Oral Tablet
+gcpt_drug_ndc,Epinephrine 1MG/ML AMP,RxNorm/328316,1344056,epinephrine 1 MG/ML
+gcpt_drug_ndc,Econazole 1% Cream 30GM,RxNorm/857366,40162381,econazole nitrate 10 MG/ML Topical Cream
+gcpt_drug_ndc,Topiramate 15mg sprinkle capsule,RxNorm/205316,19028939,topiramate 15 MG Oral Capsule
+gcpt_drug_ndc,"Fluticasone 50 mcg/Actuation Nasal Spray, Susp",RxNorm/1797907,36250141,fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray
+gcpt_drug_ndc,darifenacin SR 7.5 mg 24 hr Tab,RxNorm/485423,916234,24 HR darifenacin 7.5 MG Extended Release Oral Tablet
+gcpt_drug_ndc,acetylcysteine 600 mg Cap,RxNorm/437279,1139058,acetylcysteine 600 MG
+gcpt_drug_ndc,Dronedarone 400 mg Tab,RxNorm/854856,40163617,dronedarone 400 MG Oral Tablet
+gcpt_drug_ndc,Melatonin 5 mg Tab,RxNorm/332183,1301234,melatonin 5 MG
+gcpt_drug_ndc,Clobazam 10mg TAB,RxNorm/199450,19021852,clobazam 10 MG Oral Tablet
+gcpt_drug_ndc,Fentanyl ,RxNorm/4337,1154029,fentanyl
+gcpt_drug_ndc,Lactobacillus Rhamnosus (GG) 10 billion,RxNorm/100278,19000811,Lacticaseibacillus rhamnosus
+gcpt_drug_ndc,balsalazide 750 mg Cap,RxNorm/885857,40168549,balsalazide disodium 750 MG Oral Capsule
+gcpt_drug_ndc,Lidocaine 1% ,RxNorm/6387,989878,lidocaine
+gcpt_drug_ndc,Flaxseed Oil Flaxseed Oil,RxNorm/318224,1315342,flaxseed extract
+gcpt_drug_ndc,Gentamicin 100mg Premix,RxNorm/1596450,45892419,gentamicin
+gcpt_drug_ndc,Balsalazide Balsalazide,RxNorm/18747,934262,balsalazide
+gcpt_drug_ndc,Vancomycin ophthalmic solution 50mg/ml,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,Nifedipine (Bulk) 0.2% gel,RxNorm/7417,1318853,nifedipine
+gcpt_drug_ndc,Vancomycin Enema Vancomycin 1mg/ml,RxNorm/11124,1707687,vancomycin
+gcpt_drug_ndc,Coenzyme Q10 100 mg,RxNorm/331747,1351160,ubidecarenone 100 MG
+gcpt_drug_ndc,"Lansoprazole 15 mg Cap, Delayed Release",RxNorm/596843,929953,lansoprazole 15 MG Delayed Release Oral Capsule
+gcpt_drug_ndc,Tizanidine 4 mg Tab,RxNorm/313413,778479,tizanidine 4 MG Oral Tablet
+gcpt_drug_ndc,Bimatoprost 0.03&,RxNorm/323998,904528,bimatoprost 0.3 MG/ML
+gcpt_drug_ndc,Diltiazem 50MG/10ML VL,RxNorm/3443,1328165,diltiazem
+gcpt_drug_ndc,methylphenidate SR  20 mg,RxNorm/6901,705944,methylphenidate
+gcpt_drug_ndc,Acetaminophen IV 100 mL Bottle,RxNorm/483017,19112656,100 ML acetaminophen 10 MG/ML Injection
+gcpt_drug_ndc,Ampicillin Send Vial,RxNorm/370584,40009799,ampicillin Injectable Solution
+gcpt_drug_ndc,Ampicillin-Sulbactam Send Vial,RxNorm/376673,40009679,ampicillin / sulbactam Injectable Solution
+gcpt_drug_ndc,Caffeine Citrate 1 Syringe,RxNorm/849931,1135469,3 ML caffeine citrate 20 MG/ML Injection
+gcpt_drug_ndc,Calcium Gluconate Bag,RxNorm/1668247,35603394,calcium gluconate Injection
+gcpt_drug_ndc,Calcium Gluconate sliding scale (Critical Care-Ionized calcium) Send Vial,RxNorm/1668247,35603394,calcium gluconate Injection
+gcpt_drug_ndc,CefePIME Send Vial,RxNorm/1665093,46287354,cefepime 1000 MG Injection
+gcpt_drug_ndc,CefTAZidime Send Vial,RxNorm/1659283,46275516,ceftazidime 1000 MG Injection
+gcpt_drug_ndc,CefTRIAXone Send Vial,RxNorm/1665021,46287328,ceftriaxone 1000 MG Injection
+gcpt_drug_ndc,Epoetin Alfa Send Vial,RxNorm/1721637,35605564,epoetin alfa Injection
+gcpt_drug_ndc,Filgrastim Send Vial,RxNorm/1649943,46234500,filgrastim Injection
+gcpt_drug_ndc,Filgrastim-sndz Syringe,RxNorm/727534,40141762,filgrastim Prefilled Syringe
+gcpt_drug_ndc,Furosemide 1 Syringe,RxNorm/95600,40040328,furosemide Injectable Solution
+gcpt_drug_ndc,Gentamicin 10 mL Vial,RxNorm/1870686,1592211,10 ML gentamicin 10 MG/ML Injection
+gcpt_drug_ndc,Gentamicin Send Vial,RxNorm/1870216,1594373,gentamicin Injectable Solution
+gcpt_drug_ndc,Insulin Dummy Package for Sliding Scale,RxNorm/253182,1596977,"insulin, regular, human"
+gcpt_drug_ndc,Iso-Osmotic Dextrose 200ml Bag,RxNorm/1795608,36249735,glucose 50 MG/ML Injection
+gcpt_drug_ndc,Magnesium Sulfate 100 mL Bag,RxNorm/1658262,46275282,100 ML magnesium sulfate 40 MG/ML Injection
+gcpt_drug_ndc,Magnesium Sulfate 50 mL Bag,RxNorm/1658259,46275280,50 ML magnesium sulfate 40 MG/ML Injection
+gcpt_drug_ndc,Magnesium Sulfate Replacement (Critical Care and Oncology) 100 mL Bag,RxNorm/1658262,46275282,100 ML magnesium sulfate 40 MG/ML Injection
+gcpt_drug_ndc,Magnesium Sulfate Replacement (Critical Care and Oncology) 50 mL Bag,RxNorm/1658259,46275280,50 ML magnesium sulfate 40 MG/ML Injection
+gcpt_drug_ndc,Magnesium Sulfate Replacement (Oncology) 50 mL Bag,RxNorm/1658259,46275280,50 ML magnesium sulfate 40 MG/ML Injection
+gcpt_drug_ndc,Meropenem Send Vial,RxNorm/1722934,35606001,meropenem 500 MG Injection
+gcpt_drug_ndc,Pantoprazole Send Vial,RxNorm/283669,948080,pantoprazole 40 MG Injection
+gcpt_drug_ndc,PHENYLEPHrine 20mL Syringe,RxNorm/373369,40074086,phenylephrine Injectable Solution
+gcpt_drug_ndc,Phenylephrine 60mL Syringe,RxNorm/373369,40074086,phenylephrine Injectable Solution
+gcpt_drug_ndc,Vancomycin Bag,RxNorm/375983,40087247,vancomycin Injectable Solution
+gcpt_meas_chartevents_main_mod,220045,LOINC/8867-4,3027018,Heart rate
+gcpt_meas_chartevents_main_mod,220050,LOINC/8480-6,3004249,Systolic blood pressure
+gcpt_meas_chartevents_main_mod,220051,LOINC/8462-4,3012888,Diastolic blood pressure
+gcpt_meas_chartevents_main_mod,220052,LOINC/8478-0,3027598,Mean blood pressure
+gcpt_meas_chartevents_main_mod,220074,LOINC/60985-9,21490675,Central venous pressure (CVP)
+gcpt_meas_chartevents_main_mod,220210,LOINC/9279-1,3024171,Respiratory rate
+gcpt_meas_chartevents_main_mod,220224,LOINC/2703-7,3027801,Oxygen [Partial pressure] in Arterial blood
+gcpt_meas_chartevents_main_mod,220228,LOINC/718-7,3000963,Hemoglobin [Mass/volume] in Blood
+gcpt_meas_chartevents_main_mod,220235,LOINC/2019-8,3027946,Carbon dioxide [Partial pressure] in Arterial blood
+gcpt_meas_chartevents_main_mod,220545,LOINC/20570-8,3009542,Hematocrit [Volume Fraction] of Blood
+gcpt_meas_chartevents_main_mod,220602,LOINC/2075-0,3014576,Chloride [Moles/volume] in Serum or Plasma
+gcpt_meas_chartevents_main_mod,220615,LOINC/2160-0,3016723,Creatinine [Mass/volume] in Serum or Plasma
+gcpt_meas_chartevents_main_mod,220621,LOINC/2345-7,3004501,Glucose [Mass/volume] in Serum or Plasma
+gcpt_meas_chartevents_main_mod,220645,LOINC/2951-2,3019550,Sodium [Moles/volume] in Serum or Plasma
+gcpt_meas_chartevents_main_mod,223761,LOINC/8310-5,3020891,Body temperature
+gcpt_meas_chartevents_main_mod,223762,LOINC/8310-5,3020891,Body temperature
+gcpt_meas_chartevents_main_mod,223795,SNOMED/225399009,4021323,Pain assessment
+gcpt_meas_chartevents_main_mod,223830,LOINC/2744-1,3019977,pH of Arterial blood
+gcpt_meas_chartevents_main_mod,223835,LOINC/3150-0,3020716,Inhaled oxygen concentration
+gcpt_meas_chartevents_main_mod,224013,LOINC/2335-8,3016251,Hemoglobin.gastrointestinal [Presence] in Stool
+gcpt_meas_chartevents_main_mod,224016,LOINC/5778-6,3027162,Color of Urine
+gcpt_meas_chartevents_main_mod,224167,LOINC/8480-6,3004249,Systolic blood pressure
+gcpt_meas_chartevents_main_mod,224359,LOINC/8636-3,3026258,Q-T interval corrected
+gcpt_meas_chartevents_main_mod,224642,LOINC/8327-9,3024265,Body temperature measurement site
+gcpt_meas_chartevents_main_mod,224643,LOINC/8462-4,3012888,Diastolic blood pressure
+gcpt_meas_chartevents_main_mod,224690,LOINC/9279-1,3024171,Respiratory rate
+gcpt_meas_chartevents_main_mod,224697,LOINC/60949-5,42527086,Mean airway pressure
+gcpt_meas_chartevents_main_mod,224828,LOINC/1925-7,3003396,Base excess in Arterial blood by calculation
+gcpt_meas_chartevents_main_mod,224876,LOINC/5767-9,3007876,Appearance of Urine
+gcpt_meas_chartevents_main_mod,225085,SNOMED/76498008,4295261,Postmenopausal state
+gcpt_meas_chartevents_main_mod,225106,SNOMED/15167005,433753,Alcohol abuse
+gcpt_meas_chartevents_main_mod,225309,LOINC/8480-6,3004249,Systolic blood pressure
+gcpt_meas_chartevents_main_mod,225310,LOINC/8462-4,3012888,Diastolic blood pressure
+gcpt_meas_chartevents_main_mod,225312,LOINC/8478-0,3027598,Mean blood pressure
+gcpt_meas_chartevents_main_mod,225624,LOINC/6299-2,3004295,Urea nitrogen [Mass/volume] in Blood
+gcpt_meas_chartevents_main_mod,225667,LOINC/1994-3,3021119,Calcium.ionized [Moles/volume] in Blood
+gcpt_meas_chartevents_main_mod,225668,LOINC/2518-9,3018405,Lactate [Moles/volume] in Arterial blood
+gcpt_meas_chartevents_main_mod,226512,LOINC/29463-7,3025315,Body weight
+gcpt_meas_chartevents_main_mod,226531,LOINC/29463-7,3025315,Body weight
+gcpt_meas_chartevents_main_mod,226707,LOINC/8302-2,3036277,Body height
+gcpt_meas_chartevents_main_mod,226730,LOINC/8302-2,3036277,Body height
+gcpt_meas_chartevents_main_mod,226754,LOINC/3150-0,3020716,Inhaled oxygen concentration
+gcpt_meas_chartevents_main_mod,227010,LOINC/3150-0,3020716,Inhaled oxygen concentration
+gcpt_meas_chartevents_main_mod,227073,LOINC/41276-7,3039000,Anion gap in Blood
+gcpt_meas_chartevents_main_mod,227242,LOINC/8462-4,3012888,Diastolic blood pressure
+gcpt_meas_chartevents_main_mod,227243,LOINC/8480-6,3004249,Systolic blood pressure
+gcpt_meas_chartevents_main_mod,227442,LOINC/2823-3,3023103,Potassium [Moles/volume] in Serum or Plasma
+gcpt_meas_chartevents_main_mod,229687,SNOMED/225399009,4021323,Pain assessment
+gcpt_proc_itemid,221214,SNOMED/77477000,4300757,Computed tomography
+gcpt_proc_itemid,221216,SNOMED/168537006,4056681,Plain radiography
+gcpt_proc_itemid,221217,SNOMED/16310003,4037672,Ultrasonography
+gcpt_proc_itemid,221219,SNOMED/4970003,4175809,Venography
+gcpt_proc_itemid,221223,SNOMED/54550000,4181917,Electroencephalogram
+gcpt_proc_itemid,221255,SNOMED/105376000,4019824,Transesophageal echocardiography
+gcpt_proc_itemid,223253,SNOMED/113091000,4013636,Magnetic resonance imaging
+gcpt_proc_itemid,224263,SNOMED/233527006,4052413,Central venous cannula insertion
+gcpt_proc_itemid,224264,SNOMED/425196008,4322380,Insertion of peripherally inserted central catheter
+gcpt_proc_itemid,224267,SNOMED/233527006,4052413,Central venous cannula insertion
+gcpt_proc_itemid,224268,SNOMED/233527006,4052413,Central venous cannula insertion
+gcpt_proc_itemid,224385,SNOMED/112798008,4013354,Insertion of endotracheal tube
+gcpt_proc_itemid,225199,SNOMED/233527006,4052413,Central venous cannula insertion
+gcpt_proc_itemid,225202,SNOMED/276838001,4174447,Implanted drug delivery system procedure
+gcpt_proc_itemid,225204,SNOMED/425196008,4322380,Insertion of peripherally inserted central catheter
+gcpt_proc_itemid,225399,SNOMED/277762005,4080549,Lumbar puncture
+gcpt_proc_itemid,225400,SNOMED/10847001,4032404,Bronchoscopy
+gcpt_proc_itemid,225401,SNOMED/30088009,4107893,Blood culture
+gcpt_proc_itemid,225402,SNOMED/29303009,4163951,Electrocardiographic procedure
+gcpt_proc_itemid,225427,SNOMED/77343006,4299523,Angiography
+gcpt_proc_itemid,225430,SNOMED/34945008,4148369,Angiocardiography
+gcpt_proc_itemid,225432,SNOMED/433236007,4335825,Transthoracic echocardiography
+gcpt_proc_itemid,225433,SNOMED/264957007,4141919,Insertion of pleural tube drain
+gcpt_proc_itemid,225434,SNOMED/73761001,4249893,Colonoscopy
+gcpt_proc_itemid,225437,SNOMED/104174003,4014499,Microbial culture of cerebrospinal fluid
+gcpt_proc_itemid,225439,SNOMED/423827005,4313889,Endoscopy
+gcpt_proc_itemid,225440,SNOMED/44491008,4195288,Fluoroscopy
+gcpt_proc_itemid,225442,SNOMED/86259008,4314001,Biopsy of liver
+gcpt_proc_itemid,225443,SNOMED/371572003,4155794,Nuclear medicine procedure
+gcpt_proc_itemid,225444,SNOMED/30088009,4107893,Blood culture
+gcpt_proc_itemid,225445,SNOMED/89305009,4231419,Abdominal paracentesis
+gcpt_proc_itemid,225446,SNOMED/235159007,4122234,Percutaneous endoscopic gastrostomy
+gcpt_proc_itemid,225447,SNOMED/122462000,4046266,Drainage procedure
+gcpt_proc_itemid,225449,SNOMED/309849004,4149930,Pericardiocentesis
+gcpt_proc_itemid,225450,SNOMED/53438000,4205728,Radiation therapy procedure or service
+gcpt_proc_itemid,225454,SNOMED/117010004,4024509,Urine culture
+gcpt_proc_itemid,225457,SNOMED/60654006,4264477,Diagnostic radiography of abdomen
+gcpt_proc_itemid,225459,SNOMED/399208008,4163872,Plain chest X-ray
+gcpt_proc_itemid,225462,SNOMED/240917005,4081708,Interventional radiology
+gcpt_proc_itemid,225463,SNOMED/284394000,4111530,Examination of spine
+gcpt_proc_itemid,225464,SNOMED/281572005,4083499,Direct current cardiac shock
+gcpt_proc_itemid,225465,SNOMED/29857009,77670,Chest pain
+gcpt_proc_itemid,225466,SNOMED/410429000,321042,Cardiac arrest
+gcpt_proc_itemid,225467,SNOMED/177765008,4073393,Opening of chest
+gcpt_proc_itemid,225468,SNOMED/271280005,4150627,Removal of endotracheal tube
+gcpt_proc_itemid,225472,SNOMED/36118008,253796,Pneumothorax
+gcpt_proc_itemid,225474,SNOMED/1912002,436583,Fall
+gcpt_proc_itemid,225475,SNOMED/87317003,317109,Respiratory arrest
+gcpt_proc_itemid,225476,SNOMED/175853000,4022792,Removal of central venous line
+gcpt_proc_itemid,225477,SNOMED/271280005,4150627,Removal of endotracheal tube
+gcpt_proc_itemid,225479,SNOMED/91602002,4240305,Thoracentesis
+gcpt_proc_itemid,225752,SNOMED/392247006,4213288,Insertion of catheter into artery
+gcpt_proc_itemid,225794,SNOMED/428311008,4177224,Non-invasive ventilation
+gcpt_proc_itemid,225814,SNOMED/117028002,4024963,Stool culture
+gcpt_proc_itemid,225816,SNOMED/401294003,4296651,"Wound microscopy, culture and sensitivities"
+gcpt_proc_itemid,225821,SNOMED/175853000,4022792,Removal of central venous line
+gcpt_proc_itemid,227194,SNOMED/271280005,4150627,Removal of endotracheal tube
+gcpt_proc_itemid,227550,SNOMED/386718000,4304943,Endoscopic retrograde cholangiopancreatography
+gcpt_proc_itemid,227551,SNOMED/20720000,4049372,Plasmapheresis
+gcpt_proc_itemid,227711,SNOMED/241031001,4081548,Removal of drain
+gcpt_proc_itemid,227713,SNOMED/18946005,4078199,Epidural anesthesia
+gcpt_proc_itemid,227714,SNOMED/241031001,4081548,Removal of drain
+gcpt_proc_itemid,227715,SNOMED/284394000,4111530,Examination of spine
+gcpt_proc_itemid,227719,SNOMED/233527006,4052413,Central venous cannula insertion
+gcpt_proc_itemid,228286,SNOMED/430824005,4326816,Intraosseous cannulation
+gcpt_proc_datetimeevents,224183,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224184,SNOMED/425196008,4322380,Insertion of peripherally inserted central catheter
+gcpt_proc_datetimeevents,224185,SNOMED/425196008,4322380,Insertion of peripherally inserted central catheter
+gcpt_proc_datetimeevents,224186,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224187,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224261,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224262,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,224279,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224280,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,224282,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224284,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224285,SNOMED/392247006,4213288,Insertion of catheter into artery
+gcpt_proc_datetimeevents,224287,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224288,SNOMED/392247006,4213288,Insertion of catheter into artery
+gcpt_proc_datetimeevents,224290,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224292,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224293,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224295,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224296,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,224298,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,224878,SNOMED/720649006,36715149,Introduction of urinary catheter
+gcpt_proc_datetimeevents,225213,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225214,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225216,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225218,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225221,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225222,SNOMED/82936005,4305794,Introduction of catheter into pulmonary artery
+gcpt_proc_datetimeevents,225224,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225226,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225316,SNOMED/82936005,4305794,Introduction of catheter into pulmonary artery
+gcpt_proc_datetimeevents,225317,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225318,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225319,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,225321,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225322,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,225324,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225327,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225328,SNOMED/275066000,4168999,Open insertion of Hickman central venous catheter
+gcpt_proc_datetimeevents,225329,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225330,SNOMED/275066000,4168999,Open insertion of Hickman central venous catheter
+gcpt_proc_datetimeevents,225332,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225337,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225340,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225343,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225345,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225348,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225351,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225352,SNOMED/82936005,4305794,Introduction of catheter into pulmonary artery
+gcpt_proc_datetimeevents,225353,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225354,SNOMED/82936005,4305794,Introduction of catheter into pulmonary artery
+gcpt_proc_datetimeevents,225356,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225367,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225368,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,225369,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225370,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,225372,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225375,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225380,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225383,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225384,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,225385,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225386,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,225390,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225391,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225392,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225393,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225394,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225396,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225753,SNOMED/735414004,42536500,Insertion of catheter into peripheral vein
+gcpt_proc_datetimeevents,225754,SNOMED/735414004,42536500,Insertion of catheter into peripheral vein
+gcpt_proc_datetimeevents,225755,SNOMED/735414004,42536500,Insertion of catheter into peripheral vein
+gcpt_proc_datetimeevents,225756,SNOMED/735414004,42536500,Insertion of catheter into peripheral vein
+gcpt_proc_datetimeevents,225757,SNOMED/735414004,42536500,Insertion of catheter into peripheral vein
+gcpt_proc_datetimeevents,225758,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,225762,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225763,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225765,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225766,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,225769,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,226126,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,226132,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227126,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227197,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227198,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227199,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227361,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227541,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227542,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227584,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227720,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227721,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,227722,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,227724,SNOMED/265546000,4141149,Open insertion of central venous catheter
+gcpt_proc_datetimeevents,227729,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,228160,SNOMED/64253000,4275142,Implantation of heart assist system
+gcpt_proc_datetimeevents,228165,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,228166,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,228168,SNOMED/64253000,4275142,Implantation of heart assist system
+gcpt_proc_datetimeevents,228207,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,228209,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,228215,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,228218,SNOMED/276272002,4078442,Catheter procedure
+gcpt_proc_datetimeevents,228221,SNOMED/276272002,4078442,Catheter procedure
+gcpt_obs_drgcodes,Abdominal Pain,SNOMED/21522001,200219,Abdominal pain
+gcpt_obs_drgcodes,Acute Leukemia,SNOMED/91855006,138708,Acute leukemia
+gcpt_obs_drgcodes,Acute Major Eye Infections,SNOMED/128351009,4134613,Eye infection
+gcpt_obs_drgcodes,Acute Myocardial Infarction,SNOMED/57054005,312327,Acute myocardial infarction
+gcpt_obs_drgcodes,Acute & Subacute Endocarditis,SNOMED/194921005,4108805,Acute and subacute endocarditis
+gcpt_obs_drgcodes,Alcoholic Liver Disease,SNOMED/41309000,201612,Alcoholic liver damage
+gcpt_obs_drgcodes,Allergic Reactions,SNOMED/419076005,40589905,Allergic reaction
+gcpt_obs_drgcodes,Cardiomyopathy,SNOMED/85898001,321319,Cardiomyopathy
+gcpt_obs_drgcodes,Heart Failure,SNOMED/84114007,316139,Heart failure
+gcpt_obs_drgcodes,Intestinal Obstruction,SNOMED/81060008,193518,Intestinal obstruction
+gcpt_obs_drgcodes,Transurethral Prostatectomy,SNOMED/90199006,4234536,Transurethral prostatectomy
+gcpt_meas_waveforms,GLOBAL HEART RATE,LOINC/8867-4,3027018,Heart rate
+gcpt_meas_waveforms,GLOBAL PR INT,LOINC/8625-6,3007794,P-R Interval
+gcpt_meas_waveforms,GLOBAL QRS AXIS,LOINC/8632-2,3006277,QRS axis
+gcpt_meas_waveforms,GLOBAL QRS Dur,LOINC/8633-0,3022022,QRS duration
+gcpt_meas_waveforms,GLOBAL QT,LOINC/8634-8,3025809,Q-T interval
+gcpt_meas_waveforms,GLOBAL QTc,LOINC/8636-3,3026258,Q-T interval corrected
+gcpt_meas_waveforms,HR [bpm],LOINC/8867-4,3027018,Heart rate
+gcpt_meas_waveforms,RR [rpm],LOINC/8637-1,3013078,R-R interval by EKG
+gcpt_meas_waveforms,SpO2 [%],LOINC/20564-1,3013502,Oxygen saturation in Blood
+gcpt_meas_waveforms,QT [msec],LOINC/8634-8,3025809,Q-T interval
+gcpt_meas_waveforms,QTc [msec],LOINC/8636-3,3026258,Q-T interval corrected
+gcpt_meas_waveforms,btbHR [bpm],LOINC/8867-4,3027018,Heart rate
+gcpt_meas_waveforms,Pulse (SpO2) [bpm],SNOMED/252465000,4098046,Pulse oximetry
